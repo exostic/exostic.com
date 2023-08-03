@@ -1,7 +1,8 @@
 ---
 import { SITE_CONFIG } from '~/utils/config';
+import { Image } from '@astrojs/image/components';
 ---
 
 <span class="self-center ml-2 text-2xl md:text-xl font-bold text-gray-900 whitespace-nowrap dark:text-white">
-	<img src="/src/assets/images/logo.png" class="w-32" />
+	<Image src={import('~/assets/images/logo.png')} class="w-32" alt="logo-exostic" />
 </span>

@@ -5,10 +5,9 @@ metadata:
   name: exostic-com
 spec:
   ports:
-    - name: 8080-tcp
-      port: 8080
+    - name: http
+      port: 80
       protocol: TCP
       targetPort: 8080
   selector:
     com.docker.project: exostic-com
-  type: LoadBalancer

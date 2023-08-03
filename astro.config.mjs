@@ -37,9 +37,7 @@ export default defineConfig({
       },
     }),
     sitemap(),
-    image({
-      serviceEntryPoint: '@astrojs/image/sharp',
-    }),
+    image(),
     mdx(),
     icon({
       include: {

@@ -18,7 +18,7 @@ spec:
         com.docker.project: exostic-com
     spec:
       containers:
-        - image: exostic.com
+        - image: exostic/exostic.com:new
           name: exostic-com
           ports:
             - containerPort: 8080
