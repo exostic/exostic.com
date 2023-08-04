@@ -24,7 +24,7 @@ const { language, textDirection } = I18N_CONFIG;
 ---
 
 <!DOCTYPE html>
-<html lang={language} dir={textDirection} class="2xl:text-[20px]">
+<html lang={language} dir={textDirection} class="2xl:text-[20px] overflow-x-hidden">
 
   <head>
     <CommonMeta />
@@ -36,7 +36,7 @@ const { language, textDirection } = I18N_CONFIG;
     <Analytics />
   </head>
 
-  <body class="antialiased text-default bg-page tracking-tight">
+  <body class="antialiased text-default bg-page tracking-tight w-screen overflow-x-hidden">
     <slot />
 
     <BasicScripts />
