@@ -1,0 +1,45 @@
+---
+import Layout from '~/layouts/PageLayout.astro';
+import { Image } from '@astrojs/image/components';
+import { MetaData } from '~/types';
+import '~/assets/styles/resume.css'
+
+export interface Props {
+  frontmatter: {
+    title?: string
+    subtitle?: string
+    picture: string | any 
+  }
+}
+
+const { frontmatter } = Astro.props;
+
+const metadata: MetaData = {
+  title: frontmatter?.title,
+  subtitle: frontmatter?.subtitle,
+  picture: frontmatter?.picture
+};
+---
+<Layout metadata={metadata}>
+  <section class="px-4 py-16 sm:px-6 mx-auto lg:px-8 lg:py-20 max-w-4xl ">
+    <div class="flex flex-row justify-between	">
+      <div class="flex-initial">
+        <h1 class="font-bold font-heading text-4xl md:text-5xl leading-tighter tracking-tighter">{frontmatter.title}</h1>
+        <h2 class="text-primary mt-1 font-bold font-heading text-3xl md:text-3xl leading-tighter tracking-tighter">{frontmatter.subtitle}</h2>
+        <br />
+        <a class="btn btn-primary ml-2 py-1.5 px-2 md:px-3 font-semibold border-slate-100 shadow-none text-xs" href="tel:+33678149681" target="_black">+33678148681</a>
+        <a class="btn btn-primary ml-2 py-1.5 px-2 md:px-3 font-semibold border-slate-100 shadow-none text-xs" href="mailto:jeremy@exostic.com" target="_black">jeremy@exostic.com</a>
+        <a class="btn btn-primary ml-2 py-1.5 px-2 md:px-3 font-semibold border-slate-100 shadow-none text-xs" href="https://exostic.com" target="_black">exostic.com</a>
+        <button class="print-window btn ml-2 py-1.5 px-2 md:px-3 font-semibold border-slate-100 shadow-none text-xs" >Imprimer le CV</button>
+      </div>
+      <div class="flex-initial">
+        <img class="w-44 my-3 rounded-full" src={frontmatter.picture}>
+      </div>
+    </div>
+    <div
+      class="mx-auto prose prose-lg max-w-4xl dark:prose-invert dark:prose-headings:text-slate-300 prose-md prose-headings:font-heading prose-headings:leading-tighter prose-headings:tracking-tighter prose-headings:font-bold prose-a:text-blue-600 dark:prose-a:text-blue-400 prose-img:rounded-md prose-img:shadow-lg mt-8"
+    >
+      <slot />
+    </div>
+  </section>
+</Layout>

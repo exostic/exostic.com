@@ -35,6 +35,10 @@ import { UI_CONFIG } from '~/utils/config';
     let lastKnownScrollPosition = window.scrollY;
     let ticking = true;
 
+    attachEvent('.print-window', 'click', function () {
+      window.print();
+    });
+
     attachEvent('#header nav', 'click', function () {
       document.querySelector("[data-aw-toggle-menu]")?.classList.remove("expanded");
       document.body.classList.remove("overflow-hidden");
@@ -130,4 +134,5 @@ import { UI_CONFIG } from '~/utils/config';
     document.getElementById("header")?.classList.remove("expanded");
     document.querySelector("#header nav")?.classList.add("hidden");
   };
+
 </script>
