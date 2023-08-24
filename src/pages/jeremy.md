@@ -41,7 +41,7 @@ picture: '/jeremy-gay.jpg'
 #### Réalisations
 
 - Amélioration du système de paiement
-- Création de workshop pour les développeur
+- Création de workshop pour les développeurs
 - Amélioration de pipeline de déploiement continue
 - Data Engineering
 - Création/Management de machines à café connectées
@@ -55,7 +55,7 @@ picture: '/jeremy-gay.jpg'
 
 #### Environnement technique
 
-- TypeScrypt, React Native, ReactJS, Jest, Cypress, NodeJS, GraphQL, Apollo, Kubernetes, Docker, Atomic Design, MongoDB, PostgreSQL, Redis, Python, DBT, Metabase
+- TypeScrypt, React Native, Expo, ReactJS, Atomic Design, Jest, Cypress, NodeJS, GraphQL, Apollo, Kubernetes, Docker, Digital Ocean, GitHub Actions, Bash, MongoDB, PostgreSQL, Redis, Python, DBT, Metabase, Graphana, Prometheus, OpenTelemetry
 
 ### Développeur/DevOps chez **PRELIGENS**
 
