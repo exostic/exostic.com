@@ -41,7 +41,6 @@ import { UI_CONFIG } from '~/utils/config';
 
     attachEvent('#header nav', 'click', function () {
       document.querySelector("[data-aw-toggle-menu]")?.classList.remove("expanded");
-      document.body.classList.remove("overflow-hidden");
       document.getElementById("header")?.classList.remove("h-screen");
       document.querySelector("#header nav")?.classList.add("hidden");
       document.querySelector("main")?.classList.remove("hidden"); 
@@ -50,7 +49,6 @@ import { UI_CONFIG } from '~/utils/config';
     });
 
     attachEvent('[data-aw-toggle-menu]', 'click', function () {
-      document.body.classList.toggle("overflow-hidden");
       document.getElementById("header")?.classList.toggle("h-screen");
       document.getElementById("header")?.classList.toggle("expanded");
       document.getElementById("header")?.classList.toggle("bg-page");

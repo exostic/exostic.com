@@ -19,8 +19,6 @@
 
 .exostic-blur-background {
   border-radius: 0;
-
-  /* box-shadow: 0 4px 30px rgb(28 164 242 / 10%) !important; */
   backdrop-filter: blur(10px);
   background-color: #3333 !important;
   border: none;
