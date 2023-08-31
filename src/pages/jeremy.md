@@ -9,7 +9,7 @@ picture: '/jeremy-gay.jpg'
 
 ### Compétences techniques
 
-- **Développement:** DDD, TDD, Programmation Orientée Objet, Architecture, Tests Unitaires, Tests d'intégration
+- **Développement:** DDD, TDD, Programmation Orientée Objet, Clean Architecture, Architecture Hexagonale, Event Sourcing, CQRS, MVC , Tests Unitaires, Tests d'intégration
 - **Frontend Web:** ReactJS, HTML5, API Canvas, API Son, WebRTC, WebSocket, CSS/CSS3, Responsive Design, Sass, Less, Webpack
 - **Frontend Mobile:** React Native, Expo, Déploiement IOS, Déploiement Android,
 - **Backend:** NodeJS, Express, NestJS, GraphQL, NextJS, Hasura
@@ -29,6 +29,8 @@ picture: '/jeremy-gay.jpg'
 - **Français**: Natif
 - **Anglais**: Écrit, lu, parlé
 - **Espagnole**: Lu
+
+<div class="page-break-before"></div>
 
 ## Expériences
 
@@ -74,6 +76,8 @@ picture: '/jeremy-gay.jpg'
 
 - Git, Github, Bash, Python, Docker, Docker Swarm, Traefik, AWS (VPC, EC2, DynamoDB, S3), Terraform, Kibana, ElasticSearch, Tor proxy
 
+<div class="page-break-before"></div>
+
 ### Projet **KIDIZZ** - Développeur/DevOps
 
 #### [kidizz.com](ttps://kidizz.com)
@@ -114,6 +118,8 @@ picture: '/jeremy-gay.jpg'
 #### Environnement technique
 
 - HTML5, Canvas, JavaScript, ReactJS, Plotly, Highcharts, NodeJs, HTTP, MQTT, Lora, Cayenne, IPSO, MySensors, ESP8266, Arduino, C++
+
+<div class="page-break-before"></div>
 
 ### Projet **FREE2MOVE** - Développeur R&D
 
@@ -157,6 +163,8 @@ pour des jeux sous Unity avec backoffice pour thepretender-totalf1.com [https://
 
 - ReactJS, Redux, AngularJS, Webpack, ES6, NodeJS, CasperJS, SpookyJS, MongoDB, WebSockets, Unity, NGINX, Ubuntu
 
+<div class="page-break-before"></div>
+
 ### Développeur-Concepteur-Formateur JavaScript en FREELANCE
 
 #### *De Aout2014 à Juin 2015*
@@ -198,6 +206,8 @@ pour des jeux sous Unity avec backoffice pour thepretender-totalf1.com [https://
 - Programmation MVC, OOP, Ruby On Rails, Gems
 - Côté client : HTML/HTML5, Canvas, JavaScript (OOP), JQuery, RequireJS, KnockoutJS, CSS/CSS3
 - NodeJS, ExpressJS, SocketIO, AngularJS, Redis, Mocha, PassportJS, PhantomJS, NGINX, Linux Debian
+
+<div class="page-break-before"></div>
 
 ### Professeur de Mathématiques et Physique chez ACADOMIA
 
@@ -241,5 +251,5 @@ pour des jeux sous Unity avec backoffice pour thepretender-totalf1.com [https://
 ## Centre d'intérêts
 
 - Voyages
+- Photographie, 
 - Musique (Guitare, Basse)
-- Philosophie
