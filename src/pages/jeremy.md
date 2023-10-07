@@ -57,7 +57,7 @@ picture: '/jeremy-gay.jpg'
 
 #### Environnement technique
 
-- TypeScrypt, React Native, Expo, ReactJS, Atomic Design, Jest, Cypress, NodeJS, GraphQL, Apollo, Kubernetes, Docker, Digital Ocean, GitHub Actions, Bash, MongoDB, PostgreSQL, Redis, Python, DBT, Metabase, Graphana, Prometheus, OpenTelemetry
+- TypeScrypt, React Native, Expo, ReactJS, Atomic Design, Jest, Cypress, NodeJS, GraphQL, Apollo, Kubernetes, Docker, Digital Ocean, GitHub Actions, Bash, MongoDB, PostgreSQL, Redis, Python, DBT, Metabase, Grafana, Prometheus, OpenTelemetry
 
 ### Développeur/DevOps chez **PRELIGENS**
 
