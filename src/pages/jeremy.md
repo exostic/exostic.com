@@ -13,9 +13,10 @@ picture: '/jeremy-gay.jpg'
 - **Frontend Web:** ReactJS, HTML5, API Canvas, API Son, WebRTC, WebSocket, CSS/CSS3, Responsive Design, Sass, Less, Webpack
 - **Frontend Mobile:** React Native, Expo, Déploiement IOS, Déploiement Android,
 - **Backend:** NodeJS, Express, NestJS, GraphQL, NextJS, Hasura
-- **BDD:** MongoDB, Redis, DynamoDB, PostgreSQL, InfluxDB
-- **Securité:** OAuth, JWToken, ACL, IAM, VPN, Private Network, Secrets Managers, IAM
+- **BDD:** MongoDB, Redis, DynamoDB, PostgreSQL, InfluxDB, DynamoDB
+- **Securité:** OAuth, JWToken, ACL, IAM, VPN, Private Network, Secrets Managers, IAM, Keycloak
 - **DevOps:** Git, Gitlab, Github, Kubernetes, Terraform, Helm, Docker, Docker Compose, Docker Swarm, GNU/Linux, CloudFormation, Code Pipeline
+- **Infrastructures:** AWS, OpenShift, OVH, Digital Ocean, Bare Metal 
 - **Amazon Web Services:**  EKS,VPC, Aurora DB, Route53, EC2, Autoscaler, CloudFormation, CloudFront, Lambda, S3, ELB, Amazon Elastic Transcoder
 - **Monitoring:** Prometeus, Grafana, Kibana, CloudWatch, Loki
 - **Protocoles IOT:** LoRa, MQTT, IPSO, Cayenne
@@ -33,6 +34,26 @@ picture: '/jeremy-gay.jpg'
 <div class="page-break-before"></div>
 
 ## Expériences
+
+### Projet **EDF** - Tech Lead
+
+#### [https://www.edf.fr/entreprises](https://www.edf.fr/entreprises)
+
+#### *De novembre 2023 à janvier 2024*
+
+#### Réalisations
+
+- Spécification produit d'un outil de calculs d'empreinte carbone ( Analyse, recherche des facteurs d'émission, règles de calculs, design d'API, cahier des charges fonctionnels )
+- Analyse et définition de l'architecture
+- Mise en place d'un pipeline d'intégration continue et de déploiement continue avec les outils de sécurité et de tests (DevSecOps) 
+- Développement et sécurisation d'une API NodeJS et TypeScript grâce aux principes de clean architecture, DDD et TDD
+- Tests unitaires et tests d'intégration
+- Formation Kubernetes et OpenShift
+- Documentation
+
+#### Environnement technique
+
+- Kubernetes, OpenShift, Trivy, SonarQube, Docker, Gitlab, Gitlab CI/CD, NodeJS, TypeScript, Jest
 
 ### Tech Lead chez **TOTEM**
 
@@ -74,9 +95,8 @@ picture: '/jeremy-gay.jpg'
 
 #### Environnement technique
 
-- Git, Github, Bash, Python, Docker, Docker Swarm, Traefik, AWS (VPC, EC2, DynamoDB, S3), Terraform, Kibana, ElasticSearch, Tor proxy
+- Git, Github, Bash, Python, Docker, Docker Swarm, Traefik, AWS (VPC, EC2, DynamoDB, S3), Terraform, Kibana, ElasticSearch, Tor
 
-<div class="page-break-before"></div>
 
 ### Projet **KIDIZZ** - Développeur/DevOps
 
@@ -110,8 +130,7 @@ picture: '/jeremy-gay.jpg'
 #### Réalisations
 
 - État de l'art du marché de l'loT
-- Définition du besoin, spécifications
-- Qu'est ce qu'un objet?
+- Définition du besoin, spécifications et définiition d'un object connecté
 - Développement d'une plateforme dédiée à la conception d'objets connectées
 - Communication (logo, site web, contenu, animation)
 
@@ -119,7 +138,6 @@ picture: '/jeremy-gay.jpg'
 
 - HTML5, Canvas, JavaScript, ReactJS, Plotly, Highcharts, NodeJs, HTTP, MQTT, Lora, Cayenne, IPSO, MySensors, ESP8266, Arduino, C++
 
-<div class="page-break-before"></div>
 
 ### Projet **FREE2MOVE** - Développeur R&D
 
@@ -140,7 +158,7 @@ télépéages, analyse de contexte liées au différents comportements du conduc
 
 - ReactJS, Redux, NodeJS, NodeRED, Redis, AWS (EC2, Lambda, CloudFormation, Route53, DynamoDB, SNS, VPC, Cognito, ELB), Docker
 
-### CEO et Développeur-Concepteur-Formateur chez EXOSTIC
+### CEO et Tech Lead chez EXOSTIC
 
 #### [exostic.com](https://exostic.com)
 
@@ -150,14 +168,14 @@ télépéages, analyse de contexte liées au différents comportements du conduc
 
 - Formateur à l'IMEI, Centrale Nantes, sociétés privées et mentoring individuel (MongoDB, Linux, Git, ReactJS, CSS, JavaScript)
 - Aide à la création d'entreprise dans le web
-- Développement front-end (ReactJS, Flux) d'un site de traiding de métaux précieux entemps réel: [https://bunker-group.com/](https://bunker-group.com/)
+- Développement front-end (ReactJS, Flux) d'un site de traiding de métaux précieux en temps réel: [https://bunker-group.com/](https://bunker-group.com/)
 - Jeu concours Akkapolis [https://www.artstation.com/artwork/4erL1](https://www.artstation.com/artwork/4erL1)
 - Audit et formation sur AngularJS et JavaScript [https://www.etiskapp.com/](https://www.etiskapp.com/)
 - Création d'un créateur de landing page avec ReactJS, Webpack et ES6 (Architecture Flux) et génération côté serveur (Isomorphique JavaScript)
 - Création, mise en place et administration d'un serveur de gestion de serveurs WebSockets permettant de connecter un smartphone comme manette
 pour des jeux sous Unity avec backoffice pour thepretender-totalf1.com [https://pauletalex.dunked.com/total-the-pretender](https://pauletalex.dunked.com/total-the-pretender)
 - Création d'un crawler de site pour du growth hacking
-- Création de EXOSTIC SAS
+- Création et administration de EXOSTIC SAS
 
 #### Environnement technique
 
