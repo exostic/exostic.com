@@ -9,19 +9,19 @@ picture: '/jeremy-gay.jpg'
 
 ### Compétences techniques
 
-- **Développement:** DDD, TDD, Programmation Orientée Objet, Clean Architecture, Architecture Hexagonale, Event Sourcing, CQRS, MVC , Tests Unitaires, Tests d'intégration
+- **Développement:** DDD, TDD, Programmation Orientée Objet, Clean Architecture, Architecture Hexagonale, Event Sourcing, CQRS, MVC, Tests Unitaires, Tests d'intégration
 - **Frontend Web:** ReactJS, HTML5, API Canvas, API Son, WebRTC, WebSocket, CSS/CSS3, Responsive Design, Sass, Less, Webpack
 - **Frontend Mobile:** React Native, Expo, Déploiement IOS, Déploiement Android,
 - **Backend:** NodeJS, Express, NestJS, GraphQL, NextJS, Hasura
 - **BDD:** MongoDB, Redis, DynamoDB, PostgreSQL, InfluxDB, DynamoDB
 - **Securité:** OAuth, JWToken, ACL, IAM, VPN, Private Network, Secrets Managers, IAM, Keycloak
 - **DevOps:** Git, Gitlab, Github, Kubernetes, Terraform, Helm, Docker, Docker Compose, Docker Swarm, GNU/Linux, CloudFormation, Code Pipeline
-- **Infrastructures:** AWS, OpenShift, OVH, Digital Ocean, Bare Metal 
+- **Infrastructures:** AWS, OpenShift, OVH, Digital Ocean, Bare Metal
 - **Amazon Web Services:**  EKS,VPC, Aurora DB, Route53, EC2, Autoscaler, CloudFormation, CloudFront, Lambda, S3, ELB, Amazon Elastic Transcoder
 - **Monitoring:** Prometeus, Grafana, Kibana, CloudWatch, Loki
 - **Protocoles IOT:** LoRa, MQTT, IPSO, Cayenne
-- **Langages:** TypeScript, JavaScript, Bash, Python, Ruby On Rails, Rust, C, C++
-- **Servers:** Nginx, Apache, Traefik, FastAPI, Express
+- **Langages:** TypeScript, JavaScript, Bash, Python, Julia, Ruby On Rails, Rust, C, C++
+- **Servers:** Nginx, Apache, Traefik, FastAPI, ExpressJS
 - **Data:** Metabase, DBT, Workflows
 - **Administration Linux**
 
@@ -39,23 +39,64 @@ picture: '/jeremy-gay.jpg'
 
 #### [https://www.edf.fr/entreprises](https://www.edf.fr/entreprises)
 
-#### *De novembre 2023 à janvier 2024*
+#### *De novembre 2023 à aujourd'hui*
 
 #### Réalisations
 
-- Spécification produit d'un outil de calculs d'empreinte carbone ( Analyse, recherche des facteurs d'émission, règles de calculs, design d'API, cahier des charges fonctionnels )
+- Spécification produit ( Analyse, recherche des facteurs d'émission, règles de calculs, design d'API, cahier des charges fonctionnels )
 - Analyse et définition de l'architecture
-- Mise en place d'un pipeline d'intégration continue et de déploiement continue avec les outils de sécurité et de tests (DevSecOps) 
+- Mise en place d'un pipeline d'intégration continue et de déploiement continue avec les outils de sécurité et de tests (DevSecOps)
 - Développement et sécurisation d'une API NodeJS et TypeScript grâce aux principes de clean architecture, DDD et TDD
 - Tests unitaires et tests d'intégration
 - Formation Kubernetes et OpenShift
 - Documentation
+- Scripts et analyses Big Data
 
 #### Environnement technique
 
-- Kubernetes, OpenShift, Trivy, SonarQube, Docker, Gitlab, Gitlab CI/CD, NodeJS, TypeScript, Jest
+- Kubernetes, OpenShift, Trivy, SonarQube, Docker, Gitlab, AWS, Gitlab CI/CD, NodeJS, TypeScript, Python, Jest
 
-### Tech Lead chez **TOTEM**
+### Projet **Enedis** - Ingénieur Logiciel
+
+#### [https://www.enedis.fr](https://www.enedis.fr)
+
+#### *De juillet 2024 à aout 2024*
+
+#### Réalisations
+
+- Création d'un tableau de bord d'analyse
+- Réalisation de simulations à base d'agents
+- Lien entre l'analyse et la simulation
+
+#### Environnement technique
+
+- ReactJS, NodeJS, Julia, Agent.jl, Docker, GeoJson, Leaflet, H3, .h5
+
+### CEO et Tech Lead chez EXOSTIC
+
+#### [exostic.com](https://exostic.com)
+
+#### *De juin 2015 à Maintenant*
+
+#### Réalisations
+
+- Formateur à l'IMEI, Centrale Nantes, sociétés privées et mentoring individuel (MongoDB, Linux, Git, ReactJS, CSS, JavaScript)
+- Aide à la création d'entreprise dans le web
+- Consulting pour [https://www.yvea.io](https://www.yvea.io)
+- Développement front-end (ReactJS, Flux) d'un site de traiding de métaux précieux en temps réel: [https://bunker-group.com/](https://bunker-group.com/)
+- Jeu concours Akkapolis [https://www.artstation.com/artwork/4erL1](https://www.artstation.com/artwork/4erL1)
+- Audit et formation sur AngularJS et JavaScript [https://www.etiskapp.com/](https://www.etiskapp.com/)
+- Création d'un créateur de landing page avec ReactJS, Webpack et ES6 (Architecture Flux) et génération côté serveur (Isomorphique JavaScript)
+- Création, mise en place et administration d'un serveur de gestion de serveurs WebSockets permettant de connecter un smartphone comme manette
+  pour des jeux sous Unity avec backoffice pour thepretender-totalf1.com [https://pauletalex.dunked.com/total-the-pretender](https://pauletalex.dunked.com/total-the-pretender)
+- Création d'un crawler de site pour du growth hacking
+- Création et administration de EXOSTIC SAS
+
+#### Environnement technique
+
+- ReactJS, Redux, AngularJS, Webpack, ES6, NodeJS, CasperJS, SpookyJS, MongoDB, WebSockets, Unity, NGINX, Ubuntu
+
+### Tech Lead / Ingenieur Produit chez **TOTEM**
 
 #### [www.totem.co](https://www.totem.co/)
 
@@ -80,7 +121,7 @@ picture: '/jeremy-gay.jpg'
 
 - TypeScrypt, React Native, Expo, ReactJS, Atomic Design, Jest, Cypress, NodeJS, GraphQL, Apollo, Kubernetes, Docker, Digital Ocean, GitHub Actions, Bash, MongoDB, PostgreSQL, Redis, Python, DBT, Metabase, Grafana, Prometheus, OpenTelemetry
 
-### Développeur/DevOps chez **PRELIGENS**
+### Développeur / DevOps chez **PRELIGENS**
 
 #### [preligens.com](https://preligens.com)
 
@@ -97,8 +138,7 @@ picture: '/jeremy-gay.jpg'
 
 - Git, Github, Bash, Python, Docker, Docker Swarm, Traefik, AWS (VPC, EC2, DynamoDB, S3), Terraform, Kibana, ElasticSearch, Tor
 
-
-### Projet **KIDIZZ** - Développeur/DevOps
+### Projet **KIDIZZ** - Développeur / DevOps
 
 #### [kidizz.com](ttps://kidizz.com)
 
@@ -138,8 +178,7 @@ picture: '/jeremy-gay.jpg'
 
 - HTML5, Canvas, JavaScript, ReactJS, Plotly, Highcharts, NodeJs, HTTP, MQTT, Lora, Cayenne, IPSO, MySensors, ESP8266, Arduino, C++
 
-
-### Projet **FREE2MOVE** - Développeur R&D
+### Projet **FREE2MOVE** - Développeur / Ingénieur R&D
 
 #### [www.free2move.com](https://www.free2move.com/)
 
@@ -149,7 +188,7 @@ picture: '/jeremy-gay.jpg'
 
 - Spécification/Conception/Développement d'une platforme de gestion de services IoT en temps réel appliquée aux vehicules
 - Création de services de mobilité en temps réel utilisables dans la plateforme (ex :réservation de parking dans les vehicules, utilisations du
-télépéages, analyse de contexte liées au différents comportements du conducteur, problèmatiques de sécurité liées à l'utilisation des écrans dans les habitacles)
+  télépéages, analyse de contexte liées au différents comportements du conducteur, problèmatiques de sécurité liées à l'utilisation des écrans dans les habitacles)
 - Ergonomie et développement des interfaces embarquées dans les vehicules
 - Création d'un système de facturation et de paiement "on the fly" (mobile et car embedded)
 - Développement en architecture microservices et serverless AWS
@@ -158,30 +197,6 @@ télépéages, analyse de contexte liées au différents comportements du conduc
 
 - ReactJS, Redux, NodeJS, NodeRED, Redis, AWS (EC2, Lambda, CloudFormation, Route53, DynamoDB, SNS, VPC, Cognito, ELB), Docker
 
-### CEO et Tech Lead chez EXOSTIC
-
-#### [exostic.com](https://exostic.com)
-
-#### *De juin 2015 à Maintenant*
-
-#### Réalisations
-
-- Formateur à l'IMEI, Centrale Nantes, sociétés privées et mentoring individuel (MongoDB, Linux, Git, ReactJS, CSS, JavaScript)
-- Aide à la création d'entreprise dans le web
-- Développement front-end (ReactJS, Flux) d'un site de traiding de métaux précieux en temps réel: [https://bunker-group.com/](https://bunker-group.com/)
-- Jeu concours Akkapolis [https://www.artstation.com/artwork/4erL1](https://www.artstation.com/artwork/4erL1)
-- Audit et formation sur AngularJS et JavaScript [https://www.etiskapp.com/](https://www.etiskapp.com/)
-- Création d'un créateur de landing page avec ReactJS, Webpack et ES6 (Architecture Flux) et génération côté serveur (Isomorphique JavaScript)
-- Création, mise en place et administration d'un serveur de gestion de serveurs WebSockets permettant de connecter un smartphone comme manette
-pour des jeux sous Unity avec backoffice pour thepretender-totalf1.com [https://pauletalex.dunked.com/total-the-pretender](https://pauletalex.dunked.com/total-the-pretender)
-- Création d'un crawler de site pour du growth hacking
-- Création et administration de EXOSTIC SAS
-
-#### Environnement technique
-
-- ReactJS, Redux, AngularJS, Webpack, ES6, NodeJS, CasperJS, SpookyJS, MongoDB, WebSockets, Unity, NGINX, Ubuntu
-
-<div class="page-break-before"></div>
 
 ### Développeur-Concepteur-Formateur JavaScript en FREELANCE
 
@@ -225,7 +240,6 @@ pour des jeux sous Unity avec backoffice pour thepretender-totalf1.com [https://
 - Côté client : HTML/HTML5, Canvas, JavaScript (OOP), JQuery, RequireJS, KnockoutJS, CSS/CSS3
 - NodeJS, ExpressJS, SocketIO, AngularJS, Redis, Mocha, PassportJS, PhantomJS, NGINX, Linux Debian
 
-<div class="page-break-before"></div>
 
 ### Professeur de Mathématiques et Physique chez ACADOMIA
 
@@ -269,5 +283,5 @@ pour des jeux sous Unity avec backoffice pour thepretender-totalf1.com [https://
 ## Centre d'intérêts
 
 - Voyages
-- Photographie, 
+- Photographie
 - Musique (Guitare, Basse)
