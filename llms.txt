@@ -1,0 +1,45 @@
+# Exostic
+
+> Exostic est une société française d'ingénierie produit, logicielle et système (SAS, Châtelaillon-Plage, Charente-Maritime), fondée en 2015 par Jérémy Gay. Elle accompagne grands groupes, PME et startups : organisation, architecture fullstack, DevOps et méthodes agiles.
+> Exostic is a French product, software and system engineering company (SAS, Châtelaillon-Plage, France), founded in 2015 by Jérémy Gay. It helps large companies, SMEs and startups with organization, fullstack architecture, DevOps and agile methods.
+
+Site bilingue : le français est la langue principale (https://exostic.com/), une version anglaise est disponible (https://exostic.com/en/). Le contenu complet des pages est disponible en Markdown dans https://exostic.com/llms-full.txt.
+
+## Pages
+
+- [Accueil (FR)](https://exostic.com/): services, domaines métier, solutions (fullstack, DevOps, agile) et technologies.
+- [Home (EN)](https://exostic.com/en/): services, business domains, solutions (fullstack, DevOps, agile) and technologies.
+- [CV de Jérémy Gay (FR)](https://exostic.com/fr/jeremy_gay): Tech Lead / Développeur Sénior, fondateur d'Exostic — compétences, expériences, formation.
+- [Jérémy Gay's resume (EN)](https://exostic.com/en/jeremy_gay): Tech Lead / Senior Developer, founder of Exostic — skills, experience, education.
+
+## Services
+
+- Organisation : approche digitale sur-mesure pour placer les projets au cœur de la stratégie.
+- Équipe : recrutement, encadrement et montée en compétences d'équipes techniques.
+- Clients : écoute des besoins clients sans perdre de vue les objectifs.
+- Produit : transformation d'un besoin métier en solution logicielle pilotée par des KPI.
+- Logiciel : conception de fonctionnalités durables pour les utilisateurs.
+- Système : conception, évolution et supervision des systèmes.
+
+## Domaines métier
+
+Logistique, e-commerce, jeux vidéo, Internet des objets (IoT), apprentissage / éducation, réseaux sociaux, Big Data, ressources humaines, défense (OSINT, GEOINT, cartographie, détection par IA).
+
+## Solutions
+
+- Développement fullstack : architecture, back-end (APIs, bases de données, sécurité), front-end (interfaces, expérience utilisateur).
+- Méthodologie DevOps : collaboration dev/ops, automatisation (tests, déploiement, supervision, infrastructure), amélioration continue.
+- Organisation agile : itérations courtes et livraisons incrémentales, adaptation au changement, collaboration active.
+
+## Contact
+
+- Email : contact@exostic.com
+- Téléphone : +33 9 72 17 03 63
+- Prise de rendez-vous (30 min) : https://calendly.com/jeremy-exostic/30min
+- Adresse : 16 Impasse du Chêne Vert, 17340 Châtelaillon-Plage, France
+- Identité : EXOSTIC, SAS au capital de 2 501 €, SIRET 812 086 965 00041, TVA FR80 812086965
+
+## Optional
+
+- [Sitemap](https://exostic.com/sitemap.xml)
+- [robots.txt](https://exostic.com/robots.txt)

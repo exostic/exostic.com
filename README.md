@@ -19,6 +19,11 @@ No framework, no build step: the repository root **is** the site. Edit the HTML,
 | `assets/js/site.js` | Header shadow on scroll, mobile menu, print button |
 | `assets/img/` | Pre-optimised WebP images at the widths used by `srcset` |
 | `assets/fonts/` | Self-hosted Inter Variable (latin subset) |
+| `robots.txt` | Allows all crawlers, with an explicit section for AI bots (GPTBot, ClaudeBot, PerplexityBot…) |
+| `llms.txt`, `llms-full.txt` | Summary and full Markdown content of the site for LLMs ([llmstxt.org](https://llmstxt.org)). `llms-full.txt` is generated from the pages: regenerate it when content changes |
+| `sitemap.xml` | Sitemap with `hreflang` alternates and `lastmod` |
+
+Each page also embeds JSON-LD structured data (Organization / ProfessionalService, Person, WebSite, WebPage or ProfilePage).
 
 GitHub Pages serves `fr/jeremy_gay.html` at `/fr/jeremy_gay`, so the historical URLs keep working.
 

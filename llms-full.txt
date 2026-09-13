@@ -1,0 +1,914 @@
+# Exostic — contenu complet du site / full site content
+
+Source : https://exostic.com — voir aussi https://exostic.com/llms.txt
+
+---
+
+<!-- Accueil (FR) — https://exostic.com/ -->
+
+# Ingénierie Produit, Software et Système
+
+Concevez un produit solide grâce à des méthodes rigoureuses, pensées pour répondre aux besoins réels de vos clients.
+
+Services
+
+## Notre savoir-faire
+
+Une expertise forgée en 10 ans de projets menés pour tout type de structure : grands groupes, PME et startups.
+
+### Organisation
+
+Placez vos projets au cœur de votre stratégie grâce à une approche digitale sur-mesure.
+
+### Équipe
+
+Recrutez, encadrez et faites grandir des équipes capables de répondre à vos enjeux techniques.
+
+### Clients
+
+Restez à l'écoute de vos clients pour répondre précisément à leurs besoins, sans jamais perdre vos objectifs de vue.
+
+### Produit
+
+Transformez un besoin métier en solution logicielle concrète, pilotée par vos KPI.
+
+### Logiciel
+
+Concevez des fonctionnalités qui satisfont durablement vos utilisateurs, dans la durée.
+
+### Système
+
+Concevez, faites évoluer et supervisez vos systèmes à chaque étape du projet.
+
+Domaines
+
+## Votre métier
+
+Votre métier est la pierre angulaire de toute conception logicielle. En comprenant votre domaine en profondeur, nous construisons des solutions qui répondent avec précision à vos enjeux.
+
+### Logistique
+
+Gestion des stocks, des entrepôts et des tournées de livraison, prévisions d'approvisionnement et pilotage des commandes fournisseurs.
+
+### E-commerce
+
+Catalogue produits, comptes utilisateurs multi-moyens de paiement, gestion des prix et des promotions.
+
+### Jeux vidéo
+
+Lobby, joueurs, règles du jeu et scores : conception de l'interface, de l'expérience utilisateur et du game design.
+
+### Internet of Things
+
+Capteurs, terminaux, nœuds réseau (gateways, répéteurs), widgets de restitution et gestion du temps réel.
+
+### Apprentissage
+
+Serious games, contenus de vulgarisation, outils de partage de connaissances, dans le respect des contraintes de l'Éducation nationale.
+
+### Réseaux sociaux
+
+Scalabilité, gestion des fils d'actualité, authentification et gestion des profils utilisateurs.
+
+### Big Data
+
+Data warehouses, scalabilité, visualisation, modélisation et gestion des bases de données.
+
+### Ressources humaines
+
+Qualification des besoins et des profils, matching et sourcing de candidats.
+
+### Défense
+
+OSINT, GEOINT, cartographie et détection par intelligence artificielle.
+
+### Votre métier...
+
+Découverte de votre domaine métier : concepts, processus, cas d'usage et événements clés.
+
+## Un projet en tête ?
+
+Discutons de votre besoin en 30 minutes, sans engagement.
+
+Solutions
+
+## Au cœur de la solution
+
+### Développement Fullstack
+
+### Architecture FULLSTACK
+
+Concevoir une architecture cohérente pour l'application, définir les interactions entre frontend et backend, et choisir les technologies adaptées pour garantir une intégration fluide et une communication efficace entre les composants.
+
+### Programmation BACK-END
+
+Le back-end porte la logique métier, la gestion des données et le traitement des requêtes serveur : création d'APIs, administration des bases de données et sécurisation des accès.
+
+### Programmation FRONT-END
+
+Le front-end façonne l'interface avec laquelle vos utilisateurs interagissent : conception des pages, fonctionnalités interactives et expérience utilisateur, pour un résultat à la fois intuitif et attrayant.
+
+![Illustration du développement fullstack](/assets/img/caos-400.webp)
+
+### Méthodologie DevOps
+
+### Collaboration étroite entre développement et opérations
+
+Nous encourageons une communication transparente entre équipes de développement et d'exploitation, pour effacer les silos traditionnels et adopter une approche globale du développement, du déploiement et de la gestion des applications.
+
+### Automatisation des processus
+
+Nous automatisons les tâches répétitives à chaque étape du cycle de développement : tests, déploiement, supervision et gestion des infrastructures, pour livrer plus vite et avec plus de qualité.
+
+### Amélioration continue
+
+Nous cultivons une démarche d'amélioration continue, appuyée sur les retours d'expérience et l'analyse des performances. Les équipes identifient rapidement les problèmes et les axes d'amélioration, pour itérer efficacement et livrer des produits de haute qualité.
+
+![Illustration de la méthodologie DevOps](/assets/img/devops-400.webp)
+
+### Organisation Agile
+
+### Itérations et livraisons incrémentales
+
+Nous travaillons par itérations courtes et régulières. Chacune livre une version fonctionnelle du produit, pour obtenir rapidement des retours utilisateurs et ajuster les priorités en conséquence.
+
+### Flexibilité et adaptation aux changements
+
+Plutôt que de figer un plan détaillé en début de projet, nous restons prêts à faire face à l'évolution des exigences, des priorités et des contraintes, en réévaluant continuellement notre approche pour maximiser la valeur livrée.
+
+### Collaboration et communication active
+
+Nous collaborons étroitement avec l'équipe et les parties prenantes. Une communication active et transparente permet de mieux comprendre les besoins du client et d'obtenir des retours réguliers tout au long du développement, pour un engagement de tous et une vision partagée des objectifs.
+
+![Illustration de l'organisation agile](/assets/img/remote-400.webp)
+
+Technologies
+
+## Le temps de l'exécution
+
+![Technologies maîtrisées par Exostic : langages, frameworks et outils](/assets/img/technos-768.webp)
+
+---
+
+<!-- CV Jérémy Gay (FR) — https://exostic.com/fr/jeremy_gay -->
+
+# Jérémy Gay
+
+## Tech Lead / Développeur Sénior
+
+![Portrait de Jérémy Gay](/assets/img/jeremy-gay.jpg)
+
+## Résumé des compétences
+
+### Compétences techniques
+
+- Développement: DDD, TDD, Programmation Orientée Objet, Clean Architecture, Architecture Hexagonale, Event Sourcing, CQRS, MVC, Tests Unitaires, Tests d'intégration
+- Frontend Web: ReactJS, VueJS, HTML5, API Canvas, API Son, WebRTC, WebSocket, CSS/CSS3, Responsive Design, Sass, Less, Webpack
+- Frontend Mobile: React Native, Ionic, Expo, Capacitor, Déploiement IOS, Déploiement Android,
+- Backend: NodeJS, Express, NestJS, GraphQL, NextJS, Hasura
+- BDD: MongoDB, Redis, DynamoDB, PostgreSQL, InfluxDB, DynamoDB
+- Securité: OAuth, JWToken, ACL, IAM, VPN, Private Network, Secrets Managers, IAM, Keycloak
+- DevOps: Git, Gitlab, Github, Kubernetes, Terraform, Helm, Docker, Docker Compose, Docker Swarm, GNU/Linux, CloudFormation, Code Pipeline
+- Infrastructures: AWS, OpenShift, OVH, Digital Ocean, Bare Metal
+- Amazon Web Services: EKS,VPC, Aurora DB, Route53, EC2, Autoscaler, CloudFormation, CloudFront, Lambda, S3, ELB, Amazon Elastic Transcoder
+- Monitoring: Prometeus, Grafana, Kibana, CloudWatch, Loki
+- Protocoles IOT: LoRa, MQTT, IPSO, Cayenne
+- Langages: TypeScript, JavaScript, Bash, Python, Julia, Ruby On Rails, Rust, C, C++
+- Servers: Nginx, Apache, Traefik, FastAPI, ExpressJS
+- Data: Metabase, DBT, Workflows, Google Cloud Dataflow, Apache Airflow, Looker
+- Administration Linux
+
+### Langues
+
+- Français: Natif
+- Anglais: Écrit, lu, parlé
+- Espagnol: Lu
+
+## Expériences
+
+### Senior Data Engineer chez Shine
+
+#### https://www.shine.fr (https://www.shine.fr)
+
+#### De avril 2025 à aujourd'hui
+
+#### Réalisations
+
+- Projets data et développement en environnement bancaire
+
+#### Environnement technique
+
+- Google Cloud Dataflow, Apache Airflow, Looker, DBT, Python, TypeScript, Terraform
+
+### Projet Mr Arthur - Ingénieur Logiciel
+
+#### https://mrarthur.io/ (https://mrarthur.io)
+
+#### De décembre 2024 à janvier 2025
+
+#### Réalisations
+
+- Développement de l'application Android avec VueJS, Ionic et Capacitor
+
+### Projet EDF - Tech Lead
+
+#### https://www.edf.fr/entreprises (https://www.edf.fr/entreprises)
+
+#### De novembre 2023 à novembre 2024
+
+#### Réalisations
+
+- Spécification produit (Analyse, recherche des facteurs d'émission, règles de calcul, design d'API, cahier des charges fonctionnel)
+- Analyse et définition de l'architecture
+- Mise en place d'un pipeline d'intégration continue et de déploiement continue avec les outils de sécurité et de tests (DevSecOps)
+- Développement et sécurisation d'une API NodeJS et TypeScript grâce aux principes de clean architecture, DDD et TDD
+- Tests unitaires et tests d'intégration
+- Formation Kubernetes et OpenShift
+- Documentation
+- Scripts et analyses Big Data
+- Recherches sur les API Salesforce et leurs utilisations dans l'intelligence artificielle
+
+#### Environnement technique
+
+- Kubernetes, OpenShift, Trivy, SonarQube, Docker, Gitlab, AWS, Gitlab CI/CD, NodeJS, TypeScript, Python, Jest, Saleforce
+
+### Projet Enedis - Ingénieur Logiciel
+
+#### https://www.enedis.fr (https://www.enedis.fr)
+
+#### De juillet 2024 à septembre 2024
+
+#### Réalisations
+
+- Création d'un tableau de bord d'analyse
+- Réalisation de simulations à base d'agents
+- Lien entre l'analyse et la simulation
+
+#### Environnement technique
+
+- ReactJS, NodeJS, Julia, Agent.jl, Docker, GeoJson, Leaflet, H3, .h5
+
+### CEO et Tech Lead chez EXOSTIC
+
+#### exostic.com (https://exostic.com)
+
+#### De juin 2015 à Maintenant
+
+#### Réalisations
+
+- Formateur à l'IMEI, Centrale Nantes, sociétés privées et mentoring individuel (MongoDB, Linux, Git, ReactJS, CSS, JavaScript)
+- Aide à la création d'entreprise dans le web
+- Consulting pour https://www.yvea.io (https://www.yvea.io)
+- Développement front-end (ReactJS, Flux) d'un site de traiding de métaux précieux en temps réel: https://bunker-group.com/ (https://bunker-group.com/)
+- Jeu concours Akkapolis https://www.artstation.com/artwork/4erL1 (https://www.artstation.com/artwork/4erL1)
+- Audit et formation sur AngularJS et JavaScript https://www.etiskapp.com/ (https://www.etiskapp.com/)
+- Création d'un créateur de landing page avec ReactJS, Webpack et ES6 (Architecture Flux) et génération côté serveur (Isomorphique JavaScript)
+- Création, mise en place et administration d'un serveur de gestion de serveurs WebSockets permettant de connecter un smartphone comme manette pour des jeux sous Unity avec backoffice pour thepretender-totalf1.com https://pauletalex.dunked.com/total-the-pretender (https://pauletalex.dunked.com/total-the-pretender)
+- Création d'un crawler de site pour du growth hacking
+- Création et administration de EXOSTIC SAS
+
+#### Environnement technique
+
+- ReactJS, Redux, AngularJS, Webpack, ES6, NodeJS, CasperJS, SpookyJS, MongoDB, WebSockets, Unity, NGINX, Ubuntu
+
+### Tech Lead / Ingenieur Produit chez TOTEM
+
+#### www.totem.co (https://www.totem.co/)
+
+#### De janvier 2021 à septembre 2022
+
+#### Réalisations
+
+- Amélioration du système de paiement
+- Création de workshop pour les développeurs
+- Amélioration de pipeline de déploiement continue
+- Data Engineering
+- Création/Management de machines à café connectées
+- Management des stocks
+- Peer programming
+- Amélioration d'architecture
+- Développement de l'application mobile
+- Spécification produit
+- Mise en place de monitoring
+- Mise en place de cache
+
+#### Environnement technique
+
+- TypeScrypt, React Native, Expo, ReactJS, Atomic Design, Jest, Cypress, NodeJS, GraphQL, Apollo, Kubernetes, Docker, Digital Ocean, GitHub Actions, Bash, MongoDB, PostgreSQL, Redis, Python, DBT, Metabase, Grafana, Prometheus, OpenTelemetry
+
+### Développeur / DevOps chez PRELIGENS
+
+#### preligens.com (https://preligens.com)
+
+#### De octobre 2020 à décembre 2020
+
+#### Réalisations
+
+- Création d'architecture logiciel Cloud
+- Mise en place d'un environnement de déploiement continue avec Github Actions et Docker Swarm
+- Déploiement d'infrastructure AWS avec Terraform
+- Scripts Python
+
+#### Environnement technique
+
+- Git, Github, Bash, Python, Docker, Docker Swarm, Traefik, AWS (VPC, EC2, DynamoDB, S3), Terraform, Kibana, ElasticSearch, Tor
+
+### Projet KIDIZZ - Développeur / DevOps
+
+#### kidizz.com (https://kidizz.com)
+
+#### De décembre 2018 à septembre 2020
+
+#### Réalisations
+
+- Création d'architecture logiciel Cloud
+- Mise en place d'un environnement de déploiement continue ave Git, Gitlab, Kubernetes, Docker, EKS, AWS
+- Management d'applications NodeJS et Ruby On Rails
+- Création d'Api NodeJS/GraphQl (web/mobile/admin)
+- Déploiement de clusters (Redis, Ruby On Rails, NodeJS)
+- Migration et scalabilité PostgreSQL (Cluster AWS Aurora)
+- Découplage d'une application monolitique en microservices
+- Migration applicative vers un environnement managé cloud AWS sans interruption de service
+- Création d'application de monitoring d'infrastructure K8s (NodeJS, Prometeus, Grafana, Loki)
+- Encodage vidéo (AWS Lamdda, AWS ELastic Transcoder)
+- Sécurité/Réseaux (SSL, Réseau privé, Load Balancers, Outils d'alerte, Gestion des DNS, Antiflood)
+- Déploiement multi AZ / Geo balancing
+
+#### Environnement technique
+
+- Git, Gitlab, Kubernetes, Docker, NodeJS, Auth2 Service, JWT tokens, ACL, Roles management, Ruby On Rails, PostgreSQL, Redis, Bash, AWS (EKS, VPC, Route53, EC2, Autoscaler, CloudFront, Lambda, S3, ELB, Aurora, Amazon Elastic Transcoder, ).
+
+### Projet ALOES - Développeur R&D
+
+#### De janvier 2017 à janvier 2019
+
+#### Réalisations
+
+- État de l'art du marché de l'IoT
+- Définition du besoin, spécifications et définition d'un objet connecté
+- Développement d'une plateforme dédiée à la conception d'objets connectées
+- Communication (logo, site web, contenu, animation)
+
+#### Environnement technique
+
+- HTML5, Canvas, JavaScript, ReactJS, Plotly, Highcharts, NodeJs, HTTP, MQTT, Lora, Cayenne, IPSO, MySensors, ESP8266, Arduino, C++
+
+### Projet FREE2MOVE - Développeur / Ingénieur R&D
+
+#### www.free2move.com (https://www.free2move.com/)
+
+#### De mars 2017 à avril 2018
+
+#### Réalisations
+
+- Spécification/Conception/Développement d'une plateforme de gestion de services IoT en temps réel appliquée aux véhicules
+- Création de services de mobilité en temps réel utilisables dans la plateforme (ex : réservation de parking dans les véhicules, utilisation du télépéage, analyses de contexte liées aux différents comportements du conducteur, problématiques de sécurité liées à l'utilisation des écrans dans les habitacles)
+- Ergonomie et développement des interfaces embarquées dans les vehicules
+- Création d'un système de facturation et de paiement "on the fly" (mobile et car embedded)
+- Développement en architecture microservices et serverless AWS
+
+#### Environnement technique
+
+- ReactJS, Redux, NodeJS, NodeRED, Redis, AWS (EC2, Lambda, CloudFormation, Route53, DynamoDB, SNS, VPC, Cognito, ELB), Docker
+
+### Développeur-Concepteur-Formateur JavaScript en FREELANCE
+
+#### De Aout2014 à Juin 2015
+
+#### Réalisations
+
+- Mise en place de l'architecture d'un framework MVC pour du monitoring en temps réel avec NodeJS, PassportJS, ExpressJS, Angular, Redis via Caminte (ORM cross-db), Mocha et Socket.IO
+- Mise en place d'une activité de formation pour les débutants (demandeur d'emploi, jeune en reconversion, etc) sur la programmation
+- Création d'applications mobiles(type webapps) avec frontend AngularJS et backend NodeJS/MongoDB/ExpressJS/PhantomJS
+- DevOps avec Nginx, synchronisation ftp, cron, mise en place d'https, déploiement continu avec git
+
+#### Environnement technique
+
+- NodeJS, ExpressJS, SocketIO, AngularJS, Redis, Mocha, PassportJS, PhantomJS, NGINX, Linux Debian
+
+### Développeur-Concepteur-Formateur JavaScript/Ruby on Rails chez TOXICODE
+
+#### www.toxicode.fr (https://www.toxicode.fr/)
+
+#### De Février 2012 à Juillet 2014
+
+#### Réalisations
+
+- Développement d'un framework de jeux multijoueurs en temps réel via NodeJS
+- Création d'un jeu d'apprentissage de la programmation à travers l'intelligence et la manipulation de robot
+- Création d'applications multimédias destinées à l'usage dans les écoles (TNI)
+- Formations JavaScript / NodeJs
+- Création d'outils d'administration de site
+- Prestations diverses de création d'applications logiciel (applications de gestion, de jeux, sites vitrines, boutiques en ligne, mobile)
+- Création de vidéos pédagogiques (contenus, montage, diffusion)
+- Mise en place d'articles sur l'explication de la programmation
+
+#### Environnement technique
+
+- Emploi en télétravail sous environnement Mac/Linux.
+- Utilisation de Nodejitsu, Parse.js, Heroku, Git, Mailchimp et de Skype pour le peer programming
+- Git, SSH, FTP, Sublime Text
+- Côté serveur : NodeJS, RequireJS, ExpressJS, Socket.IO, MongoDB, Mocha, SinonJS, PhantomJS
+- Programmation MVC, OOP, Ruby On Rails, Gems
+- Côté client : HTML/HTML5, Canvas, JavaScript (OOP), JQuery, RequireJS, KnockoutJS, CSS/CSS3
+- NodeJS, ExpressJS, SocketIO, AngularJS, Redis, Mocha, PassportJS, PhantomJS, NGINX, Linux Debian
+
+### Professeur de Mathématiques et Physique chez ACADOMIA
+
+#### www.acadomia.fr (https://www.acadomia.fr/)
+
+#### de 2010 à 2011
+
+#### Réalisations
+
+- Accompagnement d'étudiants de la primaire jusqu'au BTS en Mathématiques et Physique
+
+### Stagiaire développeur chez WIMO
+
+#### de juin 2011 à aout 2011
+
+#### Réalisations
+
+- Refonte du site Web
+- Conception et développement d'une aide en ligne pour el logiciel de communication unifié Com-On
+
+### Stagiaire physicien/développeur au LABORATOIRE DE PHYSIQUE THÉORIQUE D'ORSAY
+
+#### de juin 2008 à aout 2008
+
+#### Réalisations
+
+- Création d'un programme en C/C++ simulant les différents scénarios d'inflation à plusieurs champs
+
+#### Environnement technique
+
+- Relativité générale, Cosmologie, C, C++
+
+## Formation
+
+- 2012 Master de création et d'édition numériques Université Paris 8
+- 2010 License de physique fondamentale Université Paris 11
+- 2008 École d'ingénieur matériaux et nanatechnologies INSA Rennes
+- 2007 Math Sup / Math Spé Lycée Léonce Vieljeux La Rochelle
+- 2005 Bac STI Génie Mécanique Lycée Léonce Vieljeux La Rochelle
+
+## Centre d'intérêts
+
+- Voyages
+- Photographie
+- Musique (Guitare, Basse)
+
+---
+
+<!-- Home (EN) — https://exostic.com/en/ -->
+
+# Product Engineering, Software and Systems
+
+Build a solid product with rigorous methods, designed to meet your clients' real needs.
+
+Services
+
+## Our Expertise
+
+Expertise built over 10 years of projects for organizations of every size: large companies, SMEs and startups.
+
+### Organization
+
+Place your projects at the heart of your strategy with a tailored digital approach.
+
+### Team
+
+Recruit, lead and grow teams capable of tackling your technical challenges.
+
+### Clients
+
+Stay attentive to your clients to precisely address their needs, without ever losing sight of your goals.
+
+### Product
+
+Turn a business need into a concrete software solution, driven by your KPIs.
+
+### Software
+
+Design features that keep your users satisfied for the long run.
+
+### System
+
+Design, evolve and oversee your systems at every stage of the project.
+
+Domains
+
+## Your Business
+
+Your business is the cornerstone of any software design. By understanding your domain in depth, we build solutions that precisely address your challenges.
+
+### Logistics
+
+Stock, warehouse and delivery route management, supply forecasting and supplier order tracking.
+
+### E-commerce
+
+Product catalogs, multi-payment-method user accounts, pricing and promotions management.
+
+### Video Games
+
+Lobby, players, game rules and scores: interface design, user experience and game design.
+
+### Internet of Things
+
+Sensors, devices, network nodes (gateways, repeaters), display widgets and real-time management.
+
+### Education
+
+Serious games, educational content, knowledge-sharing tools, in line with national education requirements.
+
+### Social Networks
+
+Scalability, news feed management, authentication and user profile management.
+
+### Big Data
+
+Data warehouses, scalability, visualization, database modeling and management.
+
+### Human Resources
+
+Needs and profile qualification, candidate matching and sourcing.
+
+### Defense
+
+OSINT, GEOINT, mapping and AI-based detection.
+
+### Your business...
+
+Discovery of your business domain: concepts, processes, use cases and key events.
+
+## Have a project in mind?
+
+Let's discuss your needs in a free 30-minute call.
+
+Solutions
+
+## At the Heart of the Solution
+
+### Fullstack Development
+
+### FULLSTACK Architecture
+
+Designing a coherent architecture for the application, defining the interactions between frontend and backend, and choosing the right technologies to ensure smooth integration and efficient communication between components.
+
+### BACK-END Development
+
+The back-end handles business logic, data management and server request processing: building APIs, managing databases and securing access.
+
+### FRONT-END Development
+
+The front-end shapes the interface your users interact with: page design, interactive features and user experience, for a result that's both intuitive and appealing.
+
+![Fullstack development illustration](/assets/img/caos-400.webp)
+
+### DevOps Methodology
+
+### Close Collaboration Between Development and Operations
+
+We foster transparent communication between development and operations teams, breaking down traditional silos and adopting a holistic approach to developing, deploying and managing applications.
+
+### Process Automation
+
+We automate repetitive tasks at every stage of the development cycle: testing, deployment, monitoring and infrastructure management, to deliver faster and with higher quality.
+
+### Continuous Improvement
+
+We cultivate a continuous improvement mindset, backed by feedback loops and performance analysis. Teams quickly identify issues and areas for improvement, iterating efficiently to deliver high-quality products.
+
+![DevOps methodology illustration](/assets/img/devops-400.webp)
+
+### Agile Organization
+
+### Iterations and Incremental Delivery
+
+We work in short, regular iterations. Each one delivers a functional version of the product, allowing us to quickly gather user feedback and adjust priorities accordingly.
+
+### Flexibility and Adaptability to Change
+
+Rather than locking in a detailed plan at the start of a project, we stay ready to adapt to evolving requirements, priorities and constraints, continuously reassessing our approach to maximize delivered value.
+
+### Active Collaboration and Communication
+
+We collaborate closely with the team and stakeholders. Active, transparent communication helps us better understand client needs and gather regular feedback throughout development, fostering engagement from everyone and a shared vision of the goals.
+
+![Agile organization illustration](/assets/img/remote-400.webp)
+
+Technologies
+
+## Time to Execute
+
+![Technologies mastered by Exostic: languages, frameworks and tools](/assets/img/technos-768.webp)
+
+---
+
+<!-- Jérémy Gay resume (EN) — https://exostic.com/en/jeremy_gay -->
+
+# Jérémy Gay
+
+## Tech Lead / Senior Developer
+
+![Portrait of Jérémy Gay](/assets/img/jeremy-gay.jpg)
+
+## Skills Summary
+
+### Technical Skills
+
+- Development: DDD, TDD, Object-Oriented Programming, Clean Architecture, Hexagonal Architecture, Event Sourcing, CQRS, MVC, Unit Testing, Integration Testing
+- Frontend Web: ReactJS, VueJS, HTML5, Canvas API, Audio API, WebRTC, WebSocket, CSS/CSS3, Responsive Design, Sass, Less, Webpack
+- Frontend Mobile: React Native, Ionic, Expo, Capacitor, IOS Deployment, Android Deployment
+- Backend: NodeJS, Express, NestJS, GraphQL, NextJS, Hasura
+- Databases: MongoDB, Redis, DynamoDB, PostgreSQL, InfluxDB, DynamoDB
+- Security: OAuth, JWToken, ACL, IAM, VPN, Private Network, Secrets Managers, IAM, Keycloak
+- DevOps: Git, Gitlab, Github, Kubernetes, Terraform, Helm, Docker, Docker Compose, Docker Swarm, GNU/Linux, CloudFormation, Code Pipeline
+- Infrastructure: AWS, OpenShift, OVH, Digital Ocean, Bare Metal
+- Amazon Web Services: EKS, VPC, Aurora DB, Route53, EC2, Autoscaler, CloudFormation, CloudFront, Lambda, S3, ELB, Amazon Elastic Transcoder
+- Monitoring: Prometheus, Grafana, Kibana, CloudWatch, Loki
+- IOT Protocols: LoRa, MQTT, IPSO, Cayenne
+- Languages: TypeScript, JavaScript, Bash, Python, Julia, Ruby On Rails, Rust, C, C++
+- Servers: Nginx, Apache, Traefik, FastAPI, ExpressJS
+- Data: Metabase, DBT, Workflows, Google Cloud Dataflow, Apache Airflow, Looker
+- Linux Administration
+
+### Languages
+
+- French: Native
+- English: Written, read, spoken
+- Spanish: Read
+
+## Experience
+
+### Senior Data Engineer at Shine
+
+#### https://www.shine.fr (https://www.shine.fr)
+
+#### From April 2025 to present
+
+#### Achievements
+
+- Data and development projects in a banking environment
+
+#### Technical Environment
+
+- Google Cloud Dataflow, Apache Airflow, Looker, DBT, Python, TypeScript, Terraform
+
+### Project Mr Arthur - Software Engineer
+
+#### https://mrarthur.io/ (https://mrarthur.io)
+
+#### From December 2024 to January 2025
+
+#### Achievements
+
+- Development of Android application with VueJS, Ionic and Capacitor
+
+### Project EDF - Tech Lead
+
+#### https://www.edf.fr/entreprises (https://www.edf.fr/entreprises)
+
+#### From November 2023 to November 2024
+
+#### Achievements
+
+- Product specification (Analysis, emission factors research, calculation rules, API design, functional specifications)
+- Architecture analysis and definition
+- Implementation of continuous integration and deployment pipeline with security and testing tools (DevSecOps)
+- Development and securing of NodeJS and TypeScript API using clean architecture, DDD, and TDD principles
+- Unit testing and integration testing
+- Kubernetes and OpenShift training
+- Documentation
+- Big Data scripts and analysis
+- Research on Salesforce APIs and their use in artificial intelligence
+
+#### Technical Environment
+
+- Kubernetes, OpenShift, Trivy, SonarQube, Docker, Gitlab, AWS, Gitlab CI/CD, NodeJS, TypeScript, Python, Jest, Salesforce
+
+### Project Enedis - Software Engineer
+
+#### https://www.enedis.fr (https://www.enedis.fr)
+
+#### From July 2024 to September 2024
+
+#### Achievements
+
+- Creation of an analysis dashboard
+- Implementation of agent-based simulations
+- Connection between analysis and simulation
+
+#### Technical Environment
+
+- ReactJS, NodeJS, Julia, Agent.jl, Docker, GeoJson, Leaflet, H3, .h5
+
+### CEO and Tech Lead at EXOSTIC
+
+#### exostic.com (https://exostic.com)
+
+#### From June 2015 to Present
+
+#### Achievements
+
+- Trainer at IMEI, Centrale Nantes, private companies and individual mentoring (MongoDB, Linux, Git, ReactJS, CSS, JavaScript)
+- Web business creation assistance
+- Consulting for https://www.yvea.io (https://www.yvea.io)
+- Front-end development (ReactJS, Flux) of a real-time precious metals trading site: https://bunker-group.com/ (https://bunker-group.com/)
+- Akkapolis contest game https://www.artstation.com/artwork/4erL1 (https://www.artstation.com/artwork/4erL1)
+- Audit and training on AngularJS and JavaScript https://www.etiskapp.com/ (https://www.etiskapp.com/)
+- Creation of a landing page builder with ReactJS, Webpack and ES6 (Flux Architecture) and server-side generation (Isomorphic JavaScript)
+- Creation, setup and administration of a WebSocket server management system allowing smartphone use as a controller for Unity games with backoffice for thepretender-totalf1.com https://pauletalex.dunked.com/total-the-pretender (https://pauletalex.dunked.com/total-the-pretender)
+- Creation of a site crawler for growth hacking
+- Creation and administration of EXOSTIC SAS
+
+#### Technical Environment
+
+- ReactJS, Redux, AngularJS, Webpack, ES6, NodeJS, CasperJS, SpookyJS, MongoDB, WebSockets, Unity, NGINX, Ubuntu
+
+### Tech Lead / Product Engineer at TOTEM
+
+#### www.totem.co (https://www.totem.co/)
+
+#### From January 2021 to September 2022
+
+#### Achievements
+
+- Payment system improvement
+- Creation of developer workshops
+- Continuous deployment pipeline improvement
+- Data Engineering
+- Creation/Management of connected coffee machines
+- Stock management
+- Peer programming
+- Architecture improvement
+- Mobile application development
+- Product specification
+- Monitoring implementation
+- Cache implementation
+
+#### Technical Environment
+
+- TypeScript, React Native, Expo, ReactJS, Atomic Design, Jest, Cypress, NodeJS, GraphQL, Apollo, Kubernetes, Docker, Digital Ocean, GitHub Actions, Bash, MongoDB, PostgreSQL, Redis, Python, DBT, Metabase, Grafana, Prometheus, OpenTelemetry
+
+### Developer / DevOps at PRELIGENS
+
+#### preligens.com (https://preligens.com)
+
+#### From October 2020 to December 2020
+
+#### Achievements
+
+- Creation of Cloud software architecture
+- Implementation of continuous deployment environment with Github Actions and Docker Swarm
+- AWS infrastructure deployment with Terraform
+- Python scripts
+
+#### Technical Environment
+
+- Git, Github, Bash, Python, Docker, Docker Swarm, Traefik, AWS (VPC, EC2, DynamoDB, S3), Terraform, Kibana, ElasticSearch, Tor
+
+### Project KIDIZZ - Developer / DevOps
+
+#### kidizz.com (https://kidizz.com)
+
+#### From December 2018 to September 2020
+
+#### Achievements
+
+- Creation of Cloud software architecture
+- Implementation of continuous deployment environment with Git, Gitlab, Kubernetes, Docker, EKS, AWS
+- NodeJS and Ruby On Rails applications management
+- Creation of NodeJS/GraphQL API (web/mobile/admin)
+- Cluster deployment (Redis, Ruby On Rails, NodeJS)
+- PostgreSQL scalability and migration (AWS Aurora Cluster)
+- Decoupling of a monolithic application into microservices
+- Application migration to AWS managed cloud environment without service interruption
+- Creation of K8s infrastructure monitoring application (NodeJS, Prometheus, Grafana, Loki)
+- Video encoding (AWS Lambda, AWS Elastic Transcoder)
+- Security/Networks (SSL, Private Network, Load Balancers, Alert Tools, DNS Management, Antiflood)
+- Multi AZ deployment / Geo balancing
+
+#### Technical Environment
+
+- Git, Gitlab, Kubernetes, Docker, NodeJS, Auth2 Service, JWT tokens, ACL, Roles management, Ruby On Rails, PostgreSQL, Redis, Bash, AWS (EKS, VPC, Route53, EC2, Autoscaler, CloudFront, Lambda, S3, ELB, Aurora, Amazon Elastic Transcoder)
+
+### Project ALOES - R&D Developer
+
+#### From January 2017 to January 2019
+
+#### Achievements
+
+- IoT market state of the art
+- Need definition, specifications and connected object definition
+- Development of a platform dedicated to connected objects design
+- Communication (logo, website, content, animation)
+
+#### Technical Environment
+
+- HTML5, Canvas, JavaScript, ReactJS, Plotly, Highcharts, NodeJs, HTTP, MQTT, Lora, Cayenne, IPSO, MySensors, ESP8266, Arduino, C++
+
+### Project FREE2MOVE - Developer / R&D Engineer
+
+#### www.free2move.com (https://www.free2move.com/)
+
+#### From March 2017 to April 2018
+
+#### Achievements
+
+- Specification/Design/Development of a real-time IoT services management platform applied to vehicles
+- Creation of real-time mobility services usable in the platform (e.g., parking reservation in vehicles, toll system usage, context analysis related to different driver behaviors, security issues related to screen usage in vehicle cabins)
+- Ergonomics and development of vehicle embedded interfaces
+- Creation of an "on the fly" billing and payment system (mobile and car embedded)
+- Development in microservices and AWS serverless architecture
+
+#### Technical Environment
+
+- ReactJS, Redux, NodeJS, NodeRED, Redis, AWS (EC2, Lambda, CloudFormation, Route53, DynamoDB, SNS, VPC, Cognito, ELB), Docker
+
+### JavaScript Developer-Designer-Trainer as FREELANCE
+
+#### From August 2014 to June 2015
+
+#### Achievements
+
+- Implementation of MVC framework architecture for real-time monitoring with NodeJS, PassportJS, ExpressJS, Angular, Redis via Caminte (cross-db ORM), Mocha and Socket.IO
+- Setting up training activities for beginners (job seekers, young people in career change, etc.) in programming
+- Creation of mobile applications (webapp type) with AngularJS frontend and NodeJS/MongoDB/ExpressJS/PhantomJS backend
+- DevOps with Nginx, ftp synchronization, cron, https setup, continuous deployment with git
+
+#### Technical Environment
+
+- NodeJS, ExpressJS, SocketIO, AngularJS, Redis, Mocha, PassportJS, PhantomJS, NGINX, Linux Debian
+
+### JavaScript/Ruby on Rails Developer-Designer-Trainer at TOXICODE
+
+#### www.toxicode.fr (https://www.toxicode.fr/)
+
+#### From February 2012 to July 2014
+
+#### Achievements
+
+- Development of a real-time multiplayer games framework via NodeJS
+- Creation of a programming learning game through robot intelligence and manipulation
+- Creation of multimedia applications for school use (IWB)
+- JavaScript / NodeJs training
+- Creation of site administration tools
+- Various software application development services (management applications, games, showcase websites, online stores, mobile)
+- Creation of educational videos (content, editing, distribution)
+- Implementation of articles explaining programming concepts
+
+#### Technical Environment
+
+- Remote work in Mac/Linux environment
+- Use of Nodejitsu, Parse.js, Heroku, Git, Mailchimp and Skype for peer programming
+- Git, SSH, FTP, Sublime Text
+- Server side: NodeJS, RequireJS, ExpressJS, Socket.IO, MongoDB, Mocha, SinonJS, PhantomJS
+- MVC Programming, OOP, Ruby On Rails, Gems
+- Client side: HTML/HTML5, Canvas, JavaScript (OOP), JQuery, RequireJS, KnockoutJS, CSS/CSS3
+
+### Mathematics and Physics Teacher at ACADOMIA
+
+#### www.acadomia.fr (https://www.acadomia.fr/)
+
+#### from 2010 to 2011
+
+#### Achievements
+
+- Tutoring students from primary school to BTS level in Mathematics and Physics
+
+### Developer Intern at WIMO
+
+#### from June 2011 to August 2011
+
+#### Achievements
+
+- Website redesign
+- Design and development of online help for the Com-On unified communication software
+
+### Physicist/Developer Intern at LABORATORY OF THEORETICAL PHYSICS OF ORSAY
+
+#### from June 2008 to August 2008
+
+#### Achievements
+
+- Creation of a C/C++ program simulating different multi-field inflation scenarios
+
+#### Technical Environment
+
+- General Relativity, Cosmology, C, C++
+
+## Education
+
+- 2012 Master's Degree in Digital Creation and Publishing, University Paris 8
+- 2010 Bachelor's Degree in Fundamental Physics, University Paris 11
+- 2008 Engineering School in Materials and Nanotechnology, INSA Rennes
+- 2007 Preparatory Classes for Engineering Schools, Lycée Léonce Vieljeux La Rochelle
+- 2005 Technical High School Diploma in Mechanical Engineering, Lycée Léonce Vieljeux La Rochelle
+
+## Interests
+
+- Travel
+- Photography
+- Music (Guitar, Bass)
