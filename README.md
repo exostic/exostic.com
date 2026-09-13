@@ -39,6 +39,9 @@ Then open <http://localhost:8000/>.
 ## Deployment
 
 - Hosting: GitHub Pages, source **GitHub Actions** (`.github/workflows/pages.yml`).
+- Cache busting: the workflow rewrites `/assets/css/*.css` and `/assets/js/*.js` references in every HTML file
+  to `...?v=<commit sha>` before upload, so browsers never pair a fresh page with a cached stylesheet
+  (GitHub Pages serves everything with `max-age=600`). Sources keep the plain paths.
 - Custom domain: `CNAME` contains `exostic.com`. DNS must point the apex to GitHub Pages
   (`A` records `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153`) and
   `www` to `<user>.github.io` via `CNAME`. Enable *Enforce HTTPS* in the repository Pages settings.
