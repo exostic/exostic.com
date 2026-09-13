@@ -24,4 +24,16 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://exostic.com/fr/jeremy_gay"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://exostic.com/en/jeremy_gay"/>
   </url>
+  <url>
+    <loc>https://exostic.com/fr/jeremy_gay_freelance</loc>
+    <lastmod>2026-09-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exostic.com/fr/jeremy_gay_freelance"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exostic.com/en/jeremy_gay_freelance"/>
+  </url>
+  <url>
+    <loc>https://exostic.com/en/jeremy_gay_freelance</loc>
+    <lastmod>2026-09-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exostic.com/fr/jeremy_gay_freelance"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exostic.com/en/jeremy_gay_freelance"/>
+  </url>
 </urlset>

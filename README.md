@@ -12,6 +12,7 @@ No framework, no build step: the repository root **is** the site. Edit the HTML,
 | `index.html` | Home (French, canonical) |
 | `en/index.html` | Home (English) |
 | `fr/jeremy_gay.html`, `en/jeremy_gay.html` | Jérémy Gay's resume (FR / EN) |
+| `fr/jeremy_gay_freelance.html`, `en/jeremy_gay_freelance.html` | Freelance-oriented profile: offers, recent assignments, terms (FR / EN) |
 | `fr/index.html` | Redirects to `/` |
 | `404.html` | Not-found page (picked up automatically by GitHub Pages) |
 | `assets/css/site.css` | The whole stylesheet (dark theme only) |

@@ -11,6 +11,8 @@ Site bilingue : le français est la langue principale (https://exostic.com/), un
 - [Home (EN)](https://exostic.com/en/): services, business domains, solutions (fullstack, DevOps, agile) and technologies.
 - [CV de Jérémy Gay (FR)](https://exostic.com/fr/jeremy_gay): Tech Lead / Développeur Sénior, fondateur d'Exostic — compétences, expériences, formation.
 - [Jérémy Gay's resume (EN)](https://exostic.com/en/jeremy_gay): Tech Lead / Senior Developer, founder of Exostic — skills, experience, education.
+- [Profil freelance de Jérémy Gay (FR)](https://exostic.com/fr/jeremy_gay_freelance): offres (Tech Lead, fullstack, DevOps, data, IoT, formation), missions récentes, modalités.
+- [Jérémy Gay's freelance profile (EN)](https://exostic.com/en/jeremy_gay_freelance): offers (Tech Lead, fullstack, DevOps, data, IoT, training), recent assignments, terms.
 
 ## Services
 

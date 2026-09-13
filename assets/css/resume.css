@@ -57,6 +57,75 @@
   }
 }
 
+/* freelance resume: shorter subtitle, key facts and call to action */
+
+.resume-head h2.resume-subtitle {
+  font-size: 1.25rem;
+  line-height: 1.4;
+}
+
+@media (min-width: 768px) {
+  .resume-head h2.resume-subtitle {
+    font-size: 1.5rem;
+  }
+}
+
+
+.resume-facts {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
+  gap: 1rem 1.5rem;
+  margin: 2rem 0 0;
+  padding: 1.25rem;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 0.75rem;
+  background: rgba(51, 51, 51, 0.2);
+}
+
+.resume-facts dt {
+  margin-bottom: 0.25rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #93c5fd;
+}
+
+.resume-facts dd {
+  margin: 0;
+  font-size: 0.9375rem;
+  line-height: 1.5rem;
+  color: #fff;
+}
+
+.resume-cta {
+  margin-top: 3rem;
+  padding: 1.5rem;
+  text-align: center;
+  border: 1px solid rgba(121, 36, 201, 0.5);
+  border-radius: 0.75rem;
+  background: rgba(121, 36, 201, 0.15);
+}
+
+.resume-cta h2 {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.resume-cta p {
+  margin-bottom: 1rem;
+  color: #d1d5db;
+}
+
+.resume-cta a:not(.btn) {
+  color: #60a5fa;
+  text-decoration: underline;
+}
+
+.resume-cta .btn {
+  margin: 0.25rem;
+}
+
 /* prose */
 
 .prose {
@@ -198,6 +267,21 @@
 
   .prose a {
     color: #1d4ed8;
+  }
+
+  .resume-facts,
+  .resume-cta {
+    background: #fff;
+    border-color: #ccc;
+  }
+
+  .resume-facts dt {
+    color: #555;
+  }
+
+  .resume-facts dd,
+  .resume-cta p {
+    color: #000;
   }
 
   .page-break-before {
