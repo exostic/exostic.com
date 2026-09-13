@@ -14,7 +14,7 @@ Services
 
 ## Notre savoir-faire
 
-Une expertise forgée en 10 ans de projets menés pour tout type de structure : grands groupes, PME et startups.
+Une expertise forgée en 10 ans de projets menés pour tout type de structure : grands groupes, PME et startups. Basés à Châtelaillon-Plage, près de La Rochelle (Charente-Maritime), nous intervenons sur place et à distance partout en France.
 
 ### Organisation
 
@@ -96,15 +96,15 @@ Solutions
 
 ### Développement Fullstack
 
-### Architecture FULLSTACK
+#### Architecture FULLSTACK
 
 Concevoir une architecture cohérente pour l'application, définir les interactions entre frontend et backend, et choisir les technologies adaptées pour garantir une intégration fluide et une communication efficace entre les composants.
 
-### Programmation BACK-END
+#### Programmation BACK-END
 
 Le back-end porte la logique métier, la gestion des données et le traitement des requêtes serveur : création d'APIs, administration des bases de données et sécurisation des accès.
 
-### Programmation FRONT-END
+#### Programmation FRONT-END
 
 Le front-end façonne l'interface avec laquelle vos utilisateurs interagissent : conception des pages, fonctionnalités interactives et expérience utilisateur, pour un résultat à la fois intuitif et attrayant.
 
@@ -112,15 +112,15 @@ Le front-end façonne l'interface avec laquelle vos utilisateurs interagissent :
 
 ### Méthodologie DevOps
 
-### Collaboration étroite entre développement et opérations
+#### Collaboration étroite entre développement et opérations
 
 Nous encourageons une communication transparente entre équipes de développement et d'exploitation, pour effacer les silos traditionnels et adopter une approche globale du développement, du déploiement et de la gestion des applications.
 
-### Automatisation des processus
+#### Automatisation des processus
 
 Nous automatisons les tâches répétitives à chaque étape du cycle de développement : tests, déploiement, supervision et gestion des infrastructures, pour livrer plus vite et avec plus de qualité.
 
-### Amélioration continue
+#### Amélioration continue
 
 Nous cultivons une démarche d'amélioration continue, appuyée sur les retours d'expérience et l'analyse des performances. Les équipes identifient rapidement les problèmes et les axes d'amélioration, pour itérer efficacement et livrer des produits de haute qualité.
 
@@ -128,15 +128,15 @@ Nous cultivons une démarche d'amélioration continue, appuyée sur les retours 
 
 ### Organisation Agile
 
-### Itérations et livraisons incrémentales
+#### Itérations et livraisons incrémentales
 
 Nous travaillons par itérations courtes et régulières. Chacune livre une version fonctionnelle du produit, pour obtenir rapidement des retours utilisateurs et ajuster les priorités en conséquence.
 
-### Flexibilité et adaptation aux changements
+#### Flexibilité et adaptation aux changements
 
 Plutôt que de figer un plan détaillé en début de projet, nous restons prêts à faire face à l'évolution des exigences, des priorités et des contraintes, en réévaluant continuellement notre approche pour maximiser la valeur livrée.
 
-### Collaboration et communication active
+#### Collaboration et communication active
 
 Nous collaborons étroitement avec l'équipe et les parties prenantes. Une communication active et transparente permet de mieux comprendre les besoins du client et d'obtenir des retours réguliers tout au long du développement, pour un engagement de tous et une vision partagée des objectifs.
 
@@ -146,7 +146,20 @@ Technologies
 
 ## Le temps de l'exécution
 
-![Technologies maîtrisées par Exostic : langages, frameworks et outils](/assets/img/technos-768.webp)
+![Nuage de mots des technologies Exostic : DEV, TypeScript, JavaScript, Node.js, Kubernetes, AWS, DevOps, microservices, DDD](/assets/img/technos-768.webp)
+
+Les technologies que nous mettons en œuvre au quotidien, choisies pour leur robustesse et leur adéquation à votre projet.
+
+- Langages : TypeScript, JavaScript, Python, Rust, C, C++, Julia, Ruby, Bash
+- Front-end : React, Vue.js, HTML5, CSS3, Sass, WebSocket, WebRTC, Canvas, Webpack
+- Mobile : React Native, Expo, Ionic, Capacitor, déploiement iOS et Android
+- Back-end : Node.js, NestJS, Express, GraphQL, Next.js, Hasura, FastAPI, Ruby on Rails
+- Bases de données : PostgreSQL, MongoDB, Redis, DynamoDB, InfluxDB
+- Cloud & DevOps : AWS (EKS, Lambda, S3, CloudFront, Aurora, Route 53), Kubernetes, Docker, Terraform, Helm, GitLab CI/CD, OpenShift, OVH
+- Architecture & méthodes : DDD, Clean Architecture, architecture hexagonale, CQRS, Event Sourcing, TDD, microservices
+- Sécurité : OAuth 2, JWT, Keycloak, IAM, ACL, gestion des secrets
+- IoT : LoRa, MQTT, IPSO, Cayenne
+- Supervision & data : Prometheus, Grafana, Loki, Kibana, CloudWatch, Metabase, dbt, Apache Airflow
 
 ---
 
@@ -162,31 +175,31 @@ Technologies
 
 ### Compétences techniques
 
-- Développement: DDD, TDD, Programmation Orientée Objet, Clean Architecture, Architecture Hexagonale, Event Sourcing, CQRS, MVC, Tests Unitaires, Tests d'intégration
-- Frontend Web: ReactJS, VueJS, HTML5, API Canvas, API Son, WebRTC, WebSocket, CSS/CSS3, Responsive Design, Sass, Less, Webpack
-- Frontend Mobile: React Native, Ionic, Expo, Capacitor, Déploiement IOS, Déploiement Android,
-- Backend: NodeJS, Express, NestJS, GraphQL, NextJS, Hasura
-- BDD: MongoDB, Redis, DynamoDB, PostgreSQL, InfluxDB, DynamoDB
-- Securité: OAuth, JWToken, ACL, IAM, VPN, Private Network, Secrets Managers, IAM, Keycloak
-- DevOps: Git, Gitlab, Github, Kubernetes, Terraform, Helm, Docker, Docker Compose, Docker Swarm, GNU/Linux, CloudFormation, Code Pipeline
-- Infrastructures: AWS, OpenShift, OVH, Digital Ocean, Bare Metal
-- Amazon Web Services: EKS,VPC, Aurora DB, Route53, EC2, Autoscaler, CloudFormation, CloudFront, Lambda, S3, ELB, Amazon Elastic Transcoder
-- Monitoring: Prometeus, Grafana, Kibana, CloudWatch, Loki
-- Protocoles IOT: LoRa, MQTT, IPSO, Cayenne
-- Langages: TypeScript, JavaScript, Bash, Python, Julia, Ruby On Rails, Rust, C, C++
-- Servers: Nginx, Apache, Traefik, FastAPI, ExpressJS
-- Data: Metabase, DBT, Workflows, Google Cloud Dataflow, Apache Airflow, Looker
-- Administration Linux
+- Développement: : DDD, TDD, Programmation Orientée Objet, Clean Architecture, Architecture Hexagonale, Event Sourcing, CQRS, MVC, Tests Unitaires, Tests d'intégration
+- Frontend Web: : ReactJS, VueJS, HTML5, API Canvas, API Son, WebRTC, WebSocket, CSS/CSS3, Responsive Design, Sass, Less, Webpack
+- Frontend Mobile: : React Native, Ionic, Expo, Capacitor, Déploiement IOS, Déploiement Android,
+- Backend: : NodeJS, Express, NestJS, GraphQL, NextJS, Hasura
+- BDD: : MongoDB, Redis, DynamoDB, PostgreSQL, InfluxDB, DynamoDB
+- Securité: : OAuth, JWToken, ACL, IAM, VPN, Private Network, Secrets Managers, IAM, Keycloak
+- DevOps: : Git, Gitlab, Github, Kubernetes, Terraform, Helm, Docker, Docker Compose, Docker Swarm, GNU/Linux, CloudFormation, Code Pipeline
+- Infrastructures: : AWS, OpenShift, OVH, Digital Ocean, Bare Metal
+- Amazon Web Services: : EKS,VPC, Aurora DB, Route53, EC2, Autoscaler, CloudFormation, CloudFront, Lambda, S3, ELB, Amazon Elastic Transcoder
+- Monitoring: : Prometeus, Grafana, Kibana, CloudWatch, Loki
+- Protocoles IOT: : LoRa, MQTT, IPSO, Cayenne
+- Langages: : TypeScript, JavaScript, Bash, Python, Julia, Ruby On Rails, Rust, C, C++
+- Servers: : Nginx, Apache, Traefik, FastAPI, ExpressJS
+- Data: : Metabase, DBT, Workflows, Google Cloud Dataflow, Apache Airflow, Looker
+- Administration Linux :
 
 ### Langues
 
-- Français: Natif
-- Anglais: Écrit, lu, parlé
-- Espagnol: Lu
+- Français : Natif
+- Anglais : Écrit, lu, parlé
+- Espagnol : Lu
 
 ## Expériences
 
-### Senior Data Engineer chez Shine
+### Senior Data Engineer chez Shine :
 
 #### https://www.shine.fr (https://www.shine.fr)
 
@@ -200,7 +213,7 @@ Technologies
 
 - Google Cloud Dataflow, Apache Airflow, Looker, DBT, Python, TypeScript, Terraform
 
-### Projet Mr Arthur - Ingénieur Logiciel
+### Projet Mr Arthur : - Ingénieur Logiciel
 
 #### https://mrarthur.io/ (https://mrarthur.io)
 
@@ -210,7 +223,7 @@ Technologies
 
 - Développement de l'application Android avec VueJS, Ionic et Capacitor
 
-### Projet EDF - Tech Lead
+### Projet EDF : - Tech Lead
 
 #### https://www.edf.fr/entreprises (https://www.edf.fr/entreprises)
 
@@ -232,7 +245,7 @@ Technologies
 
 - Kubernetes, OpenShift, Trivy, SonarQube, Docker, Gitlab, AWS, Gitlab CI/CD, NodeJS, TypeScript, Python, Jest, Saleforce
 
-### Projet Enedis - Ingénieur Logiciel
+### Projet Enedis : - Ingénieur Logiciel
 
 #### https://www.enedis.fr (https://www.enedis.fr)
 
@@ -271,7 +284,7 @@ Technologies
 
 - ReactJS, Redux, AngularJS, Webpack, ES6, NodeJS, CasperJS, SpookyJS, MongoDB, WebSockets, Unity, NGINX, Ubuntu
 
-### Tech Lead / Ingenieur Produit chez TOTEM
+### Tech Lead / Ingenieur Produit chez TOTEM :
 
 #### www.totem.co (https://www.totem.co/)
 
@@ -296,7 +309,7 @@ Technologies
 
 - TypeScrypt, React Native, Expo, ReactJS, Atomic Design, Jest, Cypress, NodeJS, GraphQL, Apollo, Kubernetes, Docker, Digital Ocean, GitHub Actions, Bash, MongoDB, PostgreSQL, Redis, Python, DBT, Metabase, Grafana, Prometheus, OpenTelemetry
 
-### Développeur / DevOps chez PRELIGENS
+### Développeur / DevOps chez PRELIGENS :
 
 #### preligens.com (https://preligens.com)
 
@@ -313,7 +326,7 @@ Technologies
 
 - Git, Github, Bash, Python, Docker, Docker Swarm, Traefik, AWS (VPC, EC2, DynamoDB, S3), Terraform, Kibana, ElasticSearch, Tor
 
-### Projet KIDIZZ - Développeur / DevOps
+### Projet KIDIZZ : - Développeur / DevOps
 
 #### kidizz.com (https://kidizz.com)
 
@@ -338,7 +351,7 @@ Technologies
 
 - Git, Gitlab, Kubernetes, Docker, NodeJS, Auth2 Service, JWT tokens, ACL, Roles management, Ruby On Rails, PostgreSQL, Redis, Bash, AWS (EKS, VPC, Route53, EC2, Autoscaler, CloudFront, Lambda, S3, ELB, Aurora, Amazon Elastic Transcoder, ).
 
-### Projet ALOES - Développeur R&D
+### Projet ALOES : - Développeur R&D
 
 #### De janvier 2017 à janvier 2019
 
@@ -353,7 +366,7 @@ Technologies
 
 - HTML5, Canvas, JavaScript, ReactJS, Plotly, Highcharts, NodeJs, HTTP, MQTT, Lora, Cayenne, IPSO, MySensors, ESP8266, Arduino, C++
 
-### Projet FREE2MOVE - Développeur / Ingénieur R&D
+### Projet FREE2MOVE : - Développeur / Ingénieur R&D
 
 #### www.free2move.com (https://www.free2move.com/)
 
@@ -470,7 +483,7 @@ Services
 
 ## Our Expertise
 
-Expertise built over 10 years of projects for organizations of every size: large companies, SMEs and startups.
+Expertise built over 10 years of projects for organizations of every size: large companies, SMEs and startups. Based in Châtelaillon-Plage near La Rochelle (Charente-Maritime, France), we work on site and remotely across France.
 
 ### Organization
 
@@ -552,15 +565,15 @@ Solutions
 
 ### Fullstack Development
 
-### FULLSTACK Architecture
+#### FULLSTACK Architecture
 
 Designing a coherent architecture for the application, defining the interactions between frontend and backend, and choosing the right technologies to ensure smooth integration and efficient communication between components.
 
-### BACK-END Development
+#### BACK-END Development
 
 The back-end handles business logic, data management and server request processing: building APIs, managing databases and securing access.
 
-### FRONT-END Development
+#### FRONT-END Development
 
 The front-end shapes the interface your users interact with: page design, interactive features and user experience, for a result that's both intuitive and appealing.
 
@@ -568,15 +581,15 @@ The front-end shapes the interface your users interact with: page design, intera
 
 ### DevOps Methodology
 
-### Close Collaboration Between Development and Operations
+#### Close Collaboration Between Development and Operations
 
 We foster transparent communication between development and operations teams, breaking down traditional silos and adopting a holistic approach to developing, deploying and managing applications.
 
-### Process Automation
+#### Process Automation
 
 We automate repetitive tasks at every stage of the development cycle: testing, deployment, monitoring and infrastructure management, to deliver faster and with higher quality.
 
-### Continuous Improvement
+#### Continuous Improvement
 
 We cultivate a continuous improvement mindset, backed by feedback loops and performance analysis. Teams quickly identify issues and areas for improvement, iterating efficiently to deliver high-quality products.
 
@@ -584,15 +597,15 @@ We cultivate a continuous improvement mindset, backed by feedback loops and perf
 
 ### Agile Organization
 
-### Iterations and Incremental Delivery
+#### Iterations and Incremental Delivery
 
 We work in short, regular iterations. Each one delivers a functional version of the product, allowing us to quickly gather user feedback and adjust priorities accordingly.
 
-### Flexibility and Adaptability to Change
+#### Flexibility and Adaptability to Change
 
 Rather than locking in a detailed plan at the start of a project, we stay ready to adapt to evolving requirements, priorities and constraints, continuously reassessing our approach to maximize delivered value.
 
-### Active Collaboration and Communication
+#### Active Collaboration and Communication
 
 We collaborate closely with the team and stakeholders. Active, transparent communication helps us better understand client needs and gather regular feedback throughout development, fostering engagement from everyone and a shared vision of the goals.
 
@@ -602,7 +615,20 @@ Technologies
 
 ## Time to Execute
 
-![Technologies mastered by Exostic: languages, frameworks and tools](/assets/img/technos-768.webp)
+![Word cloud of Exostic technologies: DEV, TypeScript, JavaScript, Node.js, Kubernetes, AWS, DevOps, microservices, DDD](/assets/img/technos-768.webp)
+
+The technologies we work with every day, chosen for their robustness and their fit with your project.
+
+- Languages : TypeScript, JavaScript, Python, Rust, C, C++, Julia, Ruby, Bash
+- Front-end : React, Vue.js, HTML5, CSS3, Sass, WebSocket, WebRTC, Canvas, Webpack
+- Mobile : React Native, Expo, Ionic, Capacitor, iOS and Android deployment
+- Back-end : Node.js, NestJS, Express, GraphQL, Next.js, Hasura, FastAPI, Ruby on Rails
+- Databases : PostgreSQL, MongoDB, Redis, DynamoDB, InfluxDB
+- Cloud & DevOps : AWS (EKS, Lambda, S3, CloudFront, Aurora, Route 53), Kubernetes, Docker, Terraform, Helm, GitLab CI/CD, OpenShift, OVH
+- Architecture & methods : DDD, Clean Architecture, hexagonal architecture, CQRS, Event Sourcing, TDD, microservices
+- Security : OAuth 2, JWT, Keycloak, IAM, ACL, secrets management
+- IoT : LoRa, MQTT, IPSO, Cayenne
+- Monitoring & data : Prometheus, Grafana, Loki, Kibana, CloudWatch, Metabase, dbt, Apache Airflow
 
 ---
 
@@ -618,31 +644,31 @@ Technologies
 
 ### Technical Skills
 
-- Development: DDD, TDD, Object-Oriented Programming, Clean Architecture, Hexagonal Architecture, Event Sourcing, CQRS, MVC, Unit Testing, Integration Testing
-- Frontend Web: ReactJS, VueJS, HTML5, Canvas API, Audio API, WebRTC, WebSocket, CSS/CSS3, Responsive Design, Sass, Less, Webpack
-- Frontend Mobile: React Native, Ionic, Expo, Capacitor, IOS Deployment, Android Deployment
-- Backend: NodeJS, Express, NestJS, GraphQL, NextJS, Hasura
-- Databases: MongoDB, Redis, DynamoDB, PostgreSQL, InfluxDB, DynamoDB
-- Security: OAuth, JWToken, ACL, IAM, VPN, Private Network, Secrets Managers, IAM, Keycloak
-- DevOps: Git, Gitlab, Github, Kubernetes, Terraform, Helm, Docker, Docker Compose, Docker Swarm, GNU/Linux, CloudFormation, Code Pipeline
-- Infrastructure: AWS, OpenShift, OVH, Digital Ocean, Bare Metal
-- Amazon Web Services: EKS, VPC, Aurora DB, Route53, EC2, Autoscaler, CloudFormation, CloudFront, Lambda, S3, ELB, Amazon Elastic Transcoder
-- Monitoring: Prometheus, Grafana, Kibana, CloudWatch, Loki
-- IOT Protocols: LoRa, MQTT, IPSO, Cayenne
-- Languages: TypeScript, JavaScript, Bash, Python, Julia, Ruby On Rails, Rust, C, C++
-- Servers: Nginx, Apache, Traefik, FastAPI, ExpressJS
-- Data: Metabase, DBT, Workflows, Google Cloud Dataflow, Apache Airflow, Looker
-- Linux Administration
+- Development: : DDD, TDD, Object-Oriented Programming, Clean Architecture, Hexagonal Architecture, Event Sourcing, CQRS, MVC, Unit Testing, Integration Testing
+- Frontend Web: : ReactJS, VueJS, HTML5, Canvas API, Audio API, WebRTC, WebSocket, CSS/CSS3, Responsive Design, Sass, Less, Webpack
+- Frontend Mobile: : React Native, Ionic, Expo, Capacitor, IOS Deployment, Android Deployment
+- Backend: : NodeJS, Express, NestJS, GraphQL, NextJS, Hasura
+- Databases: : MongoDB, Redis, DynamoDB, PostgreSQL, InfluxDB, DynamoDB
+- Security: : OAuth, JWToken, ACL, IAM, VPN, Private Network, Secrets Managers, IAM, Keycloak
+- DevOps: : Git, Gitlab, Github, Kubernetes, Terraform, Helm, Docker, Docker Compose, Docker Swarm, GNU/Linux, CloudFormation, Code Pipeline
+- Infrastructure: : AWS, OpenShift, OVH, Digital Ocean, Bare Metal
+- Amazon Web Services: : EKS, VPC, Aurora DB, Route53, EC2, Autoscaler, CloudFormation, CloudFront, Lambda, S3, ELB, Amazon Elastic Transcoder
+- Monitoring: : Prometheus, Grafana, Kibana, CloudWatch, Loki
+- IOT Protocols: : LoRa, MQTT, IPSO, Cayenne
+- Languages: : TypeScript, JavaScript, Bash, Python, Julia, Ruby On Rails, Rust, C, C++
+- Servers: : Nginx, Apache, Traefik, FastAPI, ExpressJS
+- Data: : Metabase, DBT, Workflows, Google Cloud Dataflow, Apache Airflow, Looker
+- Linux Administration :
 
 ### Languages
 
-- French: Native
-- English: Written, read, spoken
-- Spanish: Read
+- French : Native
+- English : Written, read, spoken
+- Spanish : Read
 
 ## Experience
 
-### Senior Data Engineer at Shine
+### Senior Data Engineer at Shine :
 
 #### https://www.shine.fr (https://www.shine.fr)
 
@@ -656,7 +682,7 @@ Technologies
 
 - Google Cloud Dataflow, Apache Airflow, Looker, DBT, Python, TypeScript, Terraform
 
-### Project Mr Arthur - Software Engineer
+### Project Mr Arthur : - Software Engineer
 
 #### https://mrarthur.io/ (https://mrarthur.io)
 
@@ -666,7 +692,7 @@ Technologies
 
 - Development of Android application with VueJS, Ionic and Capacitor
 
-### Project EDF - Tech Lead
+### Project EDF : - Tech Lead
 
 #### https://www.edf.fr/entreprises (https://www.edf.fr/entreprises)
 
@@ -688,7 +714,7 @@ Technologies
 
 - Kubernetes, OpenShift, Trivy, SonarQube, Docker, Gitlab, AWS, Gitlab CI/CD, NodeJS, TypeScript, Python, Jest, Salesforce
 
-### Project Enedis - Software Engineer
+### Project Enedis : - Software Engineer
 
 #### https://www.enedis.fr (https://www.enedis.fr)
 
@@ -727,7 +753,7 @@ Technologies
 
 - ReactJS, Redux, AngularJS, Webpack, ES6, NodeJS, CasperJS, SpookyJS, MongoDB, WebSockets, Unity, NGINX, Ubuntu
 
-### Tech Lead / Product Engineer at TOTEM
+### Tech Lead / Product Engineer at TOTEM :
 
 #### www.totem.co (https://www.totem.co/)
 
@@ -752,7 +778,7 @@ Technologies
 
 - TypeScript, React Native, Expo, ReactJS, Atomic Design, Jest, Cypress, NodeJS, GraphQL, Apollo, Kubernetes, Docker, Digital Ocean, GitHub Actions, Bash, MongoDB, PostgreSQL, Redis, Python, DBT, Metabase, Grafana, Prometheus, OpenTelemetry
 
-### Developer / DevOps at PRELIGENS
+### Developer / DevOps at PRELIGENS :
 
 #### preligens.com (https://preligens.com)
 
@@ -769,7 +795,7 @@ Technologies
 
 - Git, Github, Bash, Python, Docker, Docker Swarm, Traefik, AWS (VPC, EC2, DynamoDB, S3), Terraform, Kibana, ElasticSearch, Tor
 
-### Project KIDIZZ - Developer / DevOps
+### Project KIDIZZ : - Developer / DevOps
 
 #### kidizz.com (https://kidizz.com)
 
@@ -794,7 +820,7 @@ Technologies
 
 - Git, Gitlab, Kubernetes, Docker, NodeJS, Auth2 Service, JWT tokens, ACL, Roles management, Ruby On Rails, PostgreSQL, Redis, Bash, AWS (EKS, VPC, Route53, EC2, Autoscaler, CloudFront, Lambda, S3, ELB, Aurora, Amazon Elastic Transcoder)
 
-### Project ALOES - R&D Developer
+### Project ALOES : - R&D Developer
 
 #### From January 2017 to January 2019
 
@@ -809,7 +835,7 @@ Technologies
 
 - HTML5, Canvas, JavaScript, ReactJS, Plotly, Highcharts, NodeJs, HTTP, MQTT, Lora, Cayenne, IPSO, MySensors, ESP8266, Arduino, C++
 
-### Project FREE2MOVE - Developer / R&D Engineer
+### Project FREE2MOVE : - Developer / R&D Engineer
 
 #### www.free2move.com (https://www.free2move.com/)
 
