@@ -479,6 +479,7 @@ h4 {
   height: 48px;
   z-index: 10;
   pointer-events: none;
+  container-type: inline-size;
 }
 
 .pacman-dot {
@@ -486,6 +487,7 @@ h4 {
   top: 19px;
   width: 10px;
   height: 10px;
+  margin-left: -5px;
   border-radius: 50%;
   background: #fff5e0;
   box-shadow: 0 0 8px 2px rgba(228, 59, 125, 0.8);
@@ -507,12 +509,14 @@ h4 {
   animation: pacman-move 12s linear infinite, pacman-chomp 0.4s linear infinite;
 }
 
+/* The mouth (right edge) travels from 0 to 100% of the track, so a dot at
+   left: N% is reached exactly at N% of the animation. */
 @keyframes pacman-move {
   from {
-    transform: translateX(-60px);
+    transform: translateX(-100%);
   }
   to {
-    transform: translateX(calc(100vw + 60px));
+    transform: translateX(calc(100cqw - 100%));
   }
 }
 
@@ -1032,30 +1036,30 @@ footer {
 
 /* Pac-Man dots: generated keyframes */
 .pacman-dot:nth-child(1) { left: 4.000%; animation-name: dot-0; }
-@keyframes dot-0 { 0%, 3.000% { opacity: 1; transform: scale(1); } 4.000%, 100% { opacity: 0; transform: scale(0); } }
+@keyframes dot-0 { 0%, 4.000% { opacity: 1; transform: scale(1); } 5.000%, 100% { opacity: 0; transform: scale(0); } }
 .pacman-dot:nth-child(2) { left: 11.077%; animation-name: dot-1; }
-@keyframes dot-1 { 0%, 10.077% { opacity: 1; transform: scale(1); } 11.077%, 100% { opacity: 0; transform: scale(0); } }
+@keyframes dot-1 { 0%, 11.077% { opacity: 1; transform: scale(1); } 12.077%, 100% { opacity: 0; transform: scale(0); } }
 .pacman-dot:nth-child(3) { left: 18.154%; animation-name: dot-2; }
-@keyframes dot-2 { 0%, 17.154% { opacity: 1; transform: scale(1); } 18.154%, 100% { opacity: 0; transform: scale(0); } }
+@keyframes dot-2 { 0%, 18.154% { opacity: 1; transform: scale(1); } 19.154%, 100% { opacity: 0; transform: scale(0); } }
 .pacman-dot:nth-child(4) { left: 25.231%; animation-name: dot-3; }
-@keyframes dot-3 { 0%, 24.231% { opacity: 1; transform: scale(1); } 25.231%, 100% { opacity: 0; transform: scale(0); } }
+@keyframes dot-3 { 0%, 25.231% { opacity: 1; transform: scale(1); } 26.231%, 100% { opacity: 0; transform: scale(0); } }
 .pacman-dot:nth-child(5) { left: 32.308%; animation-name: dot-4; }
-@keyframes dot-4 { 0%, 31.308% { opacity: 1; transform: scale(1); } 32.308%, 100% { opacity: 0; transform: scale(0); } }
+@keyframes dot-4 { 0%, 32.308% { opacity: 1; transform: scale(1); } 33.308%, 100% { opacity: 0; transform: scale(0); } }
 .pacman-dot:nth-child(6) { left: 39.385%; animation-name: dot-5; }
-@keyframes dot-5 { 0%, 38.385% { opacity: 1; transform: scale(1); } 39.385%, 100% { opacity: 0; transform: scale(0); } }
+@keyframes dot-5 { 0%, 39.385% { opacity: 1; transform: scale(1); } 40.385%, 100% { opacity: 0; transform: scale(0); } }
 .pacman-dot:nth-child(7) { left: 46.462%; animation-name: dot-6; }
-@keyframes dot-6 { 0%, 45.462% { opacity: 1; transform: scale(1); } 46.462%, 100% { opacity: 0; transform: scale(0); } }
+@keyframes dot-6 { 0%, 46.462% { opacity: 1; transform: scale(1); } 47.462%, 100% { opacity: 0; transform: scale(0); } }
 .pacman-dot:nth-child(8) { left: 53.538%; animation-name: dot-7; }
-@keyframes dot-7 { 0%, 52.538% { opacity: 1; transform: scale(1); } 53.538%, 100% { opacity: 0; transform: scale(0); } }
+@keyframes dot-7 { 0%, 53.538% { opacity: 1; transform: scale(1); } 54.538%, 100% { opacity: 0; transform: scale(0); } }
 .pacman-dot:nth-child(9) { left: 60.615%; animation-name: dot-8; }
-@keyframes dot-8 { 0%, 59.615% { opacity: 1; transform: scale(1); } 60.615%, 100% { opacity: 0; transform: scale(0); } }
+@keyframes dot-8 { 0%, 60.615% { opacity: 1; transform: scale(1); } 61.615%, 100% { opacity: 0; transform: scale(0); } }
 .pacman-dot:nth-child(10) { left: 67.692%; animation-name: dot-9; }
-@keyframes dot-9 { 0%, 66.692% { opacity: 1; transform: scale(1); } 67.692%, 100% { opacity: 0; transform: scale(0); } }
+@keyframes dot-9 { 0%, 67.692% { opacity: 1; transform: scale(1); } 68.692%, 100% { opacity: 0; transform: scale(0); } }
 .pacman-dot:nth-child(11) { left: 74.769%; animation-name: dot-10; }
-@keyframes dot-10 { 0%, 73.769% { opacity: 1; transform: scale(1); } 74.769%, 100% { opacity: 0; transform: scale(0); } }
+@keyframes dot-10 { 0%, 74.769% { opacity: 1; transform: scale(1); } 75.769%, 100% { opacity: 0; transform: scale(0); } }
 .pacman-dot:nth-child(12) { left: 81.846%; animation-name: dot-11; }
-@keyframes dot-11 { 0%, 80.846% { opacity: 1; transform: scale(1); } 81.846%, 100% { opacity: 0; transform: scale(0); } }
+@keyframes dot-11 { 0%, 81.846% { opacity: 1; transform: scale(1); } 82.846%, 100% { opacity: 0; transform: scale(0); } }
 .pacman-dot:nth-child(13) { left: 88.923%; animation-name: dot-12; }
-@keyframes dot-12 { 0%, 87.923% { opacity: 1; transform: scale(1); } 88.923%, 100% { opacity: 0; transform: scale(0); } }
+@keyframes dot-12 { 0%, 88.923% { opacity: 1; transform: scale(1); } 89.923%, 100% { opacity: 0; transform: scale(0); } }
 .pacman-dot:nth-child(14) { left: 96.000%; animation-name: dot-13; }
-@keyframes dot-13 { 0%, 95.000% { opacity: 1; transform: scale(1); } 96.000%, 100% { opacity: 0; transform: scale(0); } }
+@keyframes dot-13 { 0%, 96.000% { opacity: 1; transform: scale(1); } 97.000%, 100% { opacity: 0; transform: scale(0); } }
