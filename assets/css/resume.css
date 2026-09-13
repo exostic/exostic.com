@@ -297,3 +297,310 @@
     box-shadow: none;
   }
 }
+
+/* ---------- Freelance profile: cards, steps, timeline, tags ---------- */
+
+.resume-freelance h2.rf-title {
+  display: inline-block;
+  margin: 3rem 0 1.25rem;
+  font-size: 1.75rem;
+  line-height: 1.2;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  background: linear-gradient(90deg, #ff5211, #e43b7d, #a855f7);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.resume-freelance .prose h2.rf-title:first-child {
+  margin-top: 3rem;
+}
+
+.resume-freelance .rf-lead {
+  margin-top: 0;
+  font-size: 1.125rem;
+}
+
+.rf-offers {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+  gap: 1rem;
+}
+
+.rf-offer {
+  position: relative;
+  padding: 1.25rem 1.25rem 1.25rem 1.5rem;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 0.75rem;
+  background: var(--bg-panel);
+  overflow: hidden;
+  transition: border-color 0.2s ease-in, transform 0.2s ease-in;
+}
+
+.rf-offer::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 4px;
+  background: linear-gradient(180deg, #ff5211, #e43b7d, #7924c9);
+}
+
+.rf-offer:hover {
+  border-color: rgba(228, 59, 125, 0.6);
+  transform: translateY(-2px);
+}
+
+.rf-offer .icon {
+  width: 2.5rem;
+  height: 2.5rem;
+  padding: 0.5rem;
+  margin-bottom: 0.75rem;
+  border-radius: 9999px;
+  background: var(--gradient);
+  color: #fff;
+}
+
+.rf-offer h3 {
+  margin-bottom: 0.5rem;
+  font-size: 1.125rem;
+  color: #fff;
+}
+
+.rf-offer p {
+  font-size: 0.9375rem;
+  line-height: 1.5rem;
+  color: var(--text-soft);
+}
+
+.rf-offer .rf-refs {
+  margin-top: 0.75rem;
+  font-size: 0.8125rem;
+  color: #93c5fd;
+}
+
+.rf-steps {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
+  gap: 1rem;
+  padding: 0;
+}
+
+.rf-steps li {
+  padding: 1rem 1.25rem;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 0.75rem;
+  background: var(--bg-panel);
+}
+
+.rf-steps .n {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  margin-bottom: 0.5rem;
+  border-radius: 9999px;
+  background: linear-gradient(135deg, #ff5211, #e43b7d);
+  color: #fff;
+  font-weight: 700;
+}
+
+.rf-steps h3 {
+  margin-bottom: 0.25rem;
+  font-size: 1rem;
+  color: #fff;
+}
+
+.rf-steps p {
+  font-size: 0.9375rem;
+  line-height: 1.5rem;
+  color: var(--text-soft);
+}
+
+.rf-timeline {
+  position: relative;
+  margin-left: 0.4rem;
+  padding-left: 1.75rem;
+}
+
+.rf-timeline::before {
+  content: "";
+  position: absolute;
+  top: 0.5rem;
+  bottom: 0;
+  left: 0;
+  width: 2px;
+  background: linear-gradient(180deg, #e43b7d, #7924c9 70%, transparent);
+}
+
+.rf-mission {
+  position: relative;
+  margin-bottom: 2.25rem;
+}
+
+.rf-mission::before {
+  content: "";
+  position: absolute;
+  top: 0.45rem;
+  left: calc(-1.75rem - 6px);
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #ff5211, #e43b7d);
+  box-shadow: 0 0 0 4px var(--bg), 0 0 12px rgba(228, 59, 125, 0.6);
+}
+
+.rf-mission header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.25rem 0.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.rf-mission h3 {
+  font-size: 1.25rem;
+  color: #fff;
+}
+
+.rf-role {
+  font-weight: 500;
+  color: #00a2e8;
+}
+
+.rf-date {
+  margin-left: auto;
+  padding: 0.125rem 0.625rem;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 9999px;
+  font-size: 0.8125rem;
+  white-space: nowrap;
+  color: var(--text-soft);
+}
+
+.rf-mission ul {
+  padding-left: 1.25rem;
+  list-style: disc;
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #d1d5db;
+}
+
+.rf-mission li {
+  margin: 0.25rem 0;
+}
+
+.rf-mission li::marker {
+  color: #6b7280;
+}
+
+.rf-tags,
+.rf-mission ul.rf-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.375rem;
+  margin-top: 0.75rem;
+  padding: 0;
+  list-style: none;
+}
+
+.rf-tags li {
+  margin: 0;
+  padding: 0.25rem 0.625rem;
+  border: 1px solid rgba(168, 85, 247, 0.5);
+  border-radius: 9999px;
+  background: rgba(121, 36, 201, 0.25);
+  font-size: 0.75rem;
+  line-height: 1rem;
+  color: #e9d5ff;
+}
+
+.rf-skills {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+  gap: 1.25rem 2rem;
+}
+
+.rf-skills h3 {
+  margin-bottom: 0.25rem;
+  font-size: 0.8125rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #93c5fd;
+}
+
+.rf-skills .rf-tags {
+  margin-top: 0.25rem;
+}
+
+@media (min-width: 768px) {
+  .resume-freelance h2.rf-title {
+    font-size: 2rem;
+  }
+  .rf-offers {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .rf-steps {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+
+@media print {
+  .resume-freelance h2.rf-title {
+    background: none;
+    color: #7924c9;
+    -webkit-text-fill-color: #7924c9;
+    margin-top: 1.5rem;
+  }
+  .rf-offer,
+  .rf-steps li {
+    background: #fff;
+    border-color: #ccc;
+    break-inside: avoid;
+  }
+  .rf-offer::before {
+    background: #7924c9;
+  }
+  .rf-offer .icon,
+  .rf-steps .n {
+    background: #7924c9;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+  .rf-offer h3,
+  .rf-steps h3,
+  .rf-mission h3,
+  .rf-offer p,
+  .rf-steps p,
+  .rf-mission ul {
+    color: #000;
+  }
+  .rf-offer .rf-refs,
+  .rf-skills h3 {
+    color: #555;
+  }
+  .rf-timeline::before {
+    background: #ccc;
+  }
+  .rf-mission {
+    break-inside: avoid;
+  }
+  .rf-mission::before {
+    background: #7924c9;
+    box-shadow: 0 0 0 4px #fff;
+  }
+  .rf-date {
+    border-color: #999;
+    color: #000;
+  }
+  .rf-tags li {
+    background: #fff;
+    border-color: #999;
+    color: #000;
+  }
+}

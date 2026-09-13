@@ -484,111 +484,343 @@ Développeur depuis 2012 et dirigeant d'Exostic (https://exostic.com) depuis 201
 
 ## Ce que je peux faire pour vous
 
-- Tech Lead et architecture : — Cadrage et spécification produit, architecture logicielle (clean architecture, DDD, microservices), mise en place de CI/CD et DevSecOps, encadrement et montée en compétences de l'équipe. Références : EDF, Totem.
-- Développement fullstack : — API Node.js et TypeScript (NestJS, Express, GraphQL), front React, Vue.js et React Native, bases PostgreSQL, MongoDB et Redis, tests unitaires et d'intégration. Références : Kidizz, Totem, Mr Arthur.
-- DevOps et cloud : — AWS (EKS, Lambda, Aurora, CloudFront) et Google Cloud, Kubernetes, Docker, Terraform, GitLab CI et GitHub Actions, supervision Prometheus, Grafana et Loki, migrations vers le cloud sans interruption de service. Références : Kidizz, Preligens.
-- Data engineering : — Pipelines Google Cloud Dataflow, Apache Airflow et DBT, restitution Looker et Metabase, détection de fraude et conformité en environnement bancaire. Références : Shine, Totem.
-- IoT et temps réel : — Objets connectés (LoRa, MQTT), WebSocket, plateformes de services en temps réel, interfaces embarquées. Références : Free2Move, ALOES.
-- Formation et mentoring : — JavaScript, React, Git, Linux, MongoDB, Kubernetes et OpenShift, pour des écoles (Centrale Nantes, IMEI) et des équipes en entreprise.
+### Tech Lead et architecture
+
+Cadrage et spécification produit, architecture logicielle (clean architecture, DDD, microservices), CI/CD et DevSecOps, encadrement et montée en compétences de l'équipe.
+
+Références : EDF, Totem
+
+### Développement fullstack
+
+API Node.js et TypeScript (NestJS, Express, GraphQL), front React, Vue.js et React Native, bases PostgreSQL, MongoDB et Redis, tests unitaires et d'intégration.
+
+Références : Kidizz, Totem, Mr Arthur
+
+### DevOps et cloud
+
+AWS (EKS, Lambda, Aurora, CloudFront) et Google Cloud, Kubernetes, Docker, Terraform, GitLab CI et GitHub Actions, supervision Prometheus, Grafana et Loki, migrations sans interruption de service.
+
+Références : Kidizz, Preligens
+
+### Data engineering
+
+Pipelines Google Cloud Dataflow, Apache Airflow et DBT, restitution Looker et Metabase, détection de fraude et conformité en environnement bancaire.
+
+Références : Shine, Totem
+
+### IoT et temps réel
+
+Objets connectés (LoRa, MQTT), WebSocket, plateformes de services en temps réel, interfaces embarquées.
+
+Références : Free2Move, ALOES
+
+### Formation et mentoring
+
+JavaScript, React, Git, Linux, MongoDB, Kubernetes et OpenShift, pour des écoles (Centrale Nantes, IMEI) et des équipes en entreprise.
+
+Références : Centrale Nantes, IMEI, EDF
 
 ## Méthode de travail
 
-- Itérations courtes avec des livraisons régulières, pour obtenir des retours tôt et ajuster les priorités.
-- Code testé (TDD, tests d'intégration), documenté et déployé automatiquement dès le premier jour.
-- Communication transparente avec l'équipe et les parties prenantes, en français ou en anglais.
-- Transfert de compétences systématique : documentation, ateliers et pair programming pour que l'équipe reste autonome après la mission.
+### Itérer
+
+Itérations courtes et livraisons régulières, pour obtenir des retours tôt et ajuster les priorités.
+
+### Fiabiliser
+
+Code testé (TDD, tests d'intégration), documenté et déployé automatiquement dès le premier jour.
+
+### Communiquer
+
+Communication transparente avec l'équipe et les parties prenantes, en français ou en anglais.
+
+### Transmettre
+
+Documentation, ateliers et pair programming pour que l'équipe reste autonome après la mission.
 
 ## Missions récentes
 
-### Shine — Senior Data Engineer
+### Shine
 
-#### Depuis avril 2025 · néobanque pour les professionnels
+Senior Data Engineer
+
+Depuis avril 2025
 
 - Amélioration des systèmes de détection de fraude bancaire.
 - Projets data au service de la conformité réglementaire.
-- Conception et exploitation de pipelines de données avec Google Cloud Dataflow, Apache Airflow et DBT, restitution dans Looker.
-- Stack : Google Cloud Dataflow, Apache Airflow, DBT, Looker, Python, TypeScript, Terraform.
+- Conception et exploitation de pipelines de données, restitution dans Looker.
 
-### Mr Arthur — Ingénieur logiciel
+- Google Cloud Dataflow
+- Apache Airflow
+- DBT
+- Looker
+- Python
+- TypeScript
+- Terraform
 
-#### Décembre 2024 à janvier 2025
+### Mr Arthur
 
-- Développement de l'application Android avec Vue.js, Ionic et Capacitor.
+Ingénieur logiciel
 
-### EDF — Tech Lead
+Déc. 2024 – janv. 2025
 
-#### Novembre 2023 à novembre 2024
+- Développement de l'application Android.
+
+- Vue.js
+- Ionic
+- Capacitor
+
+### EDF
+
+Tech Lead
+
+Nov. 2023 – nov. 2024
 
 - Spécification produit : analyse, facteurs d'émission, règles de calcul, design d'API et cahier des charges fonctionnel.
-- Définition de l'architecture, développement et sécurisation d'une API Node.js et TypeScript selon les principes de clean architecture, DDD et TDD.
+- Architecture, développement et sécurisation d'une API Node.js et TypeScript selon les principes de clean architecture, DDD et TDD.
 - Pipeline d'intégration et de déploiement continus avec outils de sécurité et de tests (DevSecOps).
 - Formation de l'équipe à Kubernetes et OpenShift, documentation, scripts et analyses Big Data.
-- Stack : Kubernetes, OpenShift, Trivy, SonarQube, Docker, GitLab CI/CD, AWS, Node.js, TypeScript, Python, Jest, Salesforce.
 
-### Enedis — Ingénieur logiciel
+- Kubernetes
+- OpenShift
+- Trivy
+- SonarQube
+- Docker
+- GitLab CI/CD
+- AWS
+- Node.js
+- TypeScript
+- Python
+- Jest
+- Salesforce
 
-#### Juillet à septembre 2024
+### Enedis
+
+Ingénieur logiciel
+
+Juil. – sept. 2024
 
 - Tableau de bord d'analyse et simulations à base d'agents, reliées entre elles.
-- Stack : React, Node.js, Julia, Agents.jl, Docker, GeoJSON, Leaflet, H3.
 
-### Totem — Tech Lead / Ingénieur produit
+- React
+- Node.js
+- Julia
+- Agents.jl
+- Docker
+- GeoJSON
+- Leaflet
+- H3
 
-#### Janvier 2021 à septembre 2022
+### Totem
+
+Tech Lead / Ingénieur produit
+
+Janv. 2021 – sept. 2022
 
 - Spécification produit, amélioration de l'architecture, du système de paiement et du pipeline de déploiement continu.
 - Développement de l'application mobile, gestion des stocks et pilotage de machines à café connectées.
 - Data engineering, mise en place du monitoring et du cache, ateliers et pair programming avec les développeurs.
-- Stack : TypeScript, React Native, Expo, React, Node.js, GraphQL, Apollo, Kubernetes, Docker, GitHub Actions, MongoDB, PostgreSQL, Redis, Python, DBT, Metabase, Grafana, Prometheus, OpenTelemetry.
 
-### Preligens — Développeur / DevOps
+- TypeScript
+- React Native
+- Expo
+- React
+- Node.js
+- GraphQL
+- Apollo
+- Kubernetes
+- Docker
+- GitHub Actions
+- MongoDB
+- PostgreSQL
+- Redis
+- Python
+- DBT
+- Metabase
+- Grafana
+- Prometheus
+- OpenTelemetry
 
-#### Octobre à décembre 2020
+### Preligens
+
+Développeur / DevOps
+
+Oct. – déc. 2020
 
 - Architecture logicielle cloud, déploiement continu avec GitHub Actions et Docker Swarm, infrastructure AWS avec Terraform.
-- Stack : Python, Docker Swarm, Traefik, AWS (VPC, EC2, DynamoDB, S3), Terraform, ElasticSearch, Kibana.
 
-### Kidizz — Développeur / DevOps
+- Python
+- Docker Swarm
+- Traefik
+- AWS
+- Terraform
+- ElasticSearch
+- Kibana
 
-#### Décembre 2018 à septembre 2020
+### Kidizz
+
+Développeur / DevOps
+
+Déc. 2018 – sept. 2020
 
 - Migration d'applications Node.js et Ruby on Rails vers un environnement managé AWS (EKS, Aurora) sans interruption de service.
 - Découplage d'un monolithe en microservices, API Node.js/GraphQL pour le web, le mobile et l'administration.
-- Déploiement continu GitLab et Kubernetes, monitoring (Prometheus, Grafana, Loki), sécurité réseau, déploiement multi-AZ et encodage vidéo serverless.
-- Stack : Kubernetes, Docker, Node.js, Ruby on Rails, PostgreSQL, Redis, AWS (EKS, VPC, Route 53, CloudFront, Lambda, S3, ELB, Aurora, Elastic Transcoder).
+- Déploiement continu GitLab et Kubernetes, monitoring, sécurité réseau, déploiement multi-AZ et encodage vidéo serverless.
 
-### Free2Move — Ingénieur R&D
+- Kubernetes
+- Docker
+- Node.js
+- Ruby on Rails
+- PostgreSQL
+- Redis
+- AWS EKS
+- Aurora
+- Lambda
+- CloudFront
+- Prometheus
+- Grafana
+- Loki
 
-#### Mars 2017 à avril 2018
+### Free2Move
+
+Ingénieur R&D
+
+Mars 2017 – avril 2018
 
 - Plateforme de services IoT en temps réel pour les véhicules : réservation de parking, télépéage, analyse du contexte de conduite.
 - Interfaces embarquées, facturation et paiement à la volée, architecture microservices et serverless AWS.
-- Stack : React, Redux, Node.js, Node-RED, Redis, AWS (Lambda, DynamoDB, Cognito, CloudFormation, SNS), Docker.
 
-### ALOES — Développeur R&D
+- React
+- Redux
+- Node.js
+- Node-RED
+- Redis
+- AWS Lambda
+- DynamoDB
+- Cognito
+- CloudFormation
+- Docker
 
-#### Janvier 2017 à janvier 2019
+### ALOES
+
+Développeur R&D
+
+Janv. 2017 – janv. 2019
 
 - État de l'art de l'IoT, spécification d'un objet connecté et développement d'une plateforme de conception d'objets connectés.
-- Stack : React, Node.js, MQTT, LoRa, Cayenne, IPSO, ESP8266, Arduino, C++.
+
+- React
+- Node.js
+- MQTT
+- LoRa
+- Cayenne
+- IPSO
+- ESP8266
+- Arduino
+- C++
 
 ## Parcours antérieur
 
-- Exostic : , depuis 2015 — Création et direction de la société : consulting, formation (IMEI, Centrale Nantes, entreprises), développement front-end d'un site de trading de métaux précieux en temps réel, générateur de landing pages isomorphe React, serveur WebSocket pour jeux Unity.
-- Freelance : , 2014 à 2015 — Framework MVC de monitoring temps réel (Node.js, Socket.IO, Redis), webapps AngularJS, formation de débutants à la programmation.
-- Toxicode : , 2012 à 2014 — Framework de jeux multijoueurs temps réel Node.js, jeu d'apprentissage de la programmation, applications pédagogiques, formations JavaScript et Node.js.
-- Acadomia : , 2010 à 2011 — Professeur de mathématiques et de physique.
+- Exostic, depuis 2015 : — Création et direction de la société : consulting, formation (IMEI, Centrale Nantes, entreprises), développement front-end d'un site de trading de métaux précieux en temps réel, générateur de landing pages isomorphe React, serveur WebSocket pour jeux Unity.
+- Freelance, 2014 à 2015 : — Framework MVC de monitoring temps réel (Node.js, Socket.IO, Redis), webapps AngularJS, formation de débutants à la programmation.
+- Toxicode, 2012 à 2014 : — Framework de jeux multijoueurs temps réel Node.js, jeu d'apprentissage de la programmation, applications pédagogiques, formations JavaScript et Node.js.
+- Acadomia, 2010 à 2011 : — Professeur de mathématiques et de physique.
 
 ## Compétences
 
-- Langages : TypeScript, JavaScript, Python, Bash, Julia, Ruby, Rust, C, C++
-- Back-end : Node.js, NestJS, Express, GraphQL, Next.js, Hasura, FastAPI, Ruby on Rails
-- Front-end et mobile : React, Vue.js, React Native, Expo, Ionic, Capacitor, HTML5, CSS3, Sass, WebSocket, WebRTC
-- Données : PostgreSQL, MongoDB, Redis, DynamoDB, InfluxDB, Google Cloud Dataflow, Apache Airflow, DBT, Looker, Metabase
-- Cloud et DevOps : AWS, Google Cloud Platform, Kubernetes, OpenShift, Docker, Terraform, Helm, GitLab CI/CD, GitHub Actions, Prometheus, Grafana, Loki, Kibana
-- Architecture et méthodes : Clean Architecture, DDD, architecture hexagonale, CQRS, Event Sourcing, TDD, microservices, agile
-- Sécurité : OAuth 2, JWT, Keycloak, IAM, ACL, VPN, gestion des secrets
-- IoT : LoRa, MQTT, IPSO, Cayenne
+### Langages
+
+- TypeScript
+- JavaScript
+- Python
+- Bash
+- Julia
+- Ruby
+- Rust
+- C
+- C++
+
+### Back-end
+
+- Node.js
+- NestJS
+- Express
+- GraphQL
+- Next.js
+- Hasura
+- FastAPI
+- Ruby on Rails
+
+### Front-end et mobile
+
+- React
+- Vue.js
+- React Native
+- Expo
+- Ionic
+- Capacitor
+- HTML5
+- CSS3
+- Sass
+- WebSocket
+- WebRTC
+
+### Données
+
+- PostgreSQL
+- MongoDB
+- Redis
+- DynamoDB
+- InfluxDB
+- Google Cloud Dataflow
+- Apache Airflow
+- DBT
+- Looker
+- Metabase
+
+### Cloud et DevOps
+
+- AWS
+- Google Cloud Platform
+- Kubernetes
+- OpenShift
+- Docker
+- Terraform
+- Helm
+- GitLab CI/CD
+- GitHub Actions
+- Prometheus
+- Grafana
+- Loki
+- Kibana
+
+### Architecture et méthodes
+
+- Clean Architecture
+- DDD
+- Architecture hexagonale
+- CQRS
+- Event Sourcing
+- TDD
+- Microservices
+- Agile
+
+### Sécurité
+
+- OAuth 2
+- JWT
+- Keycloak
+- IAM
+- ACL
+- VPN
+- Gestion des secrets
+
+### IoT
+
+- LoRa
+- MQTT
+- IPSO
+- Cayenne
 
 ## Formation
 
@@ -1082,111 +1314,343 @@ A developer since 2012 and the founder of Exostic (https://exostic.com/en/) sinc
 
 ## What I can do for you
 
-- Tech Lead and architecture : — Product framing and specification, software architecture (clean architecture, DDD, microservices), CI/CD and DevSecOps setup, team leadership and upskilling. References: EDF, Totem.
-- Fullstack development : — Node.js and TypeScript APIs (NestJS, Express, GraphQL), React, Vue.js and React Native front ends, PostgreSQL, MongoDB and Redis, unit and integration tests. References: Kidizz, Totem, Mr Arthur.
-- DevOps and cloud : — AWS (EKS, Lambda, Aurora, CloudFront) and Google Cloud, Kubernetes, Docker, Terraform, GitLab CI and GitHub Actions, monitoring with Prometheus, Grafana and Loki, zero-downtime cloud migrations. References: Kidizz, Preligens.
-- Data engineering : — Google Cloud Dataflow, Apache Airflow and DBT pipelines, Looker and Metabase reporting, fraud detection and compliance in a banking environment. References: Shine, Totem.
-- IoT and real time : — Connected devices (LoRa, MQTT), WebSocket, real-time service platforms, embedded interfaces. References: Free2Move, ALOES.
-- Training and mentoring : — JavaScript, React, Git, Linux, MongoDB, Kubernetes and OpenShift, for schools (Centrale Nantes, IMEI) and company teams.
+### Tech Lead and architecture
+
+Product framing and specification, software architecture (clean architecture, DDD, microservices), CI/CD and DevSecOps, team leadership and upskilling.
+
+References: EDF, Totem
+
+### Fullstack development
+
+Node.js and TypeScript APIs (NestJS, Express, GraphQL), React, Vue.js and React Native front ends, PostgreSQL, MongoDB and Redis, unit and integration tests.
+
+References: Kidizz, Totem, Mr Arthur
+
+### DevOps and cloud
+
+AWS (EKS, Lambda, Aurora, CloudFront) and Google Cloud, Kubernetes, Docker, Terraform, GitLab CI and GitHub Actions, monitoring with Prometheus, Grafana and Loki, zero-downtime migrations.
+
+References: Kidizz, Preligens
+
+### Data engineering
+
+Google Cloud Dataflow, Apache Airflow and DBT pipelines, Looker and Metabase reporting, fraud detection and compliance in a banking environment.
+
+References: Shine, Totem
+
+### IoT and real time
+
+Connected devices (LoRa, MQTT), WebSocket, real-time service platforms, embedded interfaces.
+
+References: Free2Move, ALOES
+
+### Training and mentoring
+
+JavaScript, React, Git, Linux, MongoDB, Kubernetes and OpenShift, for schools (Centrale Nantes, IMEI) and company teams.
+
+References: Centrale Nantes, IMEI, EDF
 
 ## How I work
 
-- Short iterations with regular deliveries, to get feedback early and adjust priorities.
-- Tested (TDD, integration tests), documented and automatically deployed code from day one.
-- Transparent communication with the team and stakeholders, in French or English.
-- Systematic knowledge transfer: documentation, workshops and pair programming so the team stays autonomous after the assignment.
+### Iterate
+
+Short iterations and regular deliveries, to get feedback early and adjust priorities.
+
+### Secure
+
+Tested (TDD, integration tests), documented and automatically deployed code from day one.
+
+### Communicate
+
+Transparent communication with the team and stakeholders, in French or English.
+
+### Hand over
+
+Documentation, workshops and pair programming so the team stays autonomous after the assignment.
 
 ## Recent assignments
 
-### Shine — Senior Data Engineer
+### Shine
 
-#### Since April 2025 · business neobank
+Senior Data Engineer
+
+Since April 2025
 
 - Improvement of banking fraud detection systems.
 - Data projects supporting regulatory compliance.
-- Design and operation of data pipelines with Google Cloud Dataflow, Apache Airflow and DBT, reporting in Looker.
-- Stack: Google Cloud Dataflow, Apache Airflow, DBT, Looker, Python, TypeScript, Terraform.
+- Design and operation of data pipelines, reporting in Looker.
 
-### Mr Arthur — Software Engineer
+- Google Cloud Dataflow
+- Apache Airflow
+- DBT
+- Looker
+- Python
+- TypeScript
+- Terraform
 
-#### December 2024 to January 2025
+### Mr Arthur
 
-- Development of the Android application with Vue.js, Ionic and Capacitor.
+Software Engineer
 
-### EDF — Tech Lead
+Dec 2024 – Jan 2025
 
-#### November 2023 to November 2024
+- Development of the Android application.
+
+- Vue.js
+- Ionic
+- Capacitor
+
+### EDF
+
+Tech Lead
+
+Nov 2023 – Nov 2024
 
 - Product specification: analysis, emission factors, calculation rules, API design and functional requirements.
-- Architecture definition, development and hardening of a Node.js and TypeScript API following clean architecture, DDD and TDD principles.
+- Architecture, development and hardening of a Node.js and TypeScript API following clean architecture, DDD and TDD principles.
 - Continuous integration and deployment pipeline with security and testing tools (DevSecOps).
 - Kubernetes and OpenShift training for the team, documentation, Big Data scripts and analyses.
-- Stack: Kubernetes, OpenShift, Trivy, SonarQube, Docker, GitLab CI/CD, AWS, Node.js, TypeScript, Python, Jest, Salesforce.
 
-### Enedis — Software Engineer
+- Kubernetes
+- OpenShift
+- Trivy
+- SonarQube
+- Docker
+- GitLab CI/CD
+- AWS
+- Node.js
+- TypeScript
+- Python
+- Jest
+- Salesforce
 
-#### July to September 2024
+### Enedis
+
+Software Engineer
+
+Jul – Sep 2024
 
 - Analysis dashboard and agent-based simulations, linked together.
-- Stack: React, Node.js, Julia, Agents.jl, Docker, GeoJSON, Leaflet, H3.
 
-### Totem — Tech Lead / Product Engineer
+- React
+- Node.js
+- Julia
+- Agents.jl
+- Docker
+- GeoJSON
+- Leaflet
+- H3
 
-#### January 2021 to September 2022
+### Totem
+
+Tech Lead / Product Engineer
+
+Jan 2021 – Sep 2022
 
 - Product specification, improvements to the architecture, the payment system and the continuous deployment pipeline.
 - Mobile application development, stock management and control of connected coffee machines.
 - Data engineering, monitoring and caching setup, workshops and pair programming with developers.
-- Stack: TypeScript, React Native, Expo, React, Node.js, GraphQL, Apollo, Kubernetes, Docker, GitHub Actions, MongoDB, PostgreSQL, Redis, Python, DBT, Metabase, Grafana, Prometheus, OpenTelemetry.
 
-### Preligens — Developer / DevOps
+- TypeScript
+- React Native
+- Expo
+- React
+- Node.js
+- GraphQL
+- Apollo
+- Kubernetes
+- Docker
+- GitHub Actions
+- MongoDB
+- PostgreSQL
+- Redis
+- Python
+- DBT
+- Metabase
+- Grafana
+- Prometheus
+- OpenTelemetry
 
-#### October to December 2020
+### Preligens
+
+Developer / DevOps
+
+Oct – Dec 2020
 
 - Cloud software architecture, continuous deployment with GitHub Actions and Docker Swarm, AWS infrastructure with Terraform.
-- Stack: Python, Docker Swarm, Traefik, AWS (VPC, EC2, DynamoDB, S3), Terraform, ElasticSearch, Kibana.
 
-### Kidizz — Developer / DevOps
+- Python
+- Docker Swarm
+- Traefik
+- AWS
+- Terraform
+- ElasticSearch
+- Kibana
 
-#### December 2018 to September 2020
+### Kidizz
+
+Developer / DevOps
+
+Dec 2018 – Sep 2020
 
 - Migration of Node.js and Ruby on Rails applications to a managed AWS environment (EKS, Aurora) with no service interruption.
 - Monolith split into microservices, Node.js/GraphQL API for web, mobile and admin.
-- GitLab and Kubernetes continuous deployment, monitoring (Prometheus, Grafana, Loki), network security, multi-AZ deployment and serverless video encoding.
-- Stack: Kubernetes, Docker, Node.js, Ruby on Rails, PostgreSQL, Redis, AWS (EKS, VPC, Route 53, CloudFront, Lambda, S3, ELB, Aurora, Elastic Transcoder).
+- GitLab and Kubernetes continuous deployment, monitoring, network security, multi-AZ deployment and serverless video encoding.
 
-### Free2Move — R&D Engineer
+- Kubernetes
+- Docker
+- Node.js
+- Ruby on Rails
+- PostgreSQL
+- Redis
+- AWS EKS
+- Aurora
+- Lambda
+- CloudFront
+- Prometheus
+- Grafana
+- Loki
 
-#### March 2017 to April 2018
+### Free2Move
+
+R&D Engineer
+
+Mar 2017 – Apr 2018
 
 - Real-time IoT service platform for vehicles: parking booking, electronic tolling, driving context analysis.
 - In-car interfaces, on-the-fly billing and payment, AWS microservices and serverless architecture.
-- Stack: React, Redux, Node.js, Node-RED, Redis, AWS (Lambda, DynamoDB, Cognito, CloudFormation, SNS), Docker.
 
-### ALOES — R&D Developer
+- React
+- Redux
+- Node.js
+- Node-RED
+- Redis
+- AWS Lambda
+- DynamoDB
+- Cognito
+- CloudFormation
+- Docker
 
-#### January 2017 to January 2019
+### ALOES
+
+R&D Developer
+
+Jan 2017 – Jan 2019
 
 - IoT state of the art, specification of a connected device and development of a platform for designing connected devices.
-- Stack: React, Node.js, MQTT, LoRa, Cayenne, IPSO, ESP8266, Arduino, C++.
+
+- React
+- Node.js
+- MQTT
+- LoRa
+- Cayenne
+- IPSO
+- ESP8266
+- Arduino
+- C++
 
 ## Earlier career
 
-- Exostic : , since 2015 — Founded and run the company: consulting, training (IMEI, Centrale Nantes, companies), front-end development of a real-time precious metals trading site, isomorphic React landing page generator, WebSocket server for Unity games.
-- Freelance : , 2014 to 2015 — Real-time monitoring MVC framework (Node.js, Socket.IO, Redis), AngularJS web apps, programming courses for beginners.
-- Toxicode : , 2012 to 2014 — Real-time multiplayer game framework in Node.js, programming learning game, educational applications, JavaScript and Node.js training.
-- Acadomia : , 2010 to 2011 — Mathematics and physics teacher.
+- Exostic, since 2015 : — Founded and run the company: consulting, training (IMEI, Centrale Nantes, companies), front-end development of a real-time precious metals trading site, isomorphic React landing page generator, WebSocket server for Unity games.
+- Freelance, 2014 to 2015 : — Real-time monitoring MVC framework (Node.js, Socket.IO, Redis), AngularJS web apps, programming courses for beginners.
+- Toxicode, 2012 to 2014 : — Real-time multiplayer game framework in Node.js, programming learning game, educational applications, JavaScript and Node.js training.
+- Acadomia, 2010 to 2011 : — Mathematics and physics teacher.
 
 ## Skills
 
-- Languages: TypeScript, JavaScript, Python, Bash, Julia, Ruby, Rust, C, C++
-- Back-end: Node.js, NestJS, Express, GraphQL, Next.js, Hasura, FastAPI, Ruby on Rails
-- Front-end and mobile: React, Vue.js, React Native, Expo, Ionic, Capacitor, HTML5, CSS3, Sass, WebSocket, WebRTC
-- Data: PostgreSQL, MongoDB, Redis, DynamoDB, InfluxDB, Google Cloud Dataflow, Apache Airflow, DBT, Looker, Metabase
-- Cloud and DevOps: AWS, Google Cloud Platform, Kubernetes, OpenShift, Docker, Terraform, Helm, GitLab CI/CD, GitHub Actions, Prometheus, Grafana, Loki, Kibana
-- Architecture and methods: Clean Architecture, DDD, hexagonal architecture, CQRS, Event Sourcing, TDD, microservices, agile
-- Security: OAuth 2, JWT, Keycloak, IAM, ACL, VPN, secrets management
-- IoT: LoRa, MQTT, IPSO, Cayenne
+### Languages
+
+- TypeScript
+- JavaScript
+- Python
+- Bash
+- Julia
+- Ruby
+- Rust
+- C
+- C++
+
+### Back-end
+
+- Node.js
+- NestJS
+- Express
+- GraphQL
+- Next.js
+- Hasura
+- FastAPI
+- Ruby on Rails
+
+### Front-end and mobile
+
+- React
+- Vue.js
+- React Native
+- Expo
+- Ionic
+- Capacitor
+- HTML5
+- CSS3
+- Sass
+- WebSocket
+- WebRTC
+
+### Data
+
+- PostgreSQL
+- MongoDB
+- Redis
+- DynamoDB
+- InfluxDB
+- Google Cloud Dataflow
+- Apache Airflow
+- DBT
+- Looker
+- Metabase
+
+### Cloud and DevOps
+
+- AWS
+- Google Cloud Platform
+- Kubernetes
+- OpenShift
+- Docker
+- Terraform
+- Helm
+- GitLab CI/CD
+- GitHub Actions
+- Prometheus
+- Grafana
+- Loki
+- Kibana
+
+### Architecture and methods
+
+- Clean Architecture
+- DDD
+- Hexagonal architecture
+- CQRS
+- Event Sourcing
+- TDD
+- Microservices
+- Agile
+
+### Security
+
+- OAuth 2
+- JWT
+- Keycloak
+- IAM
+- ACL
+- VPN
+- Secrets management
+
+### IoT
+
+- LoRa
+- MQTT
+- IPSO
+- Cayenne
 
 ## Education
 
