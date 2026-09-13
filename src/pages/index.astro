@@ -26,7 +26,6 @@ const metadata = {
       href: 'https://calendly.com/jeremy-exostic/30min',
       icon: 'tabler:message-star',
     }}
-    callToAction2={}
     image={{ src: import('~/assets/images/new-background.png'), alt: 'Exostic' }}
   >
     <Fragment slot="title">
@@ -197,7 +196,7 @@ const metadata = {
     ]}
     image={{
       src: import('~/assets/images/caos.png'),
-      alt: 'Colorful Image',
+      alt: 'Illustration du développement fullstack',
     }}
   >
     <Fragment slot="content">
@@ -229,7 +228,7 @@ const metadata = {
     ]}
     image={{
       src: import('~/assets/images/devops.png'),
-      alt: 'Colorful Image',
+      alt: 'Illustration de la méthodologie DevOps',
     }}
   >
     <Fragment slot="content">
@@ -258,7 +257,7 @@ const metadata = {
     ]}
     image={{
       src: import('~/assets/images/remote.png'),
-      alt: 'Colorful Image',
+      alt: "Illustration de l'organisation agile",
     }}
   >
     <Fragment slot="content">
@@ -270,14 +269,14 @@ const metadata = {
     <Fragment slot="content">
       <Picture
         class="mx-auto w-full hero-picture max-w-2xl"
-        widths={[400, 768, 1024, 1024]}
-        sizes="(max-width: 767px) 400px, (max-width: 1023px) 768px, (max-width: 2039px) 1024px, 1024px"
+        widths={[400, 768, 1024]}
+        sizes="(max-width: 767px) 100vw, 672px"
         aspectRatio={1}
-        loading="eager"
+        loading="lazy"
         width={1024}
         height={1024}
         src={import('~/assets/images/technos.png')}
-        alt="exostic-picture-reverted"
+        alt="Technologies maîtrisées par Exostic : langages, frameworks et outils"
       />
     </Fragment>
   </Content2>

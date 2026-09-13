@@ -49,10 +49,11 @@ const dotKeyframesCSS = DOTS.map(
               ) : (
                 <Picture
                   class="mx-auto w-full hero-picture"
-                  widths={[400, 768, 1024, 2040]}
-                  sizes="(max-width: 767px) 400px, (max-width: 1023px) 768px, (max-width: 2039px) 1024px, 2040px"
+                  widths={[640, 1024, 1717]}
+                  sizes="(max-width: 767px) 640px, (max-width: 1279px) 1024px, 1717px"
                   aspectRatio={1024 / 576}
                   loading="eager"
+                  fetchpriority="high"
                   width={1024}
                   height={576}
                   {...image}
@@ -156,7 +157,8 @@ const dotKeyframesCSS = DOTS.map(
   .pacman {
     position: absolute;
     bottom: 0;
-    left: -60px;
+    left: 0;
+    will-change: transform;
     width: 48px;
     height: 48px;
     border-radius: 50%;
@@ -169,10 +171,20 @@ const dotKeyframesCSS = DOTS.map(
 
   @keyframes pacman-move {
     from {
-      left: -60px;
+      transform: translateX(-60px);
     }
     to {
-      left: calc(100% + 60px);
+      transform: translateX(calc(100vw + 60px));
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .pacman,
+    .pacman-dot {
+      animation: none !important;
+    }
+    .pacman {
+      display: none;
     }
   }
 

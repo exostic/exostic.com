@@ -32,9 +32,7 @@ export default defineConfig({
 
   integrations: [
     tailwind({
-      config: {
-        applyBaseStyles: false,
-      },
+      applyBaseStyles: false,
     }),
     sitemap(),
     image(),
