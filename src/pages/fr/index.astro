@@ -1,0 +1,281 @@
+---
+import Layout from '~/layouts/PageLayout.astro';
+
+import { Picture } from '@astrojs/image/components';
+import Hero from '~/components/widgets/Hero.astro';
+import Features from '~/components/widgets/Features.astro';
+import Features2 from '~/components/widgets/Features2.astro';
+import Content from '~/components/widgets/Content.astro';
+import Content2 from '~/components/widgets/Content2.astro';
+
+const metadata = {
+  title: 'Exostic — Ingénierie Produit, Software et Système',
+  dontUseTitleTemplate: true,
+};
+---
+
+<Layout metadata={metadata}>
+  <!-- Hero Widget ******************* -->
+
+  <Hero
+    callToAction={{
+      text: 'PRENDRE UN RENDEZ-VOUS',
+      href: 'https://calendly.com/jeremy-exostic/30min',
+      icon: 'tabler:message-star',
+    }}
+    callToAction2={}
+    image={{ src: import('~/assets/images/test-background.jpg'), alt: 'Exostic' }}
+  >
+    <Fragment slot="title">
+      Ingénierie <span class="text-accent dark:text-white highlight">Produit</span>, <span
+        class="text-accent dark:text-white highlight">Software</span
+      > et <span class="text-accent dark:text-white highlight">Système</span>
+    </Fragment>
+
+    <Fragment slot="subtitle">
+      Développez votre produit en suivant des méthodes de qualité en accord avec la demande de vos clients
+    </Fragment>
+  </Hero>
+
+  <Features2
+    id="services"
+    title="Notre savoir-faire"
+    subtitle="Nos spécialités ont été acquises lors des 10 dernières années à travers des projets réalisés pour tout type de société (Grands groupes, PME, Startups)."
+    tagline="Services"
+    items={[
+      {
+        title: 'Organisation',
+        description: 'Intégrez votre projets au coeur de votre business grâce à une stratégie digitale innovante.',
+        icon: 'flat-color-icons:home',
+      },
+      {
+        title: 'Équipe',
+        description:
+          'Recrutez, gérez et faites évoluer des collaborateurs pour répondre à vos problématiques techniques.',
+        icon: 'flat-color-icons:conference-call',
+      },
+      {
+        title: 'Clients',
+        description:
+          "Être à l'écoute de vos clients pour répondre au mieux à leurs besoins tout en gardant vos objectifs en tête.",
+        icon: 'flat-color-icons:faq',
+      },
+      {
+        title: 'Produit',
+        description: "Répondre à une problématique ou à un besoin grâce à l'outil informatique en suivant vos KPI.",
+        icon: 'flat-color-icons:video-projector',
+      },
+      {
+        title: 'Logiciel',
+        description:
+          'Inventez de nouvelles fonctionnalités qui donneront satisfactions à vos utilisateurs de manière pereine dans le temps.',
+        icon: 'flat-color-icons:smartphone-tablet',
+      },
+      {
+        title: 'Système',
+        description:
+          "Vos systèmes ont besoin d'être imaginés, d'évolués ou d'être monitorés pour évoluer en fonction des étapes du projet.",
+        icon: 'flat-color-icons:mind-map',
+      },
+    ]}
+  >
+    <Fragment slot="bg">
+      <div class="h-screen sm:visible invisible m-auto md:w-full md:left-0">
+        <Picture
+          class="mx-auto w-full hero-picture"
+          widths={[400, 768, 1024, 2040]}
+          sizes="(max-width: 767px) 400px, (max-width: 1023px) 768px, (max-width: 2039px) 1024px, 2040px"
+          aspectRatio={1024 / 576}
+          loading="eager"
+          width={1024}
+          height={576}
+          src={import('~/assets/images/test-background-2.jpg')}
+          alt="exostic-picture-reverted"
+        />
+      </div>
+    </Fragment>
+  </Features2>
+
+  <!-- Note Widget ******************* -->
+
+  <!-- <Note /> -->
+
+  <!-- Features Widget *************** -->
+
+  <Features
+    id="domains"
+    tagline="Domaines"
+    title="Votre métier"
+    subtitle="Le domaine de votre métier est la pierre angulaire de la conception logicielle, et la modélisation du domaine est au cœur de l'approche. En comprenant le domaine de manière approfondie, les développeurs peuvent créer des solutions logicielles qui répondent de manière précise et efficace aux besoins métier de l'entreprise."
+    items={[
+      {
+        title: 'Logistique',
+        description:
+          "Modélisation des stocks, gestion des entrepôts et des magasins, gestion des livraisons et des livreurs, prévisions d'approvisionnement et les commandes fournisseurs.",
+        icon: 'tabler:truck',
+      },
+      {
+        title: 'E-commerce',
+        description:
+          'Modélisation des gestionnaires du catalogue de produits, modéliser un portefeuille utilisateurs avec plusieurs moyens de paiement, gestionnaire de prix et de réduction.',
+        icon: 'tabler:basket',
+      },
+      {
+        title: 'Jeux vidéo',
+        description:
+          "Modélisation d'un lobby, des joueur, des règles du jeu, des scores. Création de l'interface utilisateur, de l'expérience utilisateur et game design.",
+        icon: 'tabler:device-gamepad',
+      },
+      {
+        title: 'Internet of Things',
+        description:
+          "Modélisation des types de capteurs, des types d'appareil, des noeuds du réseau (gateways, répéteurs), widget de présentation, gestion du temps réel.",
+        icon: 'tabler:home-share',
+      },
+      {
+        title: 'Apprentissage',
+        description:
+          "Création de serious game, recherche de vulgarisation, outils de partage de connaissance, connaissance des contrainte de l'éducation nationale.",
+        icon: 'tabler:book',
+      },
+      {
+        title: 'Réseaux sociaux',
+        description:
+          'Contrainte de scalabilité des réseaux sociaux, gestion des timelines, gestion des utilisateurs, authentification, gestion de profils.',
+        icon: 'tabler:social',
+      },
+      {
+        title: 'Big Data',
+        description:
+          'Mise en place des warehouses, scalabilité, visualisation, gestion de bases de données, data modelling.',
+        icon: 'tabler:chart-arrows-vertical',
+      },
+      {
+        title: 'Ressources humaines',
+        description: "Qualification d'un projet, qualification d'un profil, matching, acquisition de profil.",
+        icon: 'tabler:users-plus',
+      },
+      {
+        title: 'Défense',
+        description: 'OSINT, GEOINT, Cartographie, Détection par intelligence artificielle',
+        icon: 'tabler:users-plus',
+      },
+      {
+        title: 'Votre métier...',
+        description:
+          "Découverte du/des domaine(s) de votre métier, modélisations des concepts et des processes, cas d'usage, évenements du domaine",
+        icon: 'tabler:plus',
+      },
+    ]}
+  />
+
+  <!-- Content Widget **************** -->
+
+  <Content
+    id="solutions"
+    tagline="Solutions"
+    title="Au coeur de la solution"
+    items={[
+      {
+        title: 'Architecture FULLSTACK',
+        description:
+          "Le développement Fullstack implique de concevoir une architecture globale pour l'application web, définir les interactions entre les différents composants (frontend et backend), choisir les technologies et les outils adaptés pour assurer une intégration fluide et une communication efficace entre les parties.",
+      },
+      {
+        title: 'Programmation BACK-END',
+        description:
+          "Le développement back-end se concentre sur la mise en œuvre de la logique métier, la gestion des données, et la gestion des requêtes et des réponses du serveur. Cela inclut la création d'APIs, la gestion des bases de données, et la sécurisation des accès aux données et aux fonctionnalités.",
+      },
+      {
+        title: 'Programmation FRONT-END',
+        description:
+          "Le développement front-end concerne la création de l'interface utilisateur avec laquelle les utilisateurs interagissent. Cela comprend la conception des pages web, l'implémentation des fonctionnalités interactives, et la prise en compte de l'expérience utilisateur pour assurer une interface attrayante et intuitive.",
+      },
+    ]}
+    image={{
+      src: import('~/assets/images/caos.jpg'),
+      alt: 'Colorful Image',
+    }}
+  >
+    <Fragment slot="content">
+      <h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">Développement Fullstack</h3>
+    </Fragment>
+  </Content>
+
+  <!-- Content Widget **************** -->
+
+  <Content
+    isReversed
+    isAfterContent
+    items={[
+      {
+        title: 'Collaboration étroite entre développement et opérations',
+        description:
+          "Nous encourageons une communication transparente et une collaboration étroite entre les équipes de développement et d'exploitation. Cela permet de supprimer les silos traditionnels et de promouvoir une approche holistique du développement, du déploiement et de la gestion des applications.",
+      },
+      {
+        title: 'Automatisation des processus',
+        description:
+          "Nous mettons l'accent sur l'automatisation des tâches répétitives et manuelles tout au long du cycle de vie du développement logiciel. Cela inclut l'automatisation des tests, du déploiement, de la surveillance et de la gestion des infrastructures, ce qui permet d'accélérer la livraison des applications et d'améliorer leur qualité.",
+      },
+      {
+        title: 'Amélioration continue',
+        description:
+          "Créer une approche d'amélioration continue en mettant l'accent sur les retours d'expérience, les analyses des performances et les rétroactions régulières. Les équipes peuvent identifier rapidement les problèmes et les opportunités d'amélioration, ce qui leur permet d'itérer et de s'adapter rapidement pour fournir des produits et services de haute qualité de manière efficace.",
+      },
+    ]}
+    image={{
+      src: import('~/assets/images/devops.png'),
+      alt: 'Colorful Image',
+    }}
+  >
+    <Fragment slot="content">
+      <h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">Méthodologie DevOps</h3>
+    </Fragment>
+  </Content>
+
+  <Content
+    isAfterContent
+    items={[
+      {
+        title: 'Itérations et livraisons incrémentales',
+        description:
+          "Nous nous reposons sur le principe de travailler par itérations courtes et régulières. À la fin de chaque itération, une version fonctionnelle du produit est livrée, ce qui permet d'obtenir rapidement des retours d'utilisateurs et d'ajuster les priorités du projet en conséquence.",
+      },
+      {
+        title: 'Flexibilité et adaptation aux changements',
+        description:
+          "Nous favorisons la flexibilité et la capacité à s'adapter aux changements. Plutôt que de figer un plan détaillé en début de projet, nous sommes prêt à faire face aux modifications des exigences, des priorités et des contraintes, en réévaluant continuellement son approche pour maximiser la valeur livrée.",
+      },
+      {
+        title: 'Collaboration et communication active',
+        description:
+          "Nous collaborons étroitemet avec les membres de l'équipe et les parties prenantes. Une communication active et transparente permet à l'équipe de mieux comprendre les besoins du client et d'obtenir des retours réguliers tout au long du processus de développement. Cette approche facilite l'engagement de tous les acteurs concernés et conduit à une meilleure compréhension des objectifs et des résultats attendus.",
+      },
+    ]}
+    image={{
+      src: import('~/assets/images/remote.jpg'),
+      alt: 'Colorful Image',
+    }}
+  >
+    <Fragment slot="content">
+      <h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">Organisation Agile</h3>
+    </Fragment>
+  </Content>
+
+  <Content2 id="technologies" tagline="Technologies" title="Le temps de l'éxecution">
+    <Fragment slot="content">
+      <Picture
+        class="mx-auto w-full hero-picture max-w-2xl"
+        widths={[400, 768, 1024, 1024]}
+        sizes="(max-width: 767px) 400px, (max-width: 1023px) 768px, (max-width: 2039px) 1024px, 1024px"
+        aspectRatio={1}
+        loading="eager"
+        width={1024}
+        height={1024}
+        src={import('~/assets/images/technos.jpg')}
+        alt="exostic-picture-reverted"
+      />
+    </Fragment>
+  </Content2>
+</Layout>

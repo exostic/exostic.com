@@ -29,11 +29,11 @@ const { socialLinks = [], secondaryLinks = [], links = [], footNote = '', theme 
 
 <footer class:list={[{ dark: theme === 'dark' }, 'relative p-6 not-prose bg-[]']}>
   <div class="dark:bg-dark absolute inset-0 pointer-events-none" aria-hidden="true"></div>
-  <div class="absolute visible m-auto w-full left-0 bottom-0">
+  <div class="absolute visible m-auto w-full left-0 bottom-0 top-[50px]">
     <Picture
         widths={[1725]}
         loading="eager"
-        src={import('~/assets/images/test-background-3.jpg')}
+        src={import('~/assets/images/new-footer.png')}
         alt="exostic-picture-reverted"
     />
   </div>
@@ -43,11 +43,12 @@ const { socialLinks = [], secondaryLinks = [], links = [], footNote = '', theme 
     <!--   <div class="col-span-12 lg:col-span-4"> -->
         <div class="relative mb-4 text-center exostic-blur-background max-w-sm p-4 mx-auto">
           <a class="inline-block font-bold text-xl" href={getHomePermalink()}>{SITE_CONFIG?.name}</a>
-          <p>144 rue Paul Bellamy</p>
-          <p>44OOO Nantes</p>
+          <p>16 Impasse du Chêne Vert</p>
+          <p>17340 Châtelaillon-Plage</p>
           <p>Tel: +33972170363</p>
-          <p class="btn btn-primary px-3 py-1 m-2"><a target="_blank" href="mailto:contact@exostic.com">contact@exostic.com<a></p>
-          <p>SIRET: 81208696500033</p>
+          <p class="btn btn-primary px-3 py-1 m-2"><a target="_blank" href="mailto:contact@exostic.com">contact@exostic.com</a></p>
+          <p class="text-xs opacity-80 mt-2">EXOSTIC — SAS au capital de 2 501 €</p>
+          <p class="text-xs opacity-80">SIRET 812 086 965 00041 · TVA FR80 812086965</p>
         </div>
         <!-- <div class="text-sm text-muted"> -->
     <!--       { -->

@@ -25,6 +25,6 @@ export const footerData = {
   secondaryLinks: [],
   socialLinks: [],
   footNote: `
-    Fait par <a class="text-blue-600 hover:underline dark:text-gray-200" href="https://exostic.com/"> Exostic</a> · Tous droits réservés. 2023 · v1.0.0
+    © 2015–2026 Exostic · SAS au capital de 2 501 € · Tous droits réservés.
   `,
 };

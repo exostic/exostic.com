@@ -30,7 +30,7 @@
   }
 
   .btn {
-    @apply inline-flex items-center justify-center rounded-full shadow-md border-gray-400 border bg-transparent font-medium text-center text-base text-page leading-snug transition py-3.5 px-6 md:px-8 ease-in duration-200 focus:ring-blue-500 focus:ring-offset-blue-200 focus:ring-2 focus:ring-offset-2 hover:bg-gray-100 hover:border-gray-600 dark:text-slate-300 dark:border-slate-500 dark:hover:bg-slate-800 dark:hover:border-slate-800;
+    @apply inline-flex items-center justify-center rounded-full shadow-md border-gray-400 border bg-transparent font-medium text-center text-base text-page leading-snug transition py-3.5 px-6 md:px-8 ease-in duration-200 focus:ring-pink-500 focus:ring-offset-pink-200 focus:ring-2 focus:ring-offset-2 hover:bg-gray-100 hover:border-gray-600 dark:text-slate-300 dark:border-slate-500 dark:hover:bg-slate-800 dark:hover:border-slate-800;
   }
 
   .btn-ghost {
@@ -38,7 +38,7 @@
   }
 
   .btn-primary {
-    @apply font-semibold bg-primary text-white border-none hover:bg-secondary hover:border-secondary hover:text-white dark:text-white dark:bg-primary dark:border-primary dark:hover:border-secondary dark:hover:bg-secondary;
+    @apply font-semibold bg-gradient-to-r from-[#ff5211] via-[#e43b7d] to-[#4c3584] bg-[length:200%_auto] bg-left text-white border-none transition-[background-position] duration-500 hover:bg-right hover:text-white dark:text-white dark:hover:bg-right;
   }
 }
 

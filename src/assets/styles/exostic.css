@@ -1,18 +1,18 @@
 .exostic-gradient {
-  background: linear-gradient(0deg, #009cff, #3b0066, #f708a8, #ffe252);
+  background: linear-gradient(0deg, #4c3584, #e43b7d, #ff5211);
   background-size: 300% 300%;
   animation: gradient 30s ease infinite;
 }
 
 .exostic-gradient-2 {
-  background: linear-gradient(180deg, #f708a8, #3b0066, #009cff);
+  background: linear-gradient(180deg, #ff5211, #e43b7d, #4c3584);
   background-size: 300% 300%;
   animation: gradient 30s ease infinite;
   opacity: 0.35;
 }
 
 .exostic-gradient-revert {
-  background: linear-gradient(180deg, #009cff, #3b0066, #f708a8, #ffe252);
+  background: linear-gradient(180deg, #4c3584, #e43b7d, #ff5211);
   background-size: 300% 300%;
   animation: gradient 30s ease infinite;
 }

@@ -20,6 +20,19 @@ const {
   callToAction2 = await Astro.slots.render('callToAction2'),
   image = await Astro.slots.render('image'),
 } = Astro.props;
+
+const PACMAN_DURATION = 12;
+const DOTS = Array.from({ length: 14 }, (_, i) => {
+  const leftPercent = 4 + (92 * i) / 13;
+  return { name: `dot-eaten-${i}`, leftPercent };
+});
+const dotKeyframesCSS = DOTS.map(
+  (dot) => `
+  @keyframes ${dot.name} {
+    0%, ${Math.max(dot.leftPercent - 1, 0)}% { opacity: 1; transform: scale(1); }
+    ${dot.leftPercent}%, 100% { opacity: 0; transform: scale(0); }
+  }`
+).join('\n');
 ---
 
 <section class="relative md:-mt-[76px] not-prose h-screen w-full overflow-hidden">
@@ -104,4 +117,73 @@ const {
 
     </div>
   </div>
+
+  <div class="pacman-track" aria-hidden="true">
+    {
+      DOTS.map((dot) => (
+        <div
+          class="pacman-dot"
+          style={`left: ${dot.leftPercent}%; animation: ${dot.name} ${PACMAN_DURATION}s linear infinite;`}
+        />
+      ))
+    }
+    <div class="pacman" />
+  </div>
 </section>
+
+<style set:html={dotKeyframesCSS} />
+
+<style define:vars={{ pacmanDuration: `${PACMAN_DURATION}s` }}>
+  .pacman-track {
+    position: absolute;
+    bottom: 32px;
+    left: 0;
+    width: 100%;
+    height: 48px;
+    z-index: 10;
+  }
+
+  .pacman-dot {
+    position: absolute;
+    top: 19px;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: #fff5e0;
+    box-shadow: 0 0 8px 2px rgba(228, 59, 125, 0.8);
+  }
+
+  .pacman {
+    position: absolute;
+    bottom: 0;
+    left: -60px;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #ff5211, #e43b7d, #4c3584);
+    box-shadow: 0 0 16px rgba(228, 59, 125, 0.6);
+    animation:
+      pacman-move var(--pacmanDuration) linear infinite,
+      pacman-chomp 0.4s linear infinite;
+  }
+
+  @keyframes pacman-move {
+    from {
+      left: -60px;
+    }
+    to {
+      left: calc(100% + 60px);
+    }
+  }
+
+  @keyframes pacman-chomp {
+    0%,
+    100% {
+      clip-path: polygon(100% 74%, 44% 48%, 100% 21%, 100% 0, 0 0, 0 100%, 100% 100%);
+    }
+    50% {
+      clip-path: polygon(100% 50%, 100% 50%, 100% 50%, 100% 0, 0 0, 0 100%, 100% 100%);
+    }
+  }
+
+</style>

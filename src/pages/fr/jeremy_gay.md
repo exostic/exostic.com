@@ -10,8 +10,8 @@ picture: '/jeremy-gay.jpg'
 ### Compétences techniques
 
 - **Développement:** DDD, TDD, Programmation Orientée Objet, Clean Architecture, Architecture Hexagonale, Event Sourcing, CQRS, MVC, Tests Unitaires, Tests d'intégration
-- **Frontend Web:** ReactJS, HTML5, API Canvas, API Son, WebRTC, WebSocket, CSS/CSS3, Responsive Design, Sass, Less, Webpack
-- **Frontend Mobile:** React Native, Expo, Déploiement IOS, Déploiement Android,
+- **Frontend Web:** ReactJS, VueJS, HTML5, API Canvas, API Son, WebRTC, WebSocket, CSS/CSS3, Responsive Design, Sass, Less, Webpack
+- **Frontend Mobile:** React Native, Ionic, Expo, Capacitor, Déploiement IOS, Déploiement Android,
 - **Backend:** NodeJS, Express, NestJS, GraphQL, NextJS, Hasura
 - **BDD:** MongoDB, Redis, DynamoDB, PostgreSQL, InfluxDB, DynamoDB
 - **Securité:** OAuth, JWToken, ACL, IAM, VPN, Private Network, Secrets Managers, IAM, Keycloak
@@ -22,28 +22,51 @@ picture: '/jeremy-gay.jpg'
 - **Protocoles IOT:** LoRa, MQTT, IPSO, Cayenne
 - **Langages:** TypeScript, JavaScript, Bash, Python, Julia, Ruby On Rails, Rust, C, C++
 - **Servers:** Nginx, Apache, Traefik, FastAPI, ExpressJS
-- **Data:** Metabase, DBT, Workflows
+- **Data:** Metabase, DBT, Workflows, Google Cloud Dataflow, Apache Airflow, Looker
 - **Administration Linux**
 
 ### Langues
 
 - **Français**: Natif
 - **Anglais**: Écrit, lu, parlé
-- **Espagnole**: Lu
+- **Espagnol**: Lu
 
 <div class="page-break-before"></div>
 
 ## Expériences
+### Senior Data Engineer chez **Shine**
+
+#### [https://www.shine.fr](https://www.shine.fr)
+
+#### *De avril 2025 à aujourd'hui*
+
+#### Réalisations
+
+- Projets data et développement en environnement bancaire
+
+#### Environnement technique
+
+- Google Cloud Dataflow, Apache Airflow, Looker, DBT, Python, TypeScript, Terraform
+
+### Projet **Mr Arthur** - Ingénieur Logiciel
+
+#### [https://mrarthur.io/](https://mrarthur.io)
+
+#### *De décembre 2024 à janvier 2025*
+
+#### Réalisations
+
+- Développement de l'application Android avec VueJS, Ionic et Capacitor  
 
 ### Projet **EDF** - Tech Lead
 
 #### [https://www.edf.fr/entreprises](https://www.edf.fr/entreprises)
 
-#### *De novembre 2023 à aujourd'hui*
+#### *De novembre 2023 à novembre 2024*
 
 #### Réalisations
 
-- Spécification produit ( Analyse, recherche des facteurs d'émission, règles de calculs, design d'API, cahier des charges fonctionnels )
+- Spécification produit (Analyse, recherche des facteurs d'émission, règles de calcul, design d'API, cahier des charges fonctionnel)
 - Analyse et définition de l'architecture
 - Mise en place d'un pipeline d'intégration continue et de déploiement continue avec les outils de sécurité et de tests (DevSecOps)
 - Développement et sécurisation d'une API NodeJS et TypeScript grâce aux principes de clean architecture, DDD et TDD
@@ -51,16 +74,17 @@ picture: '/jeremy-gay.jpg'
 - Formation Kubernetes et OpenShift
 - Documentation
 - Scripts et analyses Big Data
+- Recherches sur les API Salesforce et leurs utilisations dans l'intelligence artificielle
 
 #### Environnement technique
 
-- Kubernetes, OpenShift, Trivy, SonarQube, Docker, Gitlab, AWS, Gitlab CI/CD, NodeJS, TypeScript, Python, Jest
+- Kubernetes, OpenShift, Trivy, SonarQube, Docker, Gitlab, AWS, Gitlab CI/CD, NodeJS, TypeScript, Python, Jest, Saleforce
 
 ### Projet **Enedis** - Ingénieur Logiciel
 
 #### [https://www.enedis.fr](https://www.enedis.fr)
 
-#### *De juillet 2024 à aout 2024*
+#### *De juillet 2024 à septembre 2024*
 
 #### Réalisations
 
@@ -169,8 +193,8 @@ picture: '/jeremy-gay.jpg'
 
 #### Réalisations
 
-- État de l'art du marché de l'loT
-- Définition du besoin, spécifications et définiition d'un object connecté
+- État de l'art du marché de l'IoT
+- Définition du besoin, spécifications et définition d'un objet connecté
 - Développement d'une plateforme dédiée à la conception d'objets connectées
 - Communication (logo, site web, contenu, animation)
 
@@ -186,9 +210,9 @@ picture: '/jeremy-gay.jpg'
 
 #### Réalisations
 
-- Spécification/Conception/Développement d'une platforme de gestion de services IoT en temps réel appliquée aux vehicules
-- Création de services de mobilité en temps réel utilisables dans la plateforme (ex :réservation de parking dans les vehicules, utilisations du
-  télépéages, analyse de contexte liées au différents comportements du conducteur, problèmatiques de sécurité liées à l'utilisation des écrans dans les habitacles)
+- Spécification/Conception/Développement d'une plateforme de gestion de services IoT en temps réel appliquée aux véhicules
+- Création de services de mobilité en temps réel utilisables dans la plateforme (ex : réservation de parking dans les véhicules, utilisation du
+  télépéage, analyses de contexte liées aux différents comportements du conducteur, problématiques de sécurité liées à l'utilisation des écrans dans les habitacles)
 - Ergonomie et développement des interfaces embarquées dans les vehicules
 - Création d'un système de facturation et de paiement "on the fly" (mobile et car embedded)
 - Développement en architecture microservices et serverless AWS
@@ -204,7 +228,7 @@ picture: '/jeremy-gay.jpg'
 
 #### Réalisations
 
-- Mise en place de l'architecture d'unframework MVC pour du monitoring en temps réel avec NodeJS, PassportJS, ExpressJS, Angular, Redis via Caminte (ORM cross-db). Mocha et SocketiO
+- Mise en place de l'architecture d'un framework MVC pour du monitoring en temps réel avec NodeJS, PassportJS, ExpressJS, Angular, Redis via Caminte (ORM cross-db), Mocha et Socket.IO
 - Mise en place d'une activité de formation pour les débutants (demandeur d'emploi, jeune en reconversion, etc) sur la programmation
 - Création d'applications mobiles(type webapps) avec frontend AngularJS et backend NodeJS/MongoDB/ExpressJS/PhantomJS
 - DevOps avec Nginx, synchronisation ftp, cron, mise en place d'https, déploiement continu avec git
@@ -233,9 +257,9 @@ picture: '/jeremy-gay.jpg'
 #### Environnement technique
 
 - Emploi en télétravail sous environnement Mac/Linux.
-- Utilisation de Nodejistsu, ParseJs, Heroku, Git, Mailchimp et de Skype pour le peer programming
-- Git, Ssh, ftp, Sublime Text
-- Côté serveur : NodeJS, Require)s, ExpressJS, SocketIO, MongoDB, Mocha, SinonJS, PhantomJS
+- Utilisation de Nodejitsu, Parse.js, Heroku, Git, Mailchimp et de Skype pour le peer programming
+- Git, SSH, FTP, Sublime Text
+- Côté serveur : NodeJS, RequireJS, ExpressJS, Socket.IO, MongoDB, Mocha, SinonJS, PhantomJS
 - Programmation MVC, OOP, Ruby On Rails, Gems
 - Côté client : HTML/HTML5, Canvas, JavaScript (OOP), JQuery, RequireJS, KnockoutJS, CSS/CSS3
 - NodeJS, ExpressJS, SocketIO, AngularJS, Redis, Mocha, PassportJS, PhantomJS, NGINX, Linux Debian
@@ -270,7 +294,7 @@ picture: '/jeremy-gay.jpg'
 
 #### Environnement technique
 
-- Relativité générale, Cosmologie, C, C+
+- Relativité générale, Cosmologie, C, C++
 
 ## Formation
 
