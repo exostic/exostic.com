@@ -298,9 +298,9 @@
   }
 }
 
-/* ---------- Freelance profile: cards, steps, timeline, tags ---------- */
+/* ---------- Rich resume layout (freelance profile and detailed resume) ---------- */
 
-.resume-freelance h2.rf-title {
+.resume-rich h2.rf-title {
   display: inline-block;
   margin: 3rem 0 1.25rem;
   font-size: 1.75rem;
@@ -313,11 +313,11 @@
   color: transparent;
 }
 
-.resume-freelance .prose h2.rf-title:first-child {
+.resume-rich .prose h2.rf-title:first-child {
   margin-top: 3rem;
 }
 
-.resume-freelance .rf-lead {
+.resume-rich .rf-lead {
   margin-top: 0;
   font-size: 1.125rem;
 }
@@ -472,6 +472,34 @@
   color: #00a2e8;
 }
 
+.rf-site {
+  font-size: 0.875rem;
+  color: #60a5fa;
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+}
+
+.rf-env {
+  margin-top: 0.75rem;
+  padding: 0.6rem 0.9rem;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 0.5rem;
+  background: var(--bg-panel);
+}
+
+.rf-env-label {
+  margin-bottom: 0.25rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #93c5fd;
+}
+
+.rf-mission .rf-env ul {
+  font-size: 0.9375rem;
+}
+
 .rf-date {
   margin-left: auto;
   padding: 0.125rem 0.625rem;
@@ -539,7 +567,7 @@
 }
 
 @media (min-width: 768px) {
-  .resume-freelance h2.rf-title {
+  .resume-rich h2.rf-title {
     font-size: 2rem;
   }
   .rf-offers {
@@ -551,7 +579,7 @@
 }
 
 @media print {
-  .resume-freelance h2.rf-title {
+  .resume-rich h2.rf-title {
     background: none;
     color: #7924c9;
     -webkit-text-fill-color: #7924c9;
@@ -603,6 +631,16 @@
     border-color: #999;
     color: #000;
   }
+  .rf-site {
+    color: #1d4ed8;
+  }
+  .rf-env {
+    background: #fff;
+    border-color: #ccc;
+  }
+  .rf-env-label {
+    color: #555;
+  }
 }
 
 /* ---------- Freelance profile: compact print layout ---------- */
@@ -617,80 +655,80 @@
     margin: 12mm 12mm 14mm;
   }
 
-  .resume-freelance {
+  .resume-rich {
     margin-top: 0 !important;
   }
 
-  .resume-freelance .resume-head {
+  .resume-rich .resume-head {
     gap: 0.5rem;
   }
 
-  .resume-freelance .resume-head h1 {
+  .resume-rich .resume-head h1 {
     font-size: 2rem;
   }
 
-  .resume-freelance .resume-head h2.resume-subtitle {
+  .resume-rich .resume-head h2.resume-subtitle {
     font-size: 1.1rem;
   }
 
-  .resume-freelance .resume-contacts {
+  .resume-rich .resume-contacts {
     margin-top: 0.75rem;
   }
 
-  .resume-freelance .resume-head img {
+  .resume-rich .resume-head img {
     width: 7rem;
     height: 7rem;
     margin: 0;
   }
 
-  .resume-freelance .resume-facts {
+  .resume-rich .resume-facts {
     grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 0.5rem 1.25rem;
     margin-top: 1rem;
     padding: 0.75rem 1rem;
   }
 
-  .resume-freelance .resume-facts dt {
+  .resume-rich .resume-facts dt {
     font-size: 9px;
     margin-bottom: 0.1rem;
   }
 
-  .resume-freelance .resume-facts dd {
+  .resume-rich .resume-facts dd {
     font-size: 11px;
     line-height: 1.4;
   }
 
-  .resume-freelance h2.rf-title {
+  .resume-rich h2.rf-title {
     margin: 1.1rem 0 0.5rem;
     font-size: 1.3rem;
     break-after: avoid;
     page-break-after: avoid;
   }
 
-  .resume-freelance .prose {
+  .resume-rich .prose {
     margin-top: 0.25rem;
     font-size: 11px;
     line-height: 1.5;
   }
 
-  .resume-freelance .prose h2.rf-title:first-child {
+  .resume-rich .prose h2.rf-title:first-child {
     margin-top: 1.1rem;
   }
 
-  .resume-freelance .rf-lead {
+  .resume-rich .rf-lead {
     font-size: 11.5px;
   }
 
-  .resume-freelance .prose ul {
+  .resume-rich .prose ul {
     margin: 0.3em 0;
   }
 
-  .resume-freelance .prose li {
+  .resume-rich .prose li {
     margin: 0.15em 0;
     font-size: 11px !important;
   }
 
-  .resume-freelance .page-break-before {
+  .resume-rich .page-break-before {
     page-break-before: auto;
     break-before: auto;
   }
@@ -789,6 +827,23 @@
     line-height: 16px;
   }
 
+  .rf-site {
+    font-size: 10px;
+  }
+
+  .rf-env {
+    margin-top: 0.3rem;
+    padding: 0.3rem 0.6rem;
+  }
+
+  .rf-env-label {
+    font-size: 9px;
+  }
+
+  .rf-mission .rf-env ul {
+    font-size: 10px;
+  }
+
   .rf-mission ul {
     padding-left: 1rem;
     font-size: 11px;
@@ -821,24 +876,24 @@
     font-size: 9.5px;
   }
 
-  .resume-freelance .resume-cta {
+  .resume-rich .resume-cta {
     margin-top: 1rem;
     padding: 0.75rem;
     break-inside: avoid;
     page-break-inside: avoid;
   }
 
-  .resume-freelance .resume-cta h2 {
+  .resume-rich .resume-cta h2 {
     margin-bottom: 0.25rem;
     font-size: 14px;
   }
 
-  .resume-freelance .resume-cta p {
+  .resume-rich .resume-cta p {
     margin-bottom: 0.5rem;
     font-size: 11px;
   }
 
-  .resume-freelance .resume-cta .btn {
+  .resume-rich .resume-cta .btn {
     padding: 0.3rem 0.75rem;
     font-size: 11px;
   }

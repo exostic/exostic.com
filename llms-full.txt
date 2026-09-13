@@ -152,6 +152,14 @@ Technologies
 
 ![Nuage de mots des technologies Exostic : DEV, TypeScript, JavaScript, Node.js, Kubernetes, AWS, DevOps, microservices, DDD](/assets/img/technos-768.webp)
 
+![Portrait de Jérémy Gay](/assets/img/jeremy-gay.jpg)
+
+Le fondateur
+
+## Jérémy Gay, Tech Lead et développeur sénior
+
+14 ans de développement fullstack, DevOps et data pour des grands groupes, des scale-ups et des startups. Disponible en mission, sur place ou à distance.
+
 ---
 
 <!-- CV Jérémy Gay (FR) — https://exostic.com/fr/jeremy_gay -->
@@ -160,69 +168,201 @@ Technologies
 
 ## Tech Lead / Développeur Sénior
 
+LinkedIn : linkedin.com/in/jeremygay22 · Rendez-vous : calendly.com/jeremy-exostic/30min · CV en ligne : exostic.com/fr/jeremy_gay
+
 ![Portrait de Jérémy Gay](/assets/img/jeremy-gay.jpg)
 
-## Résumé des compétences
+- **Expérience** 14 ans de développement, 10 ans de direction technique et d'entrepreneuriat
+- **Poste actuel** Senior Data Engineer chez Shine, depuis avril 2025
+- **Localisation** Châtelaillon-Plage, près de La Rochelle · à distance partout en France
+- **Langues** Français natif · Anglais écrit, lu, parlé · Espagnol lu
+## Compétences
 
-### Compétences techniques
+### Développement
 
-- Développement: DDD, TDD, Programmation Orientée Objet, Clean Architecture, Architecture Hexagonale, Event Sourcing, CQRS, MVC, Tests Unitaires, Tests d'intégration
-- Frontend Web: ReactJS, VueJS, HTML5, API Canvas, API Son, WebRTC, WebSocket, CSS/CSS3, Responsive Design, Sass, Less, Webpack
-- Frontend Mobile: React Native, Ionic, Expo, Capacitor, Déploiement IOS, Déploiement Android,
-- Backend: NodeJS, Express, NestJS, GraphQL, NextJS, Hasura
-- BDD: MongoDB, Redis, DynamoDB, PostgreSQL, InfluxDB, DynamoDB
-- Securité: OAuth, JWToken, ACL, IAM, VPN, Private Network, Secrets Managers, IAM, Keycloak
-- DevOps: Git, Gitlab, Github, Kubernetes, Terraform, Helm, Docker, Docker Compose, Docker Swarm, GNU/Linux, CloudFormation, Code Pipeline
-- Infrastructures: AWS, Google Cloud Platform, OpenShift, OVH, Digital Ocean, Bare Metal
-- Amazon Web Services: EKS,VPC, Aurora DB, Route53, EC2, Autoscaler, CloudFormation, CloudFront, Lambda, S3, ELB, Amazon Elastic Transcoder
-- Monitoring: Prometeus, Grafana, Kibana, CloudWatch, Loki
-- Protocoles IOT: LoRa, MQTT, IPSO, Cayenne
-- Langages: TypeScript, JavaScript, Bash, Python, Julia, Ruby On Rails, Rust, C, C++
-- Servers: Nginx, Apache, Traefik, FastAPI, ExpressJS
-- Data: Google Cloud Dataflow, Apache Airflow, DBT, Looker, Metabase, Workflows, pipelines de données, détection de fraude, conformité bancaire
-- Administration Linux :
+- DDD
+- TDD
+- Programmation Orientée Objet
+- Clean Architecture
+- Architecture Hexagonale
+- Event Sourcing
+- CQRS
+- MVC
+- Tests Unitaires
+- Tests d'intégration
 
-### Langues
+### Frontend Web
 
-- Français : Natif
-- Anglais : Écrit, lu, parlé
-- Espagnol : Lu
+- ReactJS
+- VueJS
+- HTML5
+- API Canvas
+- API Son
+- WebRTC
+- WebSocket
+- CSS/CSS3
+- Responsive Design
+- Sass
+- Less
+- Webpack
+
+### Frontend Mobile
+
+- React Native
+- Ionic
+- Expo
+- Capacitor
+- Déploiement IOS
+- Déploiement Android
+
+### Backend
+
+- NodeJS
+- Express
+- NestJS
+- GraphQL
+- NextJS
+- Hasura
+
+### BDD
+
+- MongoDB
+- Redis
+- DynamoDB
+- PostgreSQL
+- InfluxDB
+
+### Securité
+
+- OAuth
+- JWToken
+- ACL
+- IAM
+- VPN
+- Private Network
+- Secrets Managers
+- Keycloak
+
+### DevOps
+
+- Git
+- Gitlab
+- Github
+- Kubernetes
+- Terraform
+- Helm
+- Docker
+- Docker Compose
+- Docker Swarm
+- GNU/Linux
+- CloudFormation
+- Code Pipeline
+- Administration Linux
+
+### Infrastructures
+
+- AWS
+- Google Cloud Platform
+- OpenShift
+- OVH
+- Digital Ocean
+- Bare Metal
+
+### Amazon Web Services
+
+- EKS
+- VPC
+- Aurora DB
+- Route53
+- EC2
+- Autoscaler
+- CloudFormation
+- CloudFront
+- Lambda
+- S3
+- ELB
+- Amazon Elastic Transcoder
+
+### Monitoring
+
+- Prometeus
+- Grafana
+- Kibana
+- CloudWatch
+- Loki
+
+### Protocoles IOT
+
+- LoRa
+- MQTT
+- IPSO
+- Cayenne
+
+### Langages
+
+- TypeScript
+- JavaScript
+- Bash
+- Python
+- Julia
+- Ruby On Rails
+- Rust
+- C
+- C++
+
+### Servers
+
+- Nginx
+- Apache
+- Traefik
+- FastAPI
+- ExpressJS
+
+### Data
+
+- Google Cloud Dataflow
+- Apache Airflow
+- DBT
+- Looker
+- Metabase
+- Workflows
+- pipelines de données
+- détection de fraude
+- conformité bancaire
 
 ## Expériences
 
-### Senior Data Engineer chez Shine
+### Shine
 
-#### https://www.shine.fr (https://www.shine.fr)
+Senior Data Engineer
 
-#### De avril 2025 à aujourd'hui
-
-#### Réalisations
+De avril 2025 à aujourd'hui
 
 - Amélioration des systèmes de détection de fraude bancaire
 - Projets data au service de la conformité réglementaire (compliance)
 - Conception et exploitation de pipelines de données avec Google Cloud Dataflow, Apache Airflow et DBT, restitution dans Looker
 
-#### Environnement technique
+- Google Cloud Dataflow
+- Apache Airflow
+- Looker
+- DBT
+- Python
+- TypeScript
+- Terraform
 
-- Google Cloud Dataflow, Apache Airflow, Looker, DBT, Python, TypeScript, Terraform
+### Mr Arthur
 
-### Projet Mr Arthur - Ingénieur Logiciel
+Ingénieur Logiciel
 
-#### https://mrarthur.io/ (https://mrarthur.io)
-
-#### De décembre 2024 à janvier 2025
-
-#### Réalisations
+De décembre 2024 à janvier 2025
 
 - Développement de l'application Android avec VueJS, Ionic et Capacitor
 
-### Projet EDF - Tech Lead
+### EDF
 
-#### https://www.edf.fr/entreprises (https://www.edf.fr/entreprises)
+Tech Lead
 
-#### De novembre 2023 à novembre 2024
-
-#### Réalisations
+De novembre 2023 à novembre 2024
 
 - Spécification produit (Analyse, recherche des facteurs d'émission, règles de calcul, design d'API, cahier des charges fonctionnel)
 - Analyse et définition de l'architecture
@@ -234,33 +374,45 @@ Technologies
 - Scripts et analyses Big Data
 - Recherches sur les API Salesforce et leurs utilisations dans l'intelligence artificielle
 
-#### Environnement technique
+- Kubernetes
+- OpenShift
+- Trivy
+- SonarQube
+- Docker
+- Gitlab
+- AWS
+- Gitlab CI/CD
+- NodeJS
+- TypeScript
+- Python
+- Jest
+- Saleforce
 
-- Kubernetes, OpenShift, Trivy, SonarQube, Docker, Gitlab, AWS, Gitlab CI/CD, NodeJS, TypeScript, Python, Jest, Saleforce
+### Enedis
 
-### Projet Enedis - Ingénieur Logiciel
+Ingénieur Logiciel
 
-#### https://www.enedis.fr (https://www.enedis.fr)
-
-#### De juillet 2024 à septembre 2024
-
-#### Réalisations
+De juillet 2024 à septembre 2024
 
 - Création d'un tableau de bord d'analyse
 - Réalisation de simulations à base d'agents
 - Lien entre l'analyse et la simulation
 
-#### Environnement technique
+- ReactJS
+- NodeJS
+- Julia
+- Agent.jl
+- Docker
+- GeoJson
+- Leaflet
+- H3
+- .h5
 
-- ReactJS, NodeJS, Julia, Agent.jl, Docker, GeoJson, Leaflet, H3, .h5
+### Exostic
 
-### CEO et Tech Lead chez EXOSTIC
+CEO et Tech Lead
 
-#### exostic.com (https://exostic.com)
-
-#### De juin 2015 à Maintenant
-
-#### Réalisations
+De juin 2015 à aujourd'hui
 
 - Formateur à l'IMEI, Centrale Nantes, sociétés privées et mentoring individuel (MongoDB, Linux, Git, ReactJS, CSS, JavaScript)
 - Aide à la création d'entreprise dans le web
@@ -273,17 +425,25 @@ Technologies
 - Création d'un crawler de site pour du growth hacking
 - Création et administration de EXOSTIC SAS
 
-#### Environnement technique
+- ReactJS
+- Redux
+- AngularJS
+- Webpack
+- ES6
+- NodeJS
+- CasperJS
+- SpookyJS
+- MongoDB
+- WebSockets
+- Unity
+- NGINX
+- Ubuntu
 
-- ReactJS, Redux, AngularJS, Webpack, ES6, NodeJS, CasperJS, SpookyJS, MongoDB, WebSockets, Unity, NGINX, Ubuntu
+### Totem
 
-### Tech Lead / Ingenieur Produit chez TOTEM
+Tech Lead / Ingenieur Produit
 
-#### www.totem.co (https://www.totem.co/)
-
-#### De janvier 2021 à septembre 2022
-
-#### Réalisations
+De janvier 2021 à septembre 2022
 
 - Amélioration du système de paiement
 - Création de workshop pour les développeurs
@@ -298,34 +458,63 @@ Technologies
 - Mise en place de monitoring
 - Mise en place de cache
 
-#### Environnement technique
+- TypeScrypt
+- React Native
+- Expo
+- ReactJS
+- Atomic Design
+- Jest
+- Cypress
+- NodeJS
+- GraphQL
+- Apollo
+- Kubernetes
+- Docker
+- Digital Ocean
+- GitHub Actions
+- Bash
+- MongoDB
+- PostgreSQL
+- Redis
+- Python
+- DBT
+- Metabase
+- Grafana
+- Prometheus
+- OpenTelemetry
 
-- TypeScrypt, React Native, Expo, ReactJS, Atomic Design, Jest, Cypress, NodeJS, GraphQL, Apollo, Kubernetes, Docker, Digital Ocean, GitHub Actions, Bash, MongoDB, PostgreSQL, Redis, Python, DBT, Metabase, Grafana, Prometheus, OpenTelemetry
+### Preligens
 
-### Développeur / DevOps chez PRELIGENS
+Développeur / DevOps
 
-#### preligens.com (https://preligens.com)
-
-#### De octobre 2020 à décembre 2020
-
-#### Réalisations
+De octobre 2020 à décembre 2020
 
 - Création d'architecture logiciel Cloud
 - Mise en place d'un environnement de déploiement continue avec Github Actions et Docker Swarm
 - Déploiement d'infrastructure AWS avec Terraform
 - Scripts Python
 
-#### Environnement technique
+- Git
+- Github
+- Bash
+- Python
+- Docker
+- Docker Swarm
+- Traefik
+- AWS (VPC
+- EC2
+- DynamoDB
+- S3)
+- Terraform
+- Kibana
+- ElasticSearch
+- Tor
 
-- Git, Github, Bash, Python, Docker, Docker Swarm, Traefik, AWS (VPC, EC2, DynamoDB, S3), Terraform, Kibana, ElasticSearch, Tor
+### Kidizz
 
-### Projet KIDIZZ - Développeur / DevOps
+Développeur / DevOps
 
-#### kidizz.com (https://kidizz.com)
-
-#### De décembre 2018 à septembre 2020
-
-#### Réalisations
+De décembre 2018 à septembre 2020
 
 - Création d'architecture logiciel Cloud
 - Mise en place d'un environnement de déploiement continue ave Git, Gitlab, Kubernetes, Docker, EKS, AWS
@@ -340,32 +529,64 @@ Technologies
 - Sécurité/Réseaux (SSL, Réseau privé, Load Balancers, Outils d'alerte, Gestion des DNS, Antiflood)
 - Déploiement multi AZ / Geo balancing
 
-#### Environnement technique
+- Git
+- Gitlab
+- Kubernetes
+- Docker
+- NodeJS
+- Auth2 Service
+- JWT tokens
+- ACL
+- Roles management
+- Ruby On Rails
+- PostgreSQL
+- Redis
+- Bash
+- AWS (EKS
+- VPC
+- Route53
+- EC2
+- Autoscaler
+- CloudFront
+- Lambda
+- S3
+- ELB
+- Aurora
+- Amazon Elastic Transcoder
 
-- Git, Gitlab, Kubernetes, Docker, NodeJS, Auth2 Service, JWT tokens, ACL, Roles management, Ruby On Rails, PostgreSQL, Redis, Bash, AWS (EKS, VPC, Route53, EC2, Autoscaler, CloudFront, Lambda, S3, ELB, Aurora, Amazon Elastic Transcoder, ).
+### ALOES
 
-### Projet ALOES - Développeur R&D
+Développeur R&D
 
-#### De janvier 2017 à janvier 2019
-
-#### Réalisations
+De janvier 2017 à janvier 2019
 
 - État de l'art du marché de l'IoT
 - Définition du besoin, spécifications et définition d'un objet connecté
 - Développement d'une plateforme dédiée à la conception d'objets connectées
 - Communication (logo, site web, contenu, animation)
 
-#### Environnement technique
+- HTML5
+- Canvas
+- JavaScript
+- ReactJS
+- Plotly
+- Highcharts
+- NodeJs
+- HTTP
+- MQTT
+- Lora
+- Cayenne
+- IPSO
+- MySensors
+- ESP8266
+- Arduino
+- C++
 
-- HTML5, Canvas, JavaScript, ReactJS, Plotly, Highcharts, NodeJs, HTTP, MQTT, Lora, Cayenne, IPSO, MySensors, ESP8266, Arduino, C++
+### Free2Move
 
-### Projet FREE2MOVE - Développeur / Ingénieur R&D
+Développeur / Ingénieur R&D
 
-#### www.free2move.com (https://www.free2move.com/)
-
-#### De mars 2017 à avril 2018
-
-#### Réalisations
+De mars 2017 à avril 2018
 
 - Spécification/Conception/Développement d'une plateforme de gestion de services IoT en temps réel appliquée aux véhicules
 - Création de services de mobilité en temps réel utilisables dans la plateforme (ex : réservation de parking dans les véhicules, utilisation du télépéage, analyses de contexte liées aux différents comportements du conducteur, problématiques de sécurité liées à l'utilisation des écrans dans les habitacles)
@@ -373,32 +594,49 @@ Technologies
 - Création d'un système de facturation et de paiement "on the fly" (mobile et car embedded)
 - Développement en architecture microservices et serverless AWS
 
-#### Environnement technique
+- ReactJS
+- Redux
+- NodeJS
+- NodeRED
+- Redis
+- AWS (EC2
+- Lambda
+- CloudFormation
+- Route53
+- DynamoDB
+- SNS
+- VPC
+- Cognito
+- ELB)
+- Docker
 
-- ReactJS, Redux, NodeJS, NodeRED, Redis, AWS (EC2, Lambda, CloudFormation, Route53, DynamoDB, SNS, VPC, Cognito, ELB), Docker
+### Freelance
 
-### Développeur-Concepteur-Formateur JavaScript en FREELANCE
+Développeur-Concepteur-Formateur JavaScript
 
-#### De Aout2014 à Juin 2015
-
-#### Réalisations
+De août 2014 à juin 2015
 
 - Mise en place de l'architecture d'un framework MVC pour du monitoring en temps réel avec NodeJS, PassportJS, ExpressJS, Angular, Redis via Caminte (ORM cross-db), Mocha et Socket.IO
 - Mise en place d'une activité de formation pour les débutants (demandeur d'emploi, jeune en reconversion, etc) sur la programmation
 - Création d'applications mobiles(type webapps) avec frontend AngularJS et backend NodeJS/MongoDB/ExpressJS/PhantomJS
 - DevOps avec Nginx, synchronisation ftp, cron, mise en place d'https, déploiement continu avec git
 
-#### Environnement technique
+- NodeJS
+- ExpressJS
+- SocketIO
+- AngularJS
+- Redis
+- Mocha
+- PassportJS
+- PhantomJS
+- NGINX
+- Linux Debian
 
-- NodeJS, ExpressJS, SocketIO, AngularJS, Redis, Mocha, PassportJS, PhantomJS, NGINX, Linux Debian
+### Toxicode
 
-### Développeur-Concepteur-Formateur JavaScript/Ruby on Rails chez TOXICODE
+Développeur-Concepteur-Formateur JavaScript/Ruby on Rails
 
-#### www.toxicode.fr (https://www.toxicode.fr/)
-
-#### De Février 2012 à Juillet 2014
-
-#### Réalisations
+De février 2012 à juillet 2014
 
 - Développement d'un framework de jeux multijoueurs en temps réel via NodeJS
 - Création d'un jeu d'apprentissage de la programmation à travers l'intelligence et la manipulation de robot
@@ -409,7 +647,7 @@ Technologies
 - Création de vidéos pédagogiques (contenus, montage, diffusion)
 - Mise en place d'articles sur l'explication de la programmation
 
-#### Environnement technique
+Environnement technique
 
 - Emploi en télétravail sous environnement Mac/Linux.
 - Utilisation de Nodejitsu, Parse.js, Heroku, Git, Mailchimp et de Skype pour le peer programming
@@ -419,36 +657,35 @@ Technologies
 - Côté client : HTML/HTML5, Canvas, JavaScript (OOP), JQuery, RequireJS, KnockoutJS, CSS/CSS3
 - NodeJS, ExpressJS, SocketIO, AngularJS, Redis, Mocha, PassportJS, PhantomJS, NGINX, Linux Debian
 
-### Professeur de Mathématiques et Physique chez ACADOMIA
+### Acadomia
 
-#### www.acadomia.fr (https://www.acadomia.fr/)
+Professeur de Mathématiques et Physique
 
-#### de 2010 à 2011
-
-#### Réalisations
+De 2010 à 2011
 
 - Accompagnement d'étudiants de la primaire jusqu'au BTS en Mathématiques et Physique
 
-### Stagiaire développeur chez WIMO
+### Wimo
 
-#### de juin 2011 à aout 2011
+Stagiaire développeur
 
-#### Réalisations
+De juin 2011 à août 2011
 
 - Refonte du site Web
 - Conception et développement d'une aide en ligne pour el logiciel de communication unifié Com-On
 
-### Stagiaire physicien/développeur au LABORATOIRE DE PHYSIQUE THÉORIQUE D'ORSAY
+### Laboratoire de physique théorique d'Orsay
 
-#### de juin 2008 à aout 2008
+Stagiaire physicien/développeur
 
-#### Réalisations
+De juin 2008 à août 2008
 
 - Création d'un programme en C/C++ simulant les différents scénarios d'inflation à plusieurs champs
 
-#### Environnement technique
-
-- Relativité générale, Cosmologie, C, C++
+- Relativité générale
+- Cosmologie
+- C
+- C++
 
 ## Formation
 
@@ -458,11 +695,17 @@ Technologies
 - 2007 Math Sup / Math Spé Lycée Léonce Vieljeux La Rochelle
 - 2005 Bac STI Génie Mécanique Lycée Léonce Vieljeux La Rochelle
 
-## Centre d'intérêts
+## Centres d'intérêt
 
 - Voyages
 - Photographie
 - Musique (Guitare, Basse)
+
+## Un besoin, une mission ?
+
+Parlons-en 30 minutes, sans engagement. Une version synthétique orientée mission est disponible sur le profil freelance.
+
+calendly.com/jeremy-exostic/30min · jeremy@exostic.com · +33 6 78 14 96 81 · exostic.com/fr/jeremy_gay_freelance
 
 ---
 
@@ -472,7 +715,7 @@ Technologies
 
 ## Tech Lead freelance · Fullstack, DevOps & Data
 
-Rendez-vous : calendly.com/jeremy-exostic/30min · Profil en ligne : exostic.com/fr/jeremy_gay_freelance
+LinkedIn : linkedin.com/in/jeremygay22 · Rendez-vous : calendly.com/jeremy-exostic/30min · Profil en ligne : exostic.com/fr/jeremy_gay_freelance
 
 ![Portrait de Jérémy Gay](/assets/img/jeremy-gay.jpg)
 
@@ -987,6 +1230,14 @@ Technologies
 
 ![Word cloud of Exostic technologies: DEV, TypeScript, JavaScript, Node.js, Kubernetes, AWS, DevOps, microservices, DDD](/assets/img/technos-768.webp)
 
+![Portrait of Jérémy Gay](/assets/img/jeremy-gay.jpg)
+
+The founder
+
+## Jérémy Gay, Tech Lead and senior developer
+
+14 years of fullstack, DevOps and data development for large companies, scale-ups and startups. Available for assignments, on site or remotely.
+
 ---
 
 <!-- Jérémy Gay resume (EN) — https://exostic.com/en/jeremy_gay -->
@@ -995,69 +1246,201 @@ Technologies
 
 ## Tech Lead / Senior Developer
 
+LinkedIn: linkedin.com/in/jeremygay22 · Book a call: calendly.com/jeremy-exostic/30min · Online resume: exostic.com/en/jeremy_gay
+
 ![Portrait of Jérémy Gay](/assets/img/jeremy-gay.jpg)
 
-## Skills Summary
+- **Experience** 14 years of software development, 10 years of technical leadership and entrepreneurship
+- **Current position** Senior Data Engineer at Shine, since April 2025
+- **Location** Châtelaillon-Plage, near La Rochelle, France · remote across France
+- **Languages** French native · English written, read, spoken · Spanish read
+## Skills
 
-### Technical Skills
+### Development
 
-- Development: DDD, TDD, Object-Oriented Programming, Clean Architecture, Hexagonal Architecture, Event Sourcing, CQRS, MVC, Unit Testing, Integration Testing
-- Frontend Web: ReactJS, VueJS, HTML5, Canvas API, Audio API, WebRTC, WebSocket, CSS/CSS3, Responsive Design, Sass, Less, Webpack
-- Frontend Mobile: React Native, Ionic, Expo, Capacitor, IOS Deployment, Android Deployment
-- Backend: NodeJS, Express, NestJS, GraphQL, NextJS, Hasura
-- Databases: MongoDB, Redis, DynamoDB, PostgreSQL, InfluxDB, DynamoDB
-- Security: OAuth, JWToken, ACL, IAM, VPN, Private Network, Secrets Managers, IAM, Keycloak
-- DevOps: Git, Gitlab, Github, Kubernetes, Terraform, Helm, Docker, Docker Compose, Docker Swarm, GNU/Linux, CloudFormation, Code Pipeline
-- Infrastructure: AWS, Google Cloud Platform, OpenShift, OVH, Digital Ocean, Bare Metal
-- Amazon Web Services: EKS, VPC, Aurora DB, Route53, EC2, Autoscaler, CloudFormation, CloudFront, Lambda, S3, ELB, Amazon Elastic Transcoder
-- Monitoring: Prometheus, Grafana, Kibana, CloudWatch, Loki
-- IOT Protocols: LoRa, MQTT, IPSO, Cayenne
-- Languages: TypeScript, JavaScript, Bash, Python, Julia, Ruby On Rails, Rust, C, C++
-- Servers: Nginx, Apache, Traefik, FastAPI, ExpressJS
-- Data: Google Cloud Dataflow, Apache Airflow, DBT, Looker, Metabase, Workflows, data pipelines, fraud detection, banking compliance
-- Linux Administration :
+- DDD
+- TDD
+- Object-Oriented Programming
+- Clean Architecture
+- Hexagonal Architecture
+- Event Sourcing
+- CQRS
+- MVC
+- Unit Testing
+- Integration Testing
+
+### Frontend Web
+
+- ReactJS
+- VueJS
+- HTML5
+- Canvas API
+- Audio API
+- WebRTC
+- WebSocket
+- CSS/CSS3
+- Responsive Design
+- Sass
+- Less
+- Webpack
+
+### Frontend Mobile
+
+- React Native
+- Ionic
+- Expo
+- Capacitor
+- IOS Deployment
+- Android Deployment
+
+### Backend
+
+- NodeJS
+- Express
+- NestJS
+- GraphQL
+- NextJS
+- Hasura
+
+### Databases
+
+- MongoDB
+- Redis
+- DynamoDB
+- PostgreSQL
+- InfluxDB
+
+### Security
+
+- OAuth
+- JWToken
+- ACL
+- IAM
+- VPN
+- Private Network
+- Secrets Managers
+- Keycloak
+
+### DevOps
+
+- Git
+- Gitlab
+- Github
+- Kubernetes
+- Terraform
+- Helm
+- Docker
+- Docker Compose
+- Docker Swarm
+- GNU/Linux
+- CloudFormation
+- Code Pipeline
+- Linux Administration
+
+### Infrastructure
+
+- AWS
+- Google Cloud Platform
+- OpenShift
+- OVH
+- Digital Ocean
+- Bare Metal
+
+### Amazon Web Services
+
+- EKS
+- VPC
+- Aurora DB
+- Route53
+- EC2
+- Autoscaler
+- CloudFormation
+- CloudFront
+- Lambda
+- S3
+- ELB
+- Amazon Elastic Transcoder
+
+### Monitoring
+
+- Prometheus
+- Grafana
+- Kibana
+- CloudWatch
+- Loki
+
+### IOT Protocols
+
+- LoRa
+- MQTT
+- IPSO
+- Cayenne
 
 ### Languages
 
-- French : Native
-- English : Written, read, spoken
-- Spanish : Read
+- TypeScript
+- JavaScript
+- Bash
+- Python
+- Julia
+- Ruby On Rails
+- Rust
+- C
+- C++
+
+### Servers
+
+- Nginx
+- Apache
+- Traefik
+- FastAPI
+- ExpressJS
+
+### Data
+
+- Google Cloud Dataflow
+- Apache Airflow
+- DBT
+- Looker
+- Metabase
+- Workflows
+- data pipelines
+- fraud detection
+- banking compliance
 
 ## Experience
 
-### Senior Data Engineer at Shine
+### Shine
 
-#### https://www.shine.fr (https://www.shine.fr)
+Senior Data Engineer
 
-#### From April 2025 to present
-
-#### Achievements
+From April 2025 to present
 
 - Improvement of banking fraud detection systems
 - Data projects supporting regulatory compliance
 - Design and operation of data pipelines with Google Cloud Dataflow, Apache Airflow and DBT, reporting in Looker
 
-#### Technical Environment
+- Google Cloud Dataflow
+- Apache Airflow
+- Looker
+- DBT
+- Python
+- TypeScript
+- Terraform
 
-- Google Cloud Dataflow, Apache Airflow, Looker, DBT, Python, TypeScript, Terraform
+### Mr Arthur
 
-### Project Mr Arthur - Software Engineer
+Software Engineer
 
-#### https://mrarthur.io/ (https://mrarthur.io)
-
-#### From December 2024 to January 2025
-
-#### Achievements
+From December 2024 to January 2025
 
 - Development of Android application with VueJS, Ionic and Capacitor
 
-### Project EDF - Tech Lead
+### EDF
 
-#### https://www.edf.fr/entreprises (https://www.edf.fr/entreprises)
+Tech Lead
 
-#### From November 2023 to November 2024
-
-#### Achievements
+From November 2023 to November 2024
 
 - Product specification (Analysis, emission factors research, calculation rules, API design, functional specifications)
 - Architecture analysis and definition
@@ -1069,33 +1452,45 @@ Technologies
 - Big Data scripts and analysis
 - Research on Salesforce APIs and their use in artificial intelligence
 
-#### Technical Environment
+- Kubernetes
+- OpenShift
+- Trivy
+- SonarQube
+- Docker
+- Gitlab
+- AWS
+- Gitlab CI/CD
+- NodeJS
+- TypeScript
+- Python
+- Jest
+- Salesforce
 
-- Kubernetes, OpenShift, Trivy, SonarQube, Docker, Gitlab, AWS, Gitlab CI/CD, NodeJS, TypeScript, Python, Jest, Salesforce
+### Enedis
 
-### Project Enedis - Software Engineer
+Software Engineer
 
-#### https://www.enedis.fr (https://www.enedis.fr)
-
-#### From July 2024 to September 2024
-
-#### Achievements
+From July 2024 to September 2024
 
 - Creation of an analysis dashboard
 - Implementation of agent-based simulations
 - Connection between analysis and simulation
 
-#### Technical Environment
+- ReactJS
+- NodeJS
+- Julia
+- Agent.jl
+- Docker
+- GeoJson
+- Leaflet
+- H3
+- .h5
 
-- ReactJS, NodeJS, Julia, Agent.jl, Docker, GeoJson, Leaflet, H3, .h5
+### Exostic
 
-### CEO and Tech Lead at EXOSTIC
+CEO and Tech Lead
 
-#### exostic.com (https://exostic.com)
-
-#### From June 2015 to Present
-
-#### Achievements
+From June 2015 to present
 
 - Trainer at IMEI, Centrale Nantes, private companies and individual mentoring (MongoDB, Linux, Git, ReactJS, CSS, JavaScript)
 - Web business creation assistance
@@ -1108,17 +1503,25 @@ Technologies
 - Creation of a site crawler for growth hacking
 - Creation and administration of EXOSTIC SAS
 
-#### Technical Environment
+- ReactJS
+- Redux
+- AngularJS
+- Webpack
+- ES6
+- NodeJS
+- CasperJS
+- SpookyJS
+- MongoDB
+- WebSockets
+- Unity
+- NGINX
+- Ubuntu
 
-- ReactJS, Redux, AngularJS, Webpack, ES6, NodeJS, CasperJS, SpookyJS, MongoDB, WebSockets, Unity, NGINX, Ubuntu
+### Totem
 
-### Tech Lead / Product Engineer at TOTEM
+Tech Lead / Product Engineer
 
-#### www.totem.co (https://www.totem.co/)
-
-#### From January 2021 to September 2022
-
-#### Achievements
+From January 2021 to September 2022
 
 - Payment system improvement
 - Creation of developer workshops
@@ -1133,34 +1536,63 @@ Technologies
 - Monitoring implementation
 - Cache implementation
 
-#### Technical Environment
+- TypeScript
+- React Native
+- Expo
+- ReactJS
+- Atomic Design
+- Jest
+- Cypress
+- NodeJS
+- GraphQL
+- Apollo
+- Kubernetes
+- Docker
+- Digital Ocean
+- GitHub Actions
+- Bash
+- MongoDB
+- PostgreSQL
+- Redis
+- Python
+- DBT
+- Metabase
+- Grafana
+- Prometheus
+- OpenTelemetry
 
-- TypeScript, React Native, Expo, ReactJS, Atomic Design, Jest, Cypress, NodeJS, GraphQL, Apollo, Kubernetes, Docker, Digital Ocean, GitHub Actions, Bash, MongoDB, PostgreSQL, Redis, Python, DBT, Metabase, Grafana, Prometheus, OpenTelemetry
+### Preligens
 
-### Developer / DevOps at PRELIGENS
+Developer / DevOps
 
-#### preligens.com (https://preligens.com)
-
-#### From October 2020 to December 2020
-
-#### Achievements
+From October 2020 to December 2020
 
 - Creation of Cloud software architecture
 - Implementation of continuous deployment environment with Github Actions and Docker Swarm
 - AWS infrastructure deployment with Terraform
 - Python scripts
 
-#### Technical Environment
+- Git
+- Github
+- Bash
+- Python
+- Docker
+- Docker Swarm
+- Traefik
+- AWS (VPC
+- EC2
+- DynamoDB
+- S3)
+- Terraform
+- Kibana
+- ElasticSearch
+- Tor
 
-- Git, Github, Bash, Python, Docker, Docker Swarm, Traefik, AWS (VPC, EC2, DynamoDB, S3), Terraform, Kibana, ElasticSearch, Tor
+### Kidizz
 
-### Project KIDIZZ - Developer / DevOps
+Developer / DevOps
 
-#### kidizz.com (https://kidizz.com)
-
-#### From December 2018 to September 2020
-
-#### Achievements
+From December 2018 to September 2020
 
 - Creation of Cloud software architecture
 - Implementation of continuous deployment environment with Git, Gitlab, Kubernetes, Docker, EKS, AWS
@@ -1175,32 +1607,64 @@ Technologies
 - Security/Networks (SSL, Private Network, Load Balancers, Alert Tools, DNS Management, Antiflood)
 - Multi AZ deployment / Geo balancing
 
-#### Technical Environment
+- Git
+- Gitlab
+- Kubernetes
+- Docker
+- NodeJS
+- Auth2 Service
+- JWT tokens
+- ACL
+- Roles management
+- Ruby On Rails
+- PostgreSQL
+- Redis
+- Bash
+- AWS (EKS
+- VPC
+- Route53
+- EC2
+- Autoscaler
+- CloudFront
+- Lambda
+- S3
+- ELB
+- Aurora
+- Amazon Elastic Transcoder
 
-- Git, Gitlab, Kubernetes, Docker, NodeJS, Auth2 Service, JWT tokens, ACL, Roles management, Ruby On Rails, PostgreSQL, Redis, Bash, AWS (EKS, VPC, Route53, EC2, Autoscaler, CloudFront, Lambda, S3, ELB, Aurora, Amazon Elastic Transcoder)
+### ALOES
 
-### Project ALOES - R&D Developer
+R&D Developer
 
-#### From January 2017 to January 2019
-
-#### Achievements
+From January 2017 to January 2019
 
 - IoT market state of the art
 - Need definition, specifications and connected object definition
 - Development of a platform dedicated to connected objects design
 - Communication (logo, website, content, animation)
 
-#### Technical Environment
+- HTML5
+- Canvas
+- JavaScript
+- ReactJS
+- Plotly
+- Highcharts
+- NodeJs
+- HTTP
+- MQTT
+- Lora
+- Cayenne
+- IPSO
+- MySensors
+- ESP8266
+- Arduino
+- C++
 
-- HTML5, Canvas, JavaScript, ReactJS, Plotly, Highcharts, NodeJs, HTTP, MQTT, Lora, Cayenne, IPSO, MySensors, ESP8266, Arduino, C++
+### Free2Move
 
-### Project FREE2MOVE - Developer / R&D Engineer
+Developer / R&D Engineer
 
-#### www.free2move.com (https://www.free2move.com/)
-
-#### From March 2017 to April 2018
-
-#### Achievements
+From March 2017 to April 2018
 
 - Specification/Design/Development of a real-time IoT services management platform applied to vehicles
 - Creation of real-time mobility services usable in the platform (e.g., parking reservation in vehicles, toll system usage, context analysis related to different driver behaviors, security issues related to screen usage in vehicle cabins)
@@ -1208,32 +1672,49 @@ Technologies
 - Creation of an "on the fly" billing and payment system (mobile and car embedded)
 - Development in microservices and AWS serverless architecture
 
-#### Technical Environment
+- ReactJS
+- Redux
+- NodeJS
+- NodeRED
+- Redis
+- AWS (EC2
+- Lambda
+- CloudFormation
+- Route53
+- DynamoDB
+- SNS
+- VPC
+- Cognito
+- ELB)
+- Docker
 
-- ReactJS, Redux, NodeJS, NodeRED, Redis, AWS (EC2, Lambda, CloudFormation, Route53, DynamoDB, SNS, VPC, Cognito, ELB), Docker
+### Freelance
 
-### JavaScript Developer-Designer-Trainer as FREELANCE
+JavaScript Developer-Designer-Trainer
 
-#### From August 2014 to June 2015
-
-#### Achievements
+From August 2014 to June 2015
 
 - Implementation of MVC framework architecture for real-time monitoring with NodeJS, PassportJS, ExpressJS, Angular, Redis via Caminte (cross-db ORM), Mocha and Socket.IO
 - Setting up training activities for beginners (job seekers, young people in career change, etc.) in programming
 - Creation of mobile applications (webapp type) with AngularJS frontend and NodeJS/MongoDB/ExpressJS/PhantomJS backend
 - DevOps with Nginx, ftp synchronization, cron, https setup, continuous deployment with git
 
-#### Technical Environment
+- NodeJS
+- ExpressJS
+- SocketIO
+- AngularJS
+- Redis
+- Mocha
+- PassportJS
+- PhantomJS
+- NGINX
+- Linux Debian
 
-- NodeJS, ExpressJS, SocketIO, AngularJS, Redis, Mocha, PassportJS, PhantomJS, NGINX, Linux Debian
+### Toxicode
 
-### JavaScript/Ruby on Rails Developer-Designer-Trainer at TOXICODE
+JavaScript/Ruby on Rails Developer-Designer-Trainer
 
-#### www.toxicode.fr (https://www.toxicode.fr/)
-
-#### From February 2012 to July 2014
-
-#### Achievements
+From February 2012 to July 2014
 
 - Development of a real-time multiplayer games framework via NodeJS
 - Creation of a programming learning game through robot intelligence and manipulation
@@ -1244,7 +1725,7 @@ Technologies
 - Creation of educational videos (content, editing, distribution)
 - Implementation of articles explaining programming concepts
 
-#### Technical Environment
+Technical Environment
 
 - Remote work in Mac/Linux environment
 - Use of Nodejitsu, Parse.js, Heroku, Git, Mailchimp and Skype for peer programming
@@ -1253,36 +1734,35 @@ Technologies
 - MVC Programming, OOP, Ruby On Rails, Gems
 - Client side: HTML/HTML5, Canvas, JavaScript (OOP), JQuery, RequireJS, KnockoutJS, CSS/CSS3
 
-### Mathematics and Physics Teacher at ACADOMIA
+### Acadomia
 
-#### www.acadomia.fr (https://www.acadomia.fr/)
+Mathematics and Physics Teacher
 
-#### from 2010 to 2011
-
-#### Achievements
+From 2010 to 2011
 
 - Tutoring students from primary school to BTS level in Mathematics and Physics
 
-### Developer Intern at WIMO
+### Wimo
 
-#### from June 2011 to August 2011
+Developer Intern
 
-#### Achievements
+From June 2011 to August 2011
 
 - Website redesign
 - Design and development of online help for the Com-On unified communication software
 
-### Physicist/Developer Intern at LABORATORY OF THEORETICAL PHYSICS OF ORSAY
+### Laboratory of Theoretical Physics, Orsay
 
-#### from June 2008 to August 2008
+Physicist/Developer Intern
 
-#### Achievements
+From June 2008 to August 2008
 
 - Creation of a C/C++ program simulating different multi-field inflation scenarios
 
-#### Technical Environment
-
-- General Relativity, Cosmology, C, C++
+- General Relativity
+- Cosmology
+- C
+- C++
 
 ## Education
 
@@ -1298,6 +1778,12 @@ Technologies
 - Photography
 - Music (Guitar, Bass)
 
+## A need, an assignment?
+
+Let's talk for 30 minutes, no strings attached. A shorter, assignment-oriented version is available on the freelance profile.
+
+calendly.com/jeremy-exostic/30min · jeremy@exostic.com · +33 6 78 14 96 81 · exostic.com/en/jeremy_gay_freelance
+
 ---
 
 <!-- Jérémy Gay freelance profile (EN) — https://exostic.com/en/jeremy_gay_freelance -->
@@ -1306,7 +1792,7 @@ Technologies
 
 ## Freelance Tech Lead · Fullstack, DevOps & Data
 
-Book a call: calendly.com/jeremy-exostic/30min · Online profile: exostic.com/en/jeremy_gay_freelance
+LinkedIn: linkedin.com/in/jeremygay22 · Book a call: calendly.com/jeremy-exostic/30min · Online profile: exostic.com/en/jeremy_gay_freelance
 
 ![Portrait of Jérémy Gay](/assets/img/jeremy-gay.jpg)
 
