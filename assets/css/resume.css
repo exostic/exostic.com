@@ -1,0 +1,215 @@
+/* Resume / CV pages */
+
+.resume {
+  max-width: 56rem;
+  margin: 4rem auto 0;
+  padding: 4rem 1rem;
+}
+
+@media (min-width: 640px) {
+  .resume {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .resume {
+    padding: 5rem 2rem;
+  }
+}
+
+.resume-head {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.resume-head h1 {
+  font-size: 2.25rem;
+}
+
+.resume-head h2 {
+  margin-top: 0.25rem;
+  font-size: 1.875rem;
+  color: var(--primary);
+}
+
+.resume-contacts {
+  margin-top: 1.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.resume-head img {
+  width: 11rem;
+  height: 11rem;
+  margin: 0.75rem 0;
+  border-radius: 9999px;
+  object-fit: cover;
+}
+
+@media (min-width: 768px) {
+  .resume-head h1 {
+    font-size: 3rem;
+  }
+}
+
+/* prose */
+
+.prose {
+  margin-top: 2rem;
+  font-size: 1.125rem;
+  line-height: 1.7777778;
+  color: #d1d5db;
+}
+
+.prose h2 {
+  margin: 1.8em 0 0.6em;
+  font-size: 2em;
+  line-height: 1.2;
+  text-transform: uppercase;
+  color: #7924c9;
+}
+
+.prose h3 {
+  margin: 1.6em 0 0.5em;
+  font-size: 1.3333333em;
+  line-height: 1.4;
+  color: #00a2e8;
+}
+
+.prose h4 {
+  margin: 1.4em 0 0.4em;
+  font-size: 1em;
+  line-height: 1.5;
+  color: #cbd5e1;
+}
+
+.prose h4 + h4 {
+  margin-top: 0.5em;
+}
+
+.prose h2:first-child {
+  margin-top: 0;
+}
+
+.prose p {
+  margin: 1.1em 0;
+}
+
+.prose ul {
+  margin: 0.8em 0;
+  padding-left: 1.6em;
+  list-style: disc;
+}
+
+.prose li {
+  margin: 0.4em 0;
+  padding-left: 0.4em;
+}
+
+.prose li::marker {
+  color: #6b7280;
+}
+
+.prose strong {
+  color: #fff;
+  font-weight: 600;
+}
+
+.prose a {
+  color: #60a5fa;
+  text-decoration: underline;
+  font-weight: 500;
+}
+
+.prose em {
+  font-style: italic;
+}
+
+/* print */
+
+@media print {
+  html {
+    font-size: 12px;
+  }
+
+  body {
+    background: #fff;
+    color: #000;
+  }
+
+  header,
+  footer,
+  .print-window {
+    display: none !important;
+  }
+
+  .resume {
+    margin-top: 40px !important;
+    padding: 0 !important;
+    max-width: none;
+  }
+
+  .resume-head h1 {
+    color: #000;
+  }
+
+  .prose {
+    color: #000;
+  }
+
+  .prose h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px !important;
+  }
+
+  .prose h3 {
+    color: #00a2e8;
+  }
+
+  .prose h4 {
+    font-size: 12px !important;
+    color: #000;
+  }
+
+  .prose li {
+    font-size: 12px !important;
+    margin-top: 3px;
+    margin-bottom: 3px;
+  }
+
+  .prose li > strong {
+    color: #000 !important;
+    font-weight: 900;
+  }
+
+  .prose strong {
+    color: #000;
+  }
+
+  .prose p {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+  }
+
+  .prose a {
+    color: #1d4ed8;
+  }
+
+  .page-break-before {
+    page-break-before: always;
+    break-before: page;
+    clear: both;
+  }
+
+  .btn {
+    color: #f707a8 !important;
+    background: #fff !important;
+    border: 1px solid #f707a8 !important;
+    box-shadow: none;
+  }
+}
