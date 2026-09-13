@@ -23,7 +23,7 @@ Site bilingue : le français est la langue principale (https://exostic.com/), un
 
 ## Domaines métier
 
-Logistique, e-commerce, jeux vidéo, Internet des objets (IoT), apprentissage / éducation, réseaux sociaux, Big Data, ressources humaines, défense (OSINT, GEOINT, cartographie, détection par IA).
+Logistique, e-commerce, jeux vidéo, Internet des objets (IoT), apprentissage / éducation, réseaux sociaux, Big Data, ressources humaines, défense (OSINT, GEOINT, cartographie, détection par IA), banque et fintech (conformité réglementaire, détection de fraude, pipelines de données).
 
 ## Solutions
 

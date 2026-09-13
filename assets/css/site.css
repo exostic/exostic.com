@@ -939,39 +939,6 @@ h4 {
   margin: 0 auto 3rem;
 }
 
-/* Technologies: indexable text list next to the word-cloud picture */
-.tech-list {
-  max-width: var(--container);
-  margin: 0 auto;
-  padding: 0 1rem 3rem;
-}
-
-.tech-intro {
-  max-width: 42rem;
-  margin: 0 auto 1.5rem;
-  text-align: center;
-  color: var(--text-soft);
-}
-
-.tech-list ul {
-  list-style: none;
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(18rem, 1fr));
-  gap: 1rem 2rem;
-}
-
-.tech-list li {
-  font-size: 0.9375rem;
-  line-height: 1.5rem;
-  color: var(--text-soft);
-}
-
-.tech-list strong {
-  display: block;
-  font-weight: 600;
-  color: #fff;
-}
-
 .footer-links {
   font-size: 0.875rem;
 }

@@ -82,6 +82,10 @@ Qualification des besoins et des profils, matching et sourcing de candidats.
 
 OSINT, GEOINT, cartographie et détection par intelligence artificielle.
 
+### Banque & fintech
+
+Conformité réglementaire, détection de fraude, pipelines de données et reporting en environnement bancaire.
+
 ### Votre métier...
 
 Découverte de votre domaine métier : concepts, processus, cas d'usage et événements clés.
@@ -148,19 +152,6 @@ Technologies
 
 ![Nuage de mots des technologies Exostic : DEV, TypeScript, JavaScript, Node.js, Kubernetes, AWS, DevOps, microservices, DDD](/assets/img/technos-768.webp)
 
-Les technologies que nous mettons en œuvre au quotidien, choisies pour leur robustesse et leur adéquation à votre projet.
-
-- Langages : TypeScript, JavaScript, Python, Rust, C, C++, Julia, Ruby, Bash
-- Front-end : React, Vue.js, HTML5, CSS3, Sass, WebSocket, WebRTC, Canvas, Webpack
-- Mobile : React Native, Expo, Ionic, Capacitor, déploiement iOS et Android
-- Back-end : Node.js, NestJS, Express, GraphQL, Next.js, Hasura, FastAPI, Ruby on Rails
-- Bases de données : PostgreSQL, MongoDB, Redis, DynamoDB, InfluxDB
-- Cloud & DevOps : AWS (EKS, Lambda, S3, CloudFront, Aurora, Route 53), Kubernetes, Docker, Terraform, Helm, GitLab CI/CD, OpenShift, OVH
-- Architecture & méthodes : DDD, Clean Architecture, architecture hexagonale, CQRS, Event Sourcing, TDD, microservices
-- Sécurité : OAuth 2, JWT, Keycloak, IAM, ACL, gestion des secrets
-- IoT : LoRa, MQTT, IPSO, Cayenne
-- Supervision & data : Prometheus, Grafana, Loki, Kibana, CloudWatch, Metabase, dbt, Apache Airflow
-
 ---
 
 <!-- CV Jérémy Gay (FR) — https://exostic.com/fr/jeremy_gay -->
@@ -175,20 +166,20 @@ Les technologies que nous mettons en œuvre au quotidien, choisies pour leur rob
 
 ### Compétences techniques
 
-- Développement: : DDD, TDD, Programmation Orientée Objet, Clean Architecture, Architecture Hexagonale, Event Sourcing, CQRS, MVC, Tests Unitaires, Tests d'intégration
-- Frontend Web: : ReactJS, VueJS, HTML5, API Canvas, API Son, WebRTC, WebSocket, CSS/CSS3, Responsive Design, Sass, Less, Webpack
-- Frontend Mobile: : React Native, Ionic, Expo, Capacitor, Déploiement IOS, Déploiement Android,
-- Backend: : NodeJS, Express, NestJS, GraphQL, NextJS, Hasura
-- BDD: : MongoDB, Redis, DynamoDB, PostgreSQL, InfluxDB, DynamoDB
-- Securité: : OAuth, JWToken, ACL, IAM, VPN, Private Network, Secrets Managers, IAM, Keycloak
-- DevOps: : Git, Gitlab, Github, Kubernetes, Terraform, Helm, Docker, Docker Compose, Docker Swarm, GNU/Linux, CloudFormation, Code Pipeline
-- Infrastructures: : AWS, OpenShift, OVH, Digital Ocean, Bare Metal
-- Amazon Web Services: : EKS,VPC, Aurora DB, Route53, EC2, Autoscaler, CloudFormation, CloudFront, Lambda, S3, ELB, Amazon Elastic Transcoder
-- Monitoring: : Prometeus, Grafana, Kibana, CloudWatch, Loki
-- Protocoles IOT: : LoRa, MQTT, IPSO, Cayenne
-- Langages: : TypeScript, JavaScript, Bash, Python, Julia, Ruby On Rails, Rust, C, C++
-- Servers: : Nginx, Apache, Traefik, FastAPI, ExpressJS
-- Data: : Metabase, DBT, Workflows, Google Cloud Dataflow, Apache Airflow, Looker
+- Développement: DDD, TDD, Programmation Orientée Objet, Clean Architecture, Architecture Hexagonale, Event Sourcing, CQRS, MVC, Tests Unitaires, Tests d'intégration
+- Frontend Web: ReactJS, VueJS, HTML5, API Canvas, API Son, WebRTC, WebSocket, CSS/CSS3, Responsive Design, Sass, Less, Webpack
+- Frontend Mobile: React Native, Ionic, Expo, Capacitor, Déploiement IOS, Déploiement Android,
+- Backend: NodeJS, Express, NestJS, GraphQL, NextJS, Hasura
+- BDD: MongoDB, Redis, DynamoDB, PostgreSQL, InfluxDB, DynamoDB
+- Securité: OAuth, JWToken, ACL, IAM, VPN, Private Network, Secrets Managers, IAM, Keycloak
+- DevOps: Git, Gitlab, Github, Kubernetes, Terraform, Helm, Docker, Docker Compose, Docker Swarm, GNU/Linux, CloudFormation, Code Pipeline
+- Infrastructures: AWS, Google Cloud Platform, OpenShift, OVH, Digital Ocean, Bare Metal
+- Amazon Web Services: EKS,VPC, Aurora DB, Route53, EC2, Autoscaler, CloudFormation, CloudFront, Lambda, S3, ELB, Amazon Elastic Transcoder
+- Monitoring: Prometeus, Grafana, Kibana, CloudWatch, Loki
+- Protocoles IOT: LoRa, MQTT, IPSO, Cayenne
+- Langages: TypeScript, JavaScript, Bash, Python, Julia, Ruby On Rails, Rust, C, C++
+- Servers: Nginx, Apache, Traefik, FastAPI, ExpressJS
+- Data: Google Cloud Dataflow, Apache Airflow, DBT, Looker, Metabase, Workflows, pipelines de données, détection de fraude, conformité bancaire
 - Administration Linux :
 
 ### Langues
@@ -199,7 +190,7 @@ Les technologies que nous mettons en œuvre au quotidien, choisies pour leur rob
 
 ## Expériences
 
-### Senior Data Engineer chez Shine :
+### Senior Data Engineer chez Shine
 
 #### https://www.shine.fr (https://www.shine.fr)
 
@@ -207,13 +198,15 @@ Les technologies que nous mettons en œuvre au quotidien, choisies pour leur rob
 
 #### Réalisations
 
-- Projets data et développement en environnement bancaire
+- Amélioration des systèmes de détection de fraude bancaire
+- Projets data au service de la conformité réglementaire (compliance)
+- Conception et exploitation de pipelines de données avec Google Cloud Dataflow, Apache Airflow et DBT, restitution dans Looker
 
 #### Environnement technique
 
 - Google Cloud Dataflow, Apache Airflow, Looker, DBT, Python, TypeScript, Terraform
 
-### Projet Mr Arthur : - Ingénieur Logiciel
+### Projet Mr Arthur - Ingénieur Logiciel
 
 #### https://mrarthur.io/ (https://mrarthur.io)
 
@@ -223,7 +216,7 @@ Les technologies que nous mettons en œuvre au quotidien, choisies pour leur rob
 
 - Développement de l'application Android avec VueJS, Ionic et Capacitor
 
-### Projet EDF : - Tech Lead
+### Projet EDF - Tech Lead
 
 #### https://www.edf.fr/entreprises (https://www.edf.fr/entreprises)
 
@@ -245,7 +238,7 @@ Les technologies que nous mettons en œuvre au quotidien, choisies pour leur rob
 
 - Kubernetes, OpenShift, Trivy, SonarQube, Docker, Gitlab, AWS, Gitlab CI/CD, NodeJS, TypeScript, Python, Jest, Saleforce
 
-### Projet Enedis : - Ingénieur Logiciel
+### Projet Enedis - Ingénieur Logiciel
 
 #### https://www.enedis.fr (https://www.enedis.fr)
 
@@ -284,7 +277,7 @@ Les technologies que nous mettons en œuvre au quotidien, choisies pour leur rob
 
 - ReactJS, Redux, AngularJS, Webpack, ES6, NodeJS, CasperJS, SpookyJS, MongoDB, WebSockets, Unity, NGINX, Ubuntu
 
-### Tech Lead / Ingenieur Produit chez TOTEM :
+### Tech Lead / Ingenieur Produit chez TOTEM
 
 #### www.totem.co (https://www.totem.co/)
 
@@ -309,7 +302,7 @@ Les technologies que nous mettons en œuvre au quotidien, choisies pour leur rob
 
 - TypeScrypt, React Native, Expo, ReactJS, Atomic Design, Jest, Cypress, NodeJS, GraphQL, Apollo, Kubernetes, Docker, Digital Ocean, GitHub Actions, Bash, MongoDB, PostgreSQL, Redis, Python, DBT, Metabase, Grafana, Prometheus, OpenTelemetry
 
-### Développeur / DevOps chez PRELIGENS :
+### Développeur / DevOps chez PRELIGENS
 
 #### preligens.com (https://preligens.com)
 
@@ -326,7 +319,7 @@ Les technologies que nous mettons en œuvre au quotidien, choisies pour leur rob
 
 - Git, Github, Bash, Python, Docker, Docker Swarm, Traefik, AWS (VPC, EC2, DynamoDB, S3), Terraform, Kibana, ElasticSearch, Tor
 
-### Projet KIDIZZ : - Développeur / DevOps
+### Projet KIDIZZ - Développeur / DevOps
 
 #### kidizz.com (https://kidizz.com)
 
@@ -351,7 +344,7 @@ Les technologies que nous mettons en œuvre au quotidien, choisies pour leur rob
 
 - Git, Gitlab, Kubernetes, Docker, NodeJS, Auth2 Service, JWT tokens, ACL, Roles management, Ruby On Rails, PostgreSQL, Redis, Bash, AWS (EKS, VPC, Route53, EC2, Autoscaler, CloudFront, Lambda, S3, ELB, Aurora, Amazon Elastic Transcoder, ).
 
-### Projet ALOES : - Développeur R&D
+### Projet ALOES - Développeur R&D
 
 #### De janvier 2017 à janvier 2019
 
@@ -366,7 +359,7 @@ Les technologies que nous mettons en œuvre au quotidien, choisies pour leur rob
 
 - HTML5, Canvas, JavaScript, ReactJS, Plotly, Highcharts, NodeJs, HTTP, MQTT, Lora, Cayenne, IPSO, MySensors, ESP8266, Arduino, C++
 
-### Projet FREE2MOVE : - Développeur / Ingénieur R&D
+### Projet FREE2MOVE - Développeur / Ingénieur R&D
 
 #### www.free2move.com (https://www.free2move.com/)
 
@@ -551,6 +544,10 @@ Needs and profile qualification, candidate matching and sourcing.
 
 OSINT, GEOINT, mapping and AI-based detection.
 
+### Banking & fintech
+
+Regulatory compliance, fraud detection, data pipelines and reporting in a banking environment.
+
 ### Your business...
 
 Discovery of your business domain: concepts, processes, use cases and key events.
@@ -617,19 +614,6 @@ Technologies
 
 ![Word cloud of Exostic technologies: DEV, TypeScript, JavaScript, Node.js, Kubernetes, AWS, DevOps, microservices, DDD](/assets/img/technos-768.webp)
 
-The technologies we work with every day, chosen for their robustness and their fit with your project.
-
-- Languages : TypeScript, JavaScript, Python, Rust, C, C++, Julia, Ruby, Bash
-- Front-end : React, Vue.js, HTML5, CSS3, Sass, WebSocket, WebRTC, Canvas, Webpack
-- Mobile : React Native, Expo, Ionic, Capacitor, iOS and Android deployment
-- Back-end : Node.js, NestJS, Express, GraphQL, Next.js, Hasura, FastAPI, Ruby on Rails
-- Databases : PostgreSQL, MongoDB, Redis, DynamoDB, InfluxDB
-- Cloud & DevOps : AWS (EKS, Lambda, S3, CloudFront, Aurora, Route 53), Kubernetes, Docker, Terraform, Helm, GitLab CI/CD, OpenShift, OVH
-- Architecture & methods : DDD, Clean Architecture, hexagonal architecture, CQRS, Event Sourcing, TDD, microservices
-- Security : OAuth 2, JWT, Keycloak, IAM, ACL, secrets management
-- IoT : LoRa, MQTT, IPSO, Cayenne
-- Monitoring & data : Prometheus, Grafana, Loki, Kibana, CloudWatch, Metabase, dbt, Apache Airflow
-
 ---
 
 <!-- Jérémy Gay resume (EN) — https://exostic.com/en/jeremy_gay -->
@@ -644,20 +628,20 @@ The technologies we work with every day, chosen for their robustness and their f
 
 ### Technical Skills
 
-- Development: : DDD, TDD, Object-Oriented Programming, Clean Architecture, Hexagonal Architecture, Event Sourcing, CQRS, MVC, Unit Testing, Integration Testing
-- Frontend Web: : ReactJS, VueJS, HTML5, Canvas API, Audio API, WebRTC, WebSocket, CSS/CSS3, Responsive Design, Sass, Less, Webpack
-- Frontend Mobile: : React Native, Ionic, Expo, Capacitor, IOS Deployment, Android Deployment
-- Backend: : NodeJS, Express, NestJS, GraphQL, NextJS, Hasura
-- Databases: : MongoDB, Redis, DynamoDB, PostgreSQL, InfluxDB, DynamoDB
-- Security: : OAuth, JWToken, ACL, IAM, VPN, Private Network, Secrets Managers, IAM, Keycloak
-- DevOps: : Git, Gitlab, Github, Kubernetes, Terraform, Helm, Docker, Docker Compose, Docker Swarm, GNU/Linux, CloudFormation, Code Pipeline
-- Infrastructure: : AWS, OpenShift, OVH, Digital Ocean, Bare Metal
-- Amazon Web Services: : EKS, VPC, Aurora DB, Route53, EC2, Autoscaler, CloudFormation, CloudFront, Lambda, S3, ELB, Amazon Elastic Transcoder
-- Monitoring: : Prometheus, Grafana, Kibana, CloudWatch, Loki
-- IOT Protocols: : LoRa, MQTT, IPSO, Cayenne
-- Languages: : TypeScript, JavaScript, Bash, Python, Julia, Ruby On Rails, Rust, C, C++
-- Servers: : Nginx, Apache, Traefik, FastAPI, ExpressJS
-- Data: : Metabase, DBT, Workflows, Google Cloud Dataflow, Apache Airflow, Looker
+- Development: DDD, TDD, Object-Oriented Programming, Clean Architecture, Hexagonal Architecture, Event Sourcing, CQRS, MVC, Unit Testing, Integration Testing
+- Frontend Web: ReactJS, VueJS, HTML5, Canvas API, Audio API, WebRTC, WebSocket, CSS/CSS3, Responsive Design, Sass, Less, Webpack
+- Frontend Mobile: React Native, Ionic, Expo, Capacitor, IOS Deployment, Android Deployment
+- Backend: NodeJS, Express, NestJS, GraphQL, NextJS, Hasura
+- Databases: MongoDB, Redis, DynamoDB, PostgreSQL, InfluxDB, DynamoDB
+- Security: OAuth, JWToken, ACL, IAM, VPN, Private Network, Secrets Managers, IAM, Keycloak
+- DevOps: Git, Gitlab, Github, Kubernetes, Terraform, Helm, Docker, Docker Compose, Docker Swarm, GNU/Linux, CloudFormation, Code Pipeline
+- Infrastructure: AWS, Google Cloud Platform, OpenShift, OVH, Digital Ocean, Bare Metal
+- Amazon Web Services: EKS, VPC, Aurora DB, Route53, EC2, Autoscaler, CloudFormation, CloudFront, Lambda, S3, ELB, Amazon Elastic Transcoder
+- Monitoring: Prometheus, Grafana, Kibana, CloudWatch, Loki
+- IOT Protocols: LoRa, MQTT, IPSO, Cayenne
+- Languages: TypeScript, JavaScript, Bash, Python, Julia, Ruby On Rails, Rust, C, C++
+- Servers: Nginx, Apache, Traefik, FastAPI, ExpressJS
+- Data: Google Cloud Dataflow, Apache Airflow, DBT, Looker, Metabase, Workflows, data pipelines, fraud detection, banking compliance
 - Linux Administration :
 
 ### Languages
@@ -668,7 +652,7 @@ The technologies we work with every day, chosen for their robustness and their f
 
 ## Experience
 
-### Senior Data Engineer at Shine :
+### Senior Data Engineer at Shine
 
 #### https://www.shine.fr (https://www.shine.fr)
 
@@ -676,13 +660,15 @@ The technologies we work with every day, chosen for their robustness and their f
 
 #### Achievements
 
-- Data and development projects in a banking environment
+- Improvement of banking fraud detection systems
+- Data projects supporting regulatory compliance
+- Design and operation of data pipelines with Google Cloud Dataflow, Apache Airflow and DBT, reporting in Looker
 
 #### Technical Environment
 
 - Google Cloud Dataflow, Apache Airflow, Looker, DBT, Python, TypeScript, Terraform
 
-### Project Mr Arthur : - Software Engineer
+### Project Mr Arthur - Software Engineer
 
 #### https://mrarthur.io/ (https://mrarthur.io)
 
@@ -692,7 +678,7 @@ The technologies we work with every day, chosen for their robustness and their f
 
 - Development of Android application with VueJS, Ionic and Capacitor
 
-### Project EDF : - Tech Lead
+### Project EDF - Tech Lead
 
 #### https://www.edf.fr/entreprises (https://www.edf.fr/entreprises)
 
@@ -714,7 +700,7 @@ The technologies we work with every day, chosen for their robustness and their f
 
 - Kubernetes, OpenShift, Trivy, SonarQube, Docker, Gitlab, AWS, Gitlab CI/CD, NodeJS, TypeScript, Python, Jest, Salesforce
 
-### Project Enedis : - Software Engineer
+### Project Enedis - Software Engineer
 
 #### https://www.enedis.fr (https://www.enedis.fr)
 
@@ -753,7 +739,7 @@ The technologies we work with every day, chosen for their robustness and their f
 
 - ReactJS, Redux, AngularJS, Webpack, ES6, NodeJS, CasperJS, SpookyJS, MongoDB, WebSockets, Unity, NGINX, Ubuntu
 
-### Tech Lead / Product Engineer at TOTEM :
+### Tech Lead / Product Engineer at TOTEM
 
 #### www.totem.co (https://www.totem.co/)
 
@@ -778,7 +764,7 @@ The technologies we work with every day, chosen for their robustness and their f
 
 - TypeScript, React Native, Expo, ReactJS, Atomic Design, Jest, Cypress, NodeJS, GraphQL, Apollo, Kubernetes, Docker, Digital Ocean, GitHub Actions, Bash, MongoDB, PostgreSQL, Redis, Python, DBT, Metabase, Grafana, Prometheus, OpenTelemetry
 
-### Developer / DevOps at PRELIGENS :
+### Developer / DevOps at PRELIGENS
 
 #### preligens.com (https://preligens.com)
 
@@ -795,7 +781,7 @@ The technologies we work with every day, chosen for their robustness and their f
 
 - Git, Github, Bash, Python, Docker, Docker Swarm, Traefik, AWS (VPC, EC2, DynamoDB, S3), Terraform, Kibana, ElasticSearch, Tor
 
-### Project KIDIZZ : - Developer / DevOps
+### Project KIDIZZ - Developer / DevOps
 
 #### kidizz.com (https://kidizz.com)
 
@@ -820,7 +806,7 @@ The technologies we work with every day, chosen for their robustness and their f
 
 - Git, Gitlab, Kubernetes, Docker, NodeJS, Auth2 Service, JWT tokens, ACL, Roles management, Ruby On Rails, PostgreSQL, Redis, Bash, AWS (EKS, VPC, Route53, EC2, Autoscaler, CloudFront, Lambda, S3, ELB, Aurora, Amazon Elastic Transcoder)
 
-### Project ALOES : - R&D Developer
+### Project ALOES - R&D Developer
 
 #### From January 2017 to January 2019
 
@@ -835,7 +821,7 @@ The technologies we work with every day, chosen for their robustness and their f
 
 - HTML5, Canvas, JavaScript, ReactJS, Plotly, Highcharts, NodeJs, HTTP, MQTT, Lora, Cayenne, IPSO, MySensors, ESP8266, Arduino, C++
 
-### Project FREE2MOVE : - Developer / R&D Engineer
+### Project FREE2MOVE - Developer / R&D Engineer
 
 #### www.free2move.com (https://www.free2move.com/)
 
