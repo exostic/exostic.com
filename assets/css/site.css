@@ -572,6 +572,7 @@ h4 {
 .pacman-track {
   --pac-size: 28px;
   --pac-dot: 6px;
+  --pac-duration: 7s;
   position: absolute;
   bottom: 24px;
   left: 0;
@@ -586,6 +587,7 @@ h4 {
   .pacman-track {
     --pac-size: 48px;
     --pac-dot: 10px;
+    --pac-duration: 12s;
     bottom: 32px;
   }
 }
@@ -599,7 +601,7 @@ h4 {
   border-radius: 50%;
   background: #fff5e0;
   box-shadow: 0 0 6px 1px rgba(228, 59, 125, 0.8);
-  animation-duration: 12s;
+  animation-duration: var(--pac-duration);
   animation-timing-function: linear;
   animation-iteration-count: infinite;
 }
@@ -614,7 +616,7 @@ h4 {
   border-radius: 50%;
   background: linear-gradient(135deg, #ff5211, #e43b7d, #4c3584);
   box-shadow: 0 0 calc(var(--pac-size) / 3) rgba(228, 59, 125, 0.6);
-  animation: pacman-move 12s linear infinite, pacman-chomp 0.4s linear infinite;
+  animation: pacman-move var(--pac-duration) linear infinite, pacman-chomp 0.4s linear infinite;
 }
 
 /* The mouth (right edge) travels from 0 to 100% of the track, so a dot at
