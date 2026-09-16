@@ -570,25 +570,35 @@ h4 {
 /* Pac-Man */
 
 .pacman-track {
+  --pac-size: 28px;
+  --pac-dot: 6px;
   position: absolute;
-  bottom: 32px;
+  bottom: 24px;
   left: 0;
   width: 100%;
-  height: 48px;
+  height: var(--pac-size);
   z-index: 10;
   pointer-events: none;
   container-type: inline-size;
 }
 
+@media (min-width: 768px) {
+  .pacman-track {
+    --pac-size: 48px;
+    --pac-dot: 10px;
+    bottom: 32px;
+  }
+}
+
 .pacman-dot {
   position: absolute;
-  top: 19px;
-  width: 10px;
-  height: 10px;
-  margin-left: -5px;
+  top: calc((var(--pac-size) - var(--pac-dot)) / 2);
+  width: var(--pac-dot);
+  height: var(--pac-dot);
+  margin-left: calc(var(--pac-dot) / -2);
   border-radius: 50%;
   background: #fff5e0;
-  box-shadow: 0 0 8px 2px rgba(228, 59, 125, 0.8);
+  box-shadow: 0 0 6px 1px rgba(228, 59, 125, 0.8);
   animation-duration: 12s;
   animation-timing-function: linear;
   animation-iteration-count: infinite;
@@ -599,11 +609,11 @@ h4 {
   bottom: 0;
   left: 0;
   will-change: transform;
-  width: 48px;
-  height: 48px;
+  width: var(--pac-size);
+  height: var(--pac-size);
   border-radius: 50%;
   background: linear-gradient(135deg, #ff5211, #e43b7d, #4c3584);
-  box-shadow: 0 0 16px rgba(228, 59, 125, 0.6);
+  box-shadow: 0 0 calc(var(--pac-size) / 3) rgba(228, 59, 125, 0.6);
   animation: pacman-move 12s linear infinite, pacman-chomp 0.4s linear infinite;
 }
 
